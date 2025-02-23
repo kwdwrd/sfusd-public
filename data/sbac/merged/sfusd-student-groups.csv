@@ -1,0 +1,59 @@
+demographic_id,demographic_dimension,demographic_name
+1,All Students,All Students
+128,Disability Status,Reported disabilities
+99,Disability Status,No reported disabilities
+31,Economic Status,Socioeconomically disadvantaged
+111,Economic Status,Not socioeconomically disadvantaged
+6,English-Language Fluency,"IFEP, RFEP, and EO (Fluent English proficient and English only)"
+7,English-Language Fluency,IFEP (Initial fluent English proficient)
+8,English-Language Fluency,RFEP (Reclassified fluent English proficient)
+120,English-Language Fluency,ELs enrolled less than 12 months
+142,English-Language Fluency,ELs enrolled 12 months or more
+160,English-Language Fluency,EL (English learner)
+243,English-Language Fluency,ADEL (Adult English learner)
+180,English-Language Fluency,EO (English only)
+170,English-Language Fluency,EverEL
+250,English-Language Fluency,LTEL (Long-Term English learner)
+251,English-Language Fluency,ARLTEL (At-Risk of becoming LTEL)
+252,English-Language Fluency,NeverEL
+190,English-Language Fluency,TBD (To be determined)
+75,Race and Ethnicity,American Indian or Alaska Native
+76,Race and Ethnicity,Asian
+74,Race and Ethnicity,Black or African American
+77,Race and Ethnicity,Filipino
+78,Race and Ethnicity,Hispanic or Latino
+79,Race and Ethnicity,Native Hawaiian or Pacific Islander
+80,Race and Ethnicity,White
+144,Race and Ethnicity,Two or more races
+201,Ethnicity for Economically Disadvantaged,American Indian or Alaska Native
+202,Ethnicity for Economically Disadvantaged,Asian
+200,Ethnicity for Economically Disadvantaged,Black or African American
+203,Ethnicity for Economically Disadvantaged,Filipino
+204,Ethnicity for Economically Disadvantaged,Hispanic or Latino
+205,Ethnicity for Economically Disadvantaged,Native Hawaiian or Pacific Islander
+206,Ethnicity for Economically Disadvantaged,White
+207,Ethnicity for Economically Disadvantaged,Two or more races
+221,Ethnicity for Not Economically Disadvantaged,American Indian or Alaska Native
+222,Ethnicity for Not Economically Disadvantaged,Asian
+220,Ethnicity for Not Economically Disadvantaged,Black or African American
+223,Ethnicity for Not Economically Disadvantaged,Filipino
+224,Ethnicity for Not Economically Disadvantaged,Hispanic or Latino
+225,Ethnicity for Not Economically Disadvantaged,Native Hawaiian or Pacific Islander
+226,Ethnicity for Not Economically Disadvantaged,White
+227,Ethnicity for Not Economically Disadvantaged,Two or more races
+4,Gender,Female
+3,Gender,Male
+28,Migrant,Migrant education
+29,Migrant,Not migrant education
+90,Parent Education,Not a high school graduate
+91,Parent Education,High school graduate
+92,Parent Education,Some college (includes AA degree)
+93,Parent Education,College graduate
+94,Parent Education,Graduate school/Post graduate
+121,Parent Education,Declined to state
+50,Military Status,Armed forces family member
+51,Military Status,Not armed forces family member
+52,Homeless Status,Homeless
+53,Homeless Status,Not homeless
+240,Foster Status,Foster youth
+241,Foster Status,Not foster youth

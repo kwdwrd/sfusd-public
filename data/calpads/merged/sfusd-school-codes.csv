@@ -1,0 +1,145 @@
+school_code,school_name,school_type,grade_low,grade_high
+0101337,KIPP Bayview Academy,Intermediate/Middle Schools (Public),5,8
+0101352,KIPP San Francisco Bay Academy,Intermediate/Middle Schools (Public),5,8
+0101774,Five Keys Charter (SF Sheriff's),High Schools (Public),9,12
+0107300,City Arts and Tech High,High Schools (Public),9,12
+0118133,Five Keys Adult School (SF Sheriff's),High Schools (Public),9,12
+0118141,Five Keys Independence HS (SF Sheriff's),High Schools (Public),9,12
+0123265,Gateway Middle,Intermediate/Middle Schools (Public),6,8
+0123505,Mission Preparatory,Elementary Schools (Public),K,8
+0127530,KIPP San Francisco College Preparatory,High Schools (Public),9,12
+3830411,Leadership High,High Schools (Public),9,12
+3830429,Life Learning Academy Charter,High Schools (Public),9,12
+3830437,Gateway High,High Schools (Public),9,12
+6040935,Thomas Edison Charter Academy,Elementary Schools (Public),K,8
+6112601,Creative Arts Charter,Elementary Schools (Public),K,8
+0132159,OnePurpose,Elemen Schools In 1 School Dist. (Public),K,5
+0132183,The New School of San Francisco,Elemen Schools In 1 School Dist. (Public),K,5
+0137307,KIPP Bayview Elementary,Elemen Schools In 1 School Dist. (Public),K,4
+0138842,Mary L. Booker Leadership Academy,K-12 Schools (Public),6,12
+0000000,District Office,,K,12
+3830361,S.F. County Court Woodside Learning Ctr,Juvenile Court Schools,6,12
+3830395,S.F. County Opportunity (Hilltop),Opportunity Schools,6,12
+3830445,S.F. County Civic Center Secondary,County Community,6,12
+6069561,S.F. County Special Education,Special Education Schools (Public),K,12
+0000000,District Office,,P,12
+0102103,Jordan (June) School for Equity,Alternative Schools of Choice,9,12
+0111427,Feinstein (Dianne) Elementary,Elementary Schools (Public),K,5
+0117465,Stockton (Commodore) Children Center,Preschool,P,P
+0117473,Noriega Children Center,Preschool,P,P
+0117499,Presidio Early Ed.,Preschool,P,P
+0117523,Tule Elk Park Children Center,Preschool,P,P
+0117531,McLaren (John) Children Centers,Preschool,P,P
+0119875,S.F. International High,Alternative Schools of Choice,8,12
+0119958,Academy (The)- SF @McAteer,Alternative Schools of Choice,9,12
+0120386,Chinese Immersion School at DeAvila,Elementary Schools (Public),K,5
+0123117,San Francisco Public Montessori,Elementary Schools (Public),K,5
+0132241,Brown Jr. (Willie L) Middle,Intermediate/Middle Schools (Public),6,8
+3830031,Wells (Ida B.) High,Continuation High Schools,9,12
+3830064,Downtown High,Continuation High Schools,9,12
+3830197,Independence High,Alternative Schools of Choice,9,12
+3830205,Wallenberg (Raoul) Traditional High,High Schools (Public),9,12
+3830254,Burton (Phillip and Sala) Academic High,High Schools (Public),9,12
+3830288,Balboa High,High Schools (Public),9,12
+3830387,"Asawa (Ruth) SF Sch of the Arts, A Public School",Alternative Schools of Choice,9,12
+3830403,Marshall (Thurgood) High,High Schools (Public),9,12
+3831765,Galileo High,High Schools (Public),9,12
+3833241,Lincoln (Abraham) High,High Schools (Public),9,12
+3833407,Lowell High,High Schools (Public),9,12
+3834082,Mission High,High Schools (Public),9,12
+3834769,O'Connell (John) High,High Schools (Public),9,12
+3839081,Washington (George) High,High Schools (Public),9,12
+6040695,Alamo Elementary,Elementary Schools (Public),K,5
+6040703,Alvarado Elementary,Elementary Schools (Public),K,5
+6040737,Argonne Elementary,Elementary Schools (Public),K,5
+6040752,Carmichael (Bessie)/FEC,Elementary Schools (Public),K,8
+6040760,Harte (Bret) Elementary,Elementary Schools (Public),K,5
+6040778,Bryant Elementary,Elementary Schools (Public),K,5
+6040828,Clarendon Alternative Elementary,Elementary Schools (Public),K,5
+6040836,Cleveland Elementary,Elementary Schools (Public),K,5
+6040851,Sloat (Commodore) Elementary,Elementary Schools (Public),K,5
+6040877,Lau (Gordon J.) Elementary,Elementary Schools (Public),K,5
+6040893,Webster (Daniel) Elementary,Elementary Schools (Public),K,5
+6040919,Milk (Harvey) Civil Rights Elementary,Elementary Schools (Public),K,5
+6040943,Taylor (Edward R.) Elementary,Elementary Schools (Public),K,5
+6040950,El Dorado Elementary,Elementary Schools (Public),K,5
+6040968,Cobb (William L.) Elementary,Elementary Schools (Public),K,5
+6040984,Huerta (Dolores) Elementary,Elementary Schools (Public),K,5
+6041008,Key (Francis Scott) Elementary,Elementary Schools (Public),K,5
+6041016,McCoppin (Frank) Elementary,Elementary Schools (Public),K,5
+6041040,Garfield Elementary,Elementary Schools (Public),K,5
+6041065,Peabody (George) Elementary,Elementary Schools (Public),K,5
+6041073,Glen Park Elementary,Elementary Schools (Public),K,5
+6041115,Grattan Elementary,Elementary Schools (Public),K,5
+6041123,Guadalupe Elementary,Elementary Schools (Public),K,5
+6041131,Yick Wo Elementary,Elementary Schools (Public),K,5
+6041149,Chavez (Cesar) Elementary,Elementary Schools (Public),K,5
+6041156,Hillcrest Elementary,Elementary Schools (Public),K,5
+6041206,Parker (Jean) Elementary,Elementary Schools (Public),K,5
+6041230,Jefferson Elementary,Elementary Schools (Public),K,5
+6041255,Muir (John) Elementary,Elementary Schools (Public),K,5
+6041271,Ortega (Jose) Elementary,Elementary Schools (Public),K,5
+6041289,Serra (Junipero) Elementary,Elementary Schools (Public),K,5
+6041305,Lafayette Elementary,Elementary Schools (Public),K,5
+6041321,Lakeshore Alternative Elementary,Elementary Schools (Public),K,5
+6041339,Lawton Alternative Elementary,Elementary Schools (Public),K,8
+6041347,Flynn (Leonard R.) Elementary,Elementary Schools (Public),K,5
+6041362,Longfellow Elementary,Elementary Schools (Public),K,5
+6041412,Marshall Elementary,Elementary Schools (Public),K,5
+6041420,McKinley Elementary,Elementary Schools (Public),K,5
+6041438,Miraloma Elementary,Elementary Schools (Public),K,5
+6041446,Monroe Elementary,Elementary Schools (Public),K,5
+6041487,Revere (Paul) Elementary,Elementary Schools (Public),K,8
+6041503,Parks (Rosa) Elementary,Elementary Schools (Public),K,5
+6041511,Redding Elementary,Elementary Schools (Public),K,5
+6041529,Stevenson (Robert Louis) Elementary,Elementary Schools (Public),K,5
+6041545,Sanchez Elementary,Elementary Schools (Public),K,5
+6041560,Sheridan Elementary,Elementary Schools (Public),K,5
+6041578,Sherman Elementary,Elementary Schools (Public),K,5
+6041586,Malcolm X Academy,Elementary Schools (Public),K,5
+6041594,Spring Valley Elementary,Elementary Schools (Public),K,5
+6041602,King (Thomas Starr) Elementary,Elementary Schools (Public),K,5
+6041610,Sunnyside Elementary,Elementary Schools (Public),K,5
+6041644,Sutro Elementary,Elementary Schools (Public),K,5
+6041685,Ulloa Elementary,Elementary Schools (Public),K,5
+6041701,Visitacion Valley Elementary,Elementary Schools (Public),K,5
+6041727,West Portal Elementary,Elementary Schools (Public),K,5
+6059828,Giannini (A.P.) Middle,Intermediate/Middle Schools (Public),6,8
+6059844,Francisco Middle,Intermediate/Middle Schools (Public),6,8
+6059851,Hoover (Herbert) Middle,Intermediate/Middle Schools (Public),6,8
+6059869,Denman (James) Middle,Intermediate/Middle Schools (Public),6,8
+6059885,King Jr. (Martin Luther) Academic Middle,Intermediate/Middle Schools (Public),6,8
+6059901,Roosevelt Middle,Intermediate/Middle Schools (Public),6,8
+6059919,Visitacion Valley Middle,Intermediate/Middle Schools (Public),6,8
+6062020,Aptos Middle,Intermediate/Middle Schools (Public),6,8
+6062038,Everett Middle,Intermediate/Middle Schools (Public),6,8
+6062046,Buena Vista/ Horace Mann K-8,Elementary Schools (Public),K,8
+6062053,Lick (James) Middle,Intermediate/Middle Schools (Public),6,8
+6062061,Marina Middle,Intermediate/Middle Schools (Public),6,8
+6062079,Presidio Middle,Intermediate/Middle Schools (Public),6,8
+6089569,Lee (Edwin and Anita) Newcomer,Elementary Schools (Public),K,5
+6089585,Mission Education Center,Elementary Schools (Public),K,5
+6089775,Rooftop Elementary,Elementary Schools (Public),K,8
+6093488,San Francisco Community Alternative,Elementary Schools (Public),K,8
+6093496,Carver (George Washington) Elementary,Elementary Schools (Public),K,5
+6097919,New Traditions Elementary,Elementary Schools (Public),K,5
+6099154,Moscone (George R.) Elementary,Elementary Schools (Public),K,5
+6102479,Lilienthal (Claire) Elementary,Elementary Schools (Public),K,8
+6104673,Drew (Charles) College Preparatory Academy,Elementary Schools (Public),K,5
+6113245,Yu (Alice Fong) Elementary,Elementary Schools (Public),K,8
+6113252,Chin (John Yehall) Elementary,Elementary Schools (Public),K,5
+6113997,Sunset Elementary,Elementary Schools (Public),K,5
+6115901,Tenderloin Community,Elementary Schools (Public),K,5
+0107300,City Arts & Leadership Academy,High Schools (Public),9,12
+0132183,The New School of San Francisco,Elemen Schools In 1 School Dist. (Public),K,7
+6040950,El Dorado Elementary,Elementary Schools (Public),P,5
+0132183,The New School of San Francisco,Elemen Schools In 1 School Dist. (Public),K,4
+0117515,Weill (Raphael) Children Center,Preschool,P,P
+0117572,Mahler (Theresa S.) Children Center,Preschool,P,P
+0119875,S.F. International High,Alternative Schools of Choice,9,12
+6041149,Chavez (Cesar) Elementary,Elementary Schools (Public),K,5
+6041339,Lawton Alternative,Elementary Schools (Public),K,8
+6040935,Edison Charter Academy,Elementary Schools (Public),K,8
+6089569,Chinese Education Center,Elementary Schools (Public),K,5
+6040984,Fairmount Elementary,Elementary Schools (Public),K,5
+0128876,Gateway to College,Alternative Schools of Choice,9,12
