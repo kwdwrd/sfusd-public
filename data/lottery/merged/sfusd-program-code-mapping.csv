@@ -1,0 +1,3382 @@
+ay,school_id,program_code,program_name
+25-26,441,BA,Bay Street Transition Program
+25-26,441,CA,SDC Transition Program (CAT)
+25-26,442,CA,SDC Transition Program (CAT)
+25-26,413,GE,GE: General Education
+25-26,413,SA,SA: SDC - Extensive Services Autism Focus
+25-26,420,GE,GE: General Education
+25-26,420,MS,MS: SDC - Extensive Services
+25-26,420,SE,SE: Spanish Immersion (Non-Native)
+25-26,420,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,431,GE,GE: General Education
+25-26,431,MM,MM: SDC - Mild to Moderate
+25-26,431,MN,MN: Mandarin Immersion (Mandarin Speakers)
+25-26,431,SA,SA: SDC - Extensive Services Autism Focus
+25-26,903,GE,GE: General Education
+25-26,435,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,435,GE,GE: General Education
+25-26,815,CA,SDC Transition Program (CAT)
+25-26,815,GE,GE: General Education
+25-26,815,MM,MM: SDC - Mild to Moderate
+25-26,439,CA,SDC Transition Program (CAT)
+25-26,439,GE,GE: General Education
+25-26,439,MM,MM: SDC - Mild to Moderate
+25-26,439,MM,SDC Transition Program (CAT)
+25-26,439,MS,MS: SDC - Extensive Services
+25-26,858,GE,GE: General Education
+25-26,858,MM,MM: SDC - Mild to Moderate
+25-26,456,GE,GE: General Education
+25-26,456,GE,SDC Transition Program (CAT)
+25-26,456,SB,SB: Spanish Biliteracy
+25-26,618,MM,MM: SDC - Mild to Moderate
+25-26,618,SE,SE: Spanish Immersion (Non-Native)
+25-26,618,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,764,CA,SDC Transition Program (CAT)
+25-26,764,GE,GE: General Education
+25-26,764,MM,MM: SDC - Mild to Moderate
+25-26,764,MS,MS: SDC - Extensive Services
+25-26,449,FB,FB: Filipino FLES
+25-26,449,GE,GE: General Education
+25-26,625,GE,GE: General Education
+25-26,603,GE,GE: General Education
+25-26,603,SB,SB: Spanish Biliteracy
+25-26,872,GE,GE: General Education
+25-26,872,GE,SDC Transition Program (CAT)
+25-26,509,CE,CE: Cantonese Immersion (All English)
+25-26,509,CN,CN: Cantonese Immersion (Cantonese Speakers)
+25-26,478,GE,GE: General Education
+25-26,478,JB,JB: Japanese Bilingual Bicultural Prgram
+25-26,478,JE,JE: Japanese Bilingual Bicultural Program - English C
+25-26,478,JN,JN: Japanese Bilingual Bicultural Program - Japanes
+25-26,478,MM,MM: SDC - Mild to Moderate
+25-26,481,GE,GE: General Education
+25-26,481,SB,SB: Spanish Biliteracy
+25-26,525,GE,GE: General Education
+25-26,632,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,632,ED,ED: SDC - SOAR
+25-26,632,GE,GE: General Education
+25-26,632,MM,MM: SDC - Mild to Moderate
+25-26,507,GE,GE: General Education
+25-26,521,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,521,GE,GE: General Education
+25-26,529,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,529,GE,GE: General Education
+25-26,529,MM,MM: SDC - Mild to Moderate
+25-26,529,NX,NX: Newcomer Program
+25-26,529,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,539,GE,GE: General Education
+25-26,680,GE,GE: General Education
+25-26,680,SE,SE: Spanish Immersion (Non-Native)
+25-26,680,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,546,ED,ED: SDC - SOAR
+25-26,546,GE,GE: General Education
+25-26,546,MM,MM: SDC - Mild to Moderate
+25-26,546,NX,NX: Newcomer Program
+25-26,546,SA,SA: SDC - Extensive Services Autism Focus
+25-26,559,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,559,CA,SDC Transition Program (CAT)
+25-26,559,ED,ED: SDC - SOAR
+25-26,559,GE,GE: General Education
+25-26,559,MM,MM: SDC - Mild to Moderate
+25-26,559,MS,MS: SDC - Extensive Services
+25-26,559,NX,NX: Newcomer Program
+25-26,562,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,562,CE,CE: Cantonese Immersion (All English)
+25-26,562,CN,CN: Cantonese Immersion (Cantonese Speakers)
+25-26,562,GE,GE: General Education
+25-26,404,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,404,GE,GE: General Education
+25-26,404,MM,MM: SDC - Mild to Moderate
+25-26,404,MS,MS: SDC - Extensive Services
+25-26,404,SA,SA: SDC - Extensive Services Autism Focus
+25-26,575,GE,GE: General Education
+25-26,575,SA,SA: SDC - Extensive Services Autism Focus
+25-26,575,SB,SB: Spanish Biliteracy
+25-26,589,GE,GE: General Education
+25-26,589,SA,SA: SDC - Extensive Services Autism Focus
+25-26,593,GE,GE: General Education
+25-26,593,SB,SB: Spanish Biliteracy
+25-26,453,GE,GE: General Education
+25-26,453,MM,MM: SDC - Mild to Moderate
+25-26,453,SE,SE: Spanish Immersion (Non-Native)
+25-26,453,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,614,GE,GE: General Education
+25-26,614,MM,MM: SDC - Mild to Moderate
+25-26,614,SB,SB: Spanish Biliteracy
+25-26,607,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,607,CN,CN: Cantonese Immersion (Cantonese Speakers)
+25-26,607,ED,ED: SDC - SOAR
+25-26,607,GE,GE: General Education
+25-26,607,MM,MM: SDC - Mild to Moderate
+25-26,607,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,537,MS,MS: SDC - Extensive Services
+25-26,537,SE,SE: Spanish Immersion (Non-Native)
+25-26,537,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,644,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,644,AF,SDC Transition Program (CAT)
+25-26,644,GE,GE: General Education
+25-26,757,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,757,GE,GE: General Education
+25-26,757,MM,MM: SDC - Mild to Moderate
+25-26,544,GE,GE: General Education
+25-26,544,MS,MS: SDC - Extensive Services
+25-26,838,GE,GE: General Education
+25-26,838,ME,ME: Mandarin Immersion (Non-Native)
+25-26,838,MN,MN: Mandarin Immersion (Mandarin Speakers)
+25-26,838,SA,SA: SDC - Extensive Services Autism Focus
+25-26,710,GE,GE: General Education
+25-26,710,MM,MM: SDC - Mild to Moderate
+25-26,664,GE,GE: General Education
+25-26,670,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,670,GE,GE: General Education
+25-26,490,CB,CB: Cantonese Biliteracy
+25-26,490,GE,GE: General Education
+25-26,676,GE,GE: General Education
+25-26,676,MS,MS: SDC - Extensive Services
+25-26,634,ED,ED: SDC - SOAR
+25-26,634,GE,GE: General Education
+25-26,634,MM,MM: SDC - Mild to Moderate
+25-26,634,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,479,GE,GE: General Education
+25-26,479,KE,KE: Korean Immersion (Non-Native)
+25-26,479,KN,KN: Korean Immersion (Korean Speakers)
+25-26,405,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,405,ED,ED: SDC - SOAR
+25-26,405,GE,GE: General Education
+25-26,405,MM,MM: SDC - Mild to Moderate
+25-26,405,MS,MS: SDC - Extensive Services
+25-26,405,NX,NX: Newcomer Program
+25-26,405,SA,SA: SDC - Extensive Services Autism Focus
+25-26,691,FB,FB: Filipino FLES
+25-26,691,GE,GE: General Education
+25-26,691,MM,MM: SDC - Mild to Moderate
+25-26,691,SB,SB: Spanish Biliteracy
+25-26,697,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,697,CA,SDC Transition Program (CAT)
+25-26,697,GE,GE: General Education
+25-26,697,MM,MM: SDC - Mild to Moderate
+25-26,697,MS,MS: SDC - Extensive Services
+25-26,697,SA,SA: SDC - Extensive Services Autism Focus
+25-26,830,GE,GE: General Education
+25-26,708,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,708,CN,CN: Cantonese Immersion (Cantonese Speakers)
+25-26,708,GE,GE: General Education
+25-26,708,MM,MM: SDC - Mild to Moderate
+25-26,853,CA,SDC Transition Program (CAT)
+25-26,853,ED,ED: SDC - SOAR
+25-26,853,GE,GE: General Education
+25-26,853,MM,MM: SDC - Mild to Moderate
+25-26,853,NS,NS: Spanish Newcomer
+25-26,714,SE,SE: Spanish Immersion (Non-Native)
+25-26,714,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,549,GE,GE: General Education
+25-26,718,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,718,GE,GE: General Education
+25-26,950,GE,GE: General Education
+25-26,950,MM,MM: SDC - Mild to Moderate
+25-26,505,GE,GE: General Education
+25-26,722,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,722,GE,GE: General Education
+25-26,724,SE,SE: Spanish Immersion (Non-Native)
+25-26,724,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,725,CA,SDC Transition Program (CAT)
+25-26,725,ED,ED: SDC - SOAR
+25-26,725,GE,GE: General Education
+25-26,725,MM,MM: SDC - Mild to Moderate
+25-26,725,MS,MS: SDC - Extensive Services
+25-26,725,NX,NX: Newcomer Program
+25-26,725,SA,SA: SDC - Extensive Services Autism Focus
+25-26,729,CB,CB: Cantonese Biliteracy
+25-26,729,GE,GE: General Education
+25-26,729,SE,SE: Spanish Immersion (Non-Native)
+25-26,729,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,723,CB,CB: Cantonese Biliteracy
+25-26,723,GE,GE: General Education
+25-26,723,SB,SB: Spanish Biliteracy
+25-26,650,GE,GE: General Education
+25-26,650,SB,SB: Spanish Biliteracy
+25-26,735,GE,GE: General Education
+25-26,928,GE,GE: General Education
+25-26,651,CA,SDC Transition Program (CAT)
+25-26,651,GE,GE: General Education
+25-26,651,MM,MM: SDC - Mild to Moderate
+25-26,746,GE,GE: General Education
+25-26,746,ME,ME: Mandarin Immersion (Non-Native)
+25-26,746,MN,MN: Mandarin Immersion (Mandarin Speakers)
+25-26,638,GE,GE: General Education
+25-26,786,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,786,GE,GE: General Education
+25-26,786,JB,JB: Japanese Bilingual Bicultural Prgram
+25-26,786,JE,JE: Japanese Bilingual Bicultural Program - English C
+25-26,569,GE,GE: General Education
+25-26,569,MM,MM: SDC - Mild to Moderate
+25-26,778,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,778,GE,GE: General Education
+25-26,778,JB,JB: Japanese Bilingual Bicultural Prgram
+25-26,778,MM,MM: SDC - Mild to Moderate
+25-26,778,MS,MS: SDC - Extensive Services
+25-26,790,GE,GE: General Education
+25-26,760,GE,GE: General Education
+25-26,760,MM,MM: SDC - Mild to Moderate
+25-26,760,SE,SE: Spanish Immersion (Non-Native)
+25-26,760,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,965,GE,GE: General Education
+25-26,796,GE,GE: General Education
+25-26,797,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,797,CN,CN: Cantonese Immersion (Cantonese Speakers)
+25-26,797,GE,GE: General Education
+25-26,797,MM,MM: SDC - Mild to Moderate
+25-26,797,SA,SA: SDC - Extensive Services Autism Focus
+25-26,987,GE,GE: General Education
+25-26,816,GE,GE: General Education
+25-26,816,MM,MM: SDC - Mild to Moderate
+25-26,816,SB,SB: Spanish Biliteracy
+25-26,816,SB,SDC Transition Program (CAT)
+25-26,955,GE,GE: General Education
+25-26,656,GE,GE: General Education
+25-26,656,SB,SB: Spanish Biliteracy
+25-26,493,GE,GE: General Education
+25-26,621,CA,SDC Transition Program (CAT)
+25-26,621,GX,GX: General Education Newcomer
+25-26,621,MM,MM: SDC - Mild to Moderate
+25-26,621,NC,NC: Chinese Newcomer
+25-26,621,NS,NS: Spanish Newcomer
+25-26,621,NX,NX: Newcomer Program
+25-26,814,GE,GE: General Education
+25-26,820,GE,GE: General Education
+25-26,820,GE,SDC Transition Program (CAT)
+25-26,823,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,823,GE,GE: General Education
+25-26,488,GE,GE: General Education
+25-26,834,GE,GE: General Education
+25-26,834,MM,MM: SDC - Mild to Moderate
+25-26,834,SB,SB: Spanish Biliteracy
+25-26,782,GE,GE: General Education
+25-26,782,MM,MM: SDC - Mild to Moderate
+25-26,915,GE,GE: General Education
+25-26,842,GE,GE: General Education
+25-26,842,MS,MS: SDC - Extensive Services
+25-26,750,GE,GE: General Education
+25-26,750,SA,SA: SDC - Extensive Services Autism Focus
+25-26,848,CB,CB: Cantonese Biliteracy
+25-26,848,GE,GE: General Education
+25-26,513,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,513,AF,SDC Transition Program (CAT)
+25-26,513,CB,CB: Cantonese Biliteracy
+25-26,513,GE,GE: General Education
+25-26,513,SB,SB: Spanish Biliteracy
+25-26,859,AF,AF: SDC - Mild/Mod Autism Focus
+25-26,859,GE,GE: General Education
+25-26,832,AO,AO: SDC - Auditory/Oral
+25-26,832,GE,GE: General Education
+25-26,832,MM,MM: SDC - Mild to Moderate
+25-26,832,TC,TC: SDC - Total Communication
+25-26,997,GE,GE: General Education
+25-26,997,MM,MM: SDC - Mild to Moderate
+25-26,997,MS,MS: SDC - Extensive Services
+25-26,862,CB,CB: Cantonese Biliteracy
+25-26,862,GE,GE: General Education
+25-26,867,GE,GE: General Education
+25-26,868,GE,GE: General Education
+25-26,868,MM,MM: SDC - Mild to Moderate
+25-26,868,NX,NX: Newcomer Program
+25-26,868,SA,SA: SDC - Extensive Services Autism Focus
+25-26,785,CA,SDC Transition Program (CAT)
+25-26,785,GE,GE: General Education
+25-26,785,MM,MM: SDC - Mild to Moderate
+25-26,571,ED,ED: SDC - SOAR
+25-26,571,GE,GE: General Education
+25-26,571,MM,MM: SDC - Mild to Moderate
+25-26,571,MS,MS: SDC - Extensive Services
+25-26,497,GE,GE: General Education
+25-26,497,GE,SDC Transition Program (CAT)
+25-26,497,SE,SE: Spanish Immersion (Non-Native)
+25-26,497,SN,SN: Spanish Immersion (Spanish Speakers)
+25-26,876,CE,CE: Cantonese Immersion (All English)
+25-26,876,CN,CN: Cantonese Immersion (Cantonese Speakers)
+25-26,876,GE,GE: General Education
+25-26,801,GE,GE: General Education
+25-26,801,SA,SA: SDC - Extensive Services Autism Focus
+25-26,485,CE,CE: Cantonese Immersion (All English)
+25-26,485,CN,CN: Cantonese Immersion (Cantonese Speakers)
+25-26,485,CT,CT: Cantonese Immersion (All others)
+24-25,441,BA,Bay Street Transition Program
+24-25,441,CA,SDC Transition Program (CAT)
+24-25,442,CA,SDC Transition Program (CAT)
+24-25,413,GE,GE: General Education
+24-25,413,SA,SA: SDC - Extensive Services Autism Focus
+24-25,420,GE,GE: General Education
+24-25,420,MS,MS: SDC - Extensive Services
+24-25,420,SE,SE: Spanish Immersion (Non-Native)
+24-25,420,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,431,GE,GE: General Education
+24-25,431,MM,MM: SDC - Mild to Moderate
+24-25,431,MN,MN: Mandarin Immersion (Mandarin Speakers)
+24-25,431,SA,SA: SDC - Extensive Services Autism Focus
+24-25,903,GE,GE: General Education
+24-25,435,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,435,GE,GE: General Education
+24-25,815,CA,SDC Transition Program (CAT)
+24-25,815,GE,GE: General Education
+24-25,815,MM,MM: SDC - Mild to Moderate
+24-25,439,CA,SDC Transition Program (CAT)
+24-25,439,GE,GE: General Education
+24-25,439,MM,MM: SDC - Mild to Moderate
+24-25,439,MS,MS: SDC - Extensive Services
+24-25,439,NX,NX: Newcomer Program
+24-25,858,GE,GE: General Education
+24-25,858,MM,MM: SDC - Mild to Moderate
+24-25,858,MS,MS: SDC - Extensive Services
+24-25,456,GE,GE: General Education
+24-25,456,SB,SB: Spanish Biliteracy
+24-25,618,MM,MM: SDC - Mild to Moderate
+24-25,618,SE,SE: Spanish Immersion (Non-Native)
+24-25,618,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,764,CA,SDC Transition Program (CAT)
+24-25,764,GE,GE: General Education
+24-25,764,MM,MM: SDC - Mild to Moderate
+24-25,764,MS,MS: SDC - Extensive Services
+24-25,449,FB,FB: Filipino FLES
+24-25,449,GE,GE: General Education
+24-25,625,GE,GE: General Education
+24-25,603,GE,GE: General Education
+24-25,603,SB,SB: Spanish Biliteracy
+24-25,603,TC,TC: SDC - Total Communication
+24-25,872,CB,CB: Cantonese Biliteracy
+24-25,872,GE,GE: General Education
+24-25,509,CE,CE: Cantonese Immersion (All English)
+24-25,509,CN,CN: Cantonese Immersion (Cantonese Speakers)
+24-25,478,GE,GE: General Education
+24-25,478,JB,JB: Japanese Bilingual Bicultural Prgram
+24-25,478,JE,JE: Japanese Bilingual Bicultural Program - English Cohort
+24-25,478,JN,JN: Japanese Bilingual Bicultural Program - Japanese Cohort
+24-25,478,MM,MM: SDC - Mild to Moderate
+24-25,481,GE,GE: General Education
+24-25,481,SB,SB: Spanish Biliteracy
+24-25,525,GE,GE: General Education
+24-25,632,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,632,ED,ED: SDC - SOAR
+24-25,632,GE,GE: General Education
+24-25,632,MM,MM: SDC - Mild to Moderate
+24-25,632,MS,MS: SDC - Extensive Services
+24-25,507,GE,GE: General Education
+24-25,521,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,521,ED,ED: SDC - SOAR
+24-25,521,GE,GE: General Education
+24-25,521,MS,MS: SDC - Extensive Services
+24-25,529,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,529,GE,GE: General Education
+24-25,529,MM,MM: SDC - Mild to Moderate
+24-25,529,MS,MS: SDC - Extensive Services
+24-25,529,NX,NX: Newcomer Program
+24-25,529,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,539,ED,ED: SDC - SOAR
+24-25,539,GE,GE: General Education
+24-25,539,SA,SA: SDC - Extensive Services Autism Focus
+24-25,680,ED,ED: SDC - SOAR
+24-25,680,GE,GE: General Education
+24-25,680,SE,SE: Spanish Immersion (Non-Native)
+24-25,680,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,546,ED,ED: SDC - SOAR
+24-25,546,GE,GE: General Education
+24-25,546,MM,MM: SDC - Mild to Moderate
+24-25,546,NX,NX: Newcomer Program
+24-25,546,SA,SA: SDC - Extensive Services Autism Focus
+24-25,559,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,559,CA,SDC Transition Program (CAT)
+24-25,559,ED,ED: SDC - SOAR
+24-25,559,GE,GE: General Education
+24-25,559,MM,MM: SDC - Mild to Moderate
+24-25,559,MS,MS: SDC - Extensive Services
+24-25,559,NX,NX: Newcomer Program
+24-25,562,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,562,CE,CE: Cantonese Immersion (All English)
+24-25,562,CN,CN: Cantonese Immersion (Cantonese Speakers)
+24-25,562,GE,GE: General Education
+24-25,404,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,404,GE,GE: General Education
+24-25,404,MM,MM: SDC - Mild to Moderate
+24-25,404,MS,MS: SDC - Extensive Services
+24-25,404,SA,SA: SDC - Extensive Services Autism Focus
+24-25,575,GE,GE: General Education
+24-25,575,SA,SA: SDC - Extensive Services Autism Focus
+24-25,575,SB,SB: Spanish Biliteracy
+24-25,589,GE,GE: General Education
+24-25,589,SA,SA: SDC - Extensive Services Autism Focus
+24-25,593,GE,GE: General Education
+24-25,593,SB,SB: Spanish Biliteracy
+24-25,453,GE,GE: General Education
+24-25,453,SE,SE: Spanish Immersion (Non-Native)
+24-25,453,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,614,CB,CB: Cantonese Biliteracy
+24-25,614,GE,GE: General Education
+24-25,614,MM,MM: SDC - Mild to Moderate
+24-25,614,SB,SB: Spanish Biliteracy
+24-25,607,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,607,CN,CN: Cantonese Immersion (Cantonese Speakers)
+24-25,607,ED,ED: SDC - SOAR
+24-25,607,GE,GE: General Education
+24-25,607,MM,MM: SDC - Mild to Moderate
+24-25,607,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,537,MS,MS: SDC - Extensive Services
+24-25,537,SE,SE: Spanish Immersion (Non-Native)
+24-25,537,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,644,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,644,GE,GE: General Education
+24-25,757,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,757,GE,GE: General Education
+24-25,757,MM,MM: SDC - Mild to Moderate
+24-25,757,MS,MS: SDC - Extensive Services
+24-25,544,GE,GE: General Education
+24-25,544,MM,MM: SDC - Mild to Moderate
+24-25,544,MS,MS: SDC - Extensive Services
+24-25,838,GE,GE: General Education
+24-25,838,ME,ME: Mandarin Immersion (Non-Native)
+24-25,838,MN,MN: Mandarin Immersion (Mandarin Speakers)
+24-25,838,SA,SA: SDC - Extensive Services Autism Focus
+24-25,710,GE,GE: General Education
+24-25,710,MM,MM: SDC - Mild to Moderate
+24-25,664,AO,AO: SDC - Auditory/Oral
+24-25,664,GE,GE: General Education
+24-25,670,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,670,GE,GE: General Education
+24-25,490,CB,CB: Cantonese Biliteracy
+24-25,490,GE,GE: General Education
+24-25,676,GE,GE: General Education
+24-25,676,MS,MS: SDC - Extensive Services
+24-25,476,NC,NC: Chinese Newcomer
+24-25,634,ED,ED: SDC - SOAR
+24-25,634,GE,GE: General Education
+24-25,634,MM,MM: SDC - Mild to Moderate
+24-25,634,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,479,GE,GE: General Education
+24-25,479,KE,KE: Korean Immersion (Non-Native)
+24-25,479,KN,KN: Korean Immersion (Korean Speakers)
+24-25,405,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,405,ED,ED: SDC - SOAR
+24-25,405,GE,GE: General Education
+24-25,405,MM,MM: SDC - Mild to Moderate
+24-25,405,MS,MS: SDC - Extensive Services
+24-25,405,NX,NX: Newcomer Program
+24-25,405,SA,SA: SDC - Extensive Services Autism Focus
+24-25,691,FB,FB: Filipino FLES
+24-25,691,GE,GE: General Education
+24-25,691,MM,MM: SDC - Mild to Moderate
+24-25,691,SB,SB: Spanish Biliteracy
+24-25,697,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,697,CA,SDC Transition Program (CAT)
+24-25,697,GE,GE: General Education
+24-25,697,MM,MM: SDC - Mild to Moderate
+24-25,697,MS,MS: SDC - Extensive Services
+24-25,697,SA,SA: SDC - Extensive Services Autism Focus
+24-25,830,GE,GE: General Education
+24-25,708,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,708,CN,CN: Cantonese Immersion (Cantonese Speakers)
+24-25,708,GE,GE: General Education
+24-25,708,MM,MM: SDC - Mild to Moderate
+24-25,708,MS,MS: SDC - Extensive Services
+24-25,708,NX,NX: Newcomer Program
+24-25,853,CA,SDC Transition Program (CAT)
+24-25,853,ED,ED: SDC - SOAR
+24-25,853,GE,GE: General Education
+24-25,853,MM,MM: SDC - Mild to Moderate
+24-25,853,NX,NX: Newcomer Program
+24-25,714,SE,SE: Spanish Immersion (Non-Native)
+24-25,714,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,549,GE,GE: General Education
+24-25,718,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,718,GE,GE: General Education
+24-25,950,GE,GE: General Education
+24-25,950,MM,MM: SDC - Mild to Moderate
+24-25,505,GE,GE: General Education
+24-25,722,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,722,GE,GE: General Education
+24-25,724,DS,Dual Language Spanish PK/TK
+24-25,724,NS,NS: Spanish Newcomer
+24-25,724,SE,SE: Spanish Immersion (Non-Native)
+24-25,724,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,725,CA,SDC Transition Program (CAT)
+24-25,725,ED,ED: SDC - SOAR
+24-25,725,GE,GE: General Education
+24-25,725,MM,MM: SDC - Mild to Moderate
+24-25,725,MS,MS: SDC - Extensive Services
+24-25,725,NX,NX: Newcomer Program
+24-25,725,SA,SA: SDC - Extensive Services Autism Focus
+24-25,729,CB,CB: Cantonese Biliteracy
+24-25,729,GE,GE: General Education
+24-25,729,SE,SE: Spanish Immersion (Non-Native)
+24-25,729,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,723,CB,CB: Cantonese Biliteracy
+24-25,723,GE,GE: General Education
+24-25,723,SB,SB: Spanish Biliteracy
+24-25,650,GE,GE: General Education
+24-25,650,SB,SB: Spanish Biliteracy
+24-25,735,GE,GE: General Education
+24-25,928,GE,GE: General Education
+24-25,651,CA,SDC Transition Program (CAT)
+24-25,651,GE,GE: General Education
+24-25,651,MM,MM: SDC - Mild to Moderate
+24-25,746,GE,GE: General Education
+24-25,746,ME,ME: Mandarin Immersion (Non-Native)
+24-25,746,MN,MN: Mandarin Immersion (Mandarin Speakers)
+24-25,638,CB,CB: Cantonese Biliteracy
+24-25,638,GE,GE: General Education
+24-25,786,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,786,GE,GE: General Education
+24-25,786,JB,JB: Japanese Bilingual Bicultural Prgram
+24-25,786,JE,JE: Japanese Bilingual Bicultural Program - English Cohort
+24-25,786,JN,JN: Japanese Bilingual Bicultural Program - Japanese Cohort
+24-25,786,MM,MM: SDC - Mild to Moderate
+24-25,569,GE,GE: General Education
+24-25,569,MM,MM: SDC - Mild to Moderate
+24-25,975,GE,GE: General Education
+24-25,778,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,778,AO,AO: SDC - Auditory/Oral
+24-25,778,ED,ED: SDC - SOAR
+24-25,778,GE,GE: General Education
+24-25,778,JB,JB: Japanese Bilingual Bicultural Prgram
+24-25,778,MM,MM: SDC - Mild to Moderate
+24-25,778,MS,MS: SDC - Extensive Services
+24-25,778,TC,TC: SDC - Total Communication
+24-25,790,GE,GE: General Education
+24-25,760,GE,GE: General Education
+24-25,760,MM,MM: SDC - Mild to Moderate
+24-25,760,SE,SE: Spanish Immersion (Non-Native)
+24-25,760,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,965,GE,GE: General Education
+24-25,796,GE,GE: General Education
+24-25,797,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,797,CN,CN: Cantonese Immersion (Cantonese Speakers)
+24-25,797,GE,GE: General Education
+24-25,797,MM,MM: SDC - Mild to Moderate
+24-25,797,SA,SA: SDC - Extensive Services Autism Focus
+24-25,816,GE,GE: General Education
+24-25,816,MM,MM: SDC - Mild to Moderate
+24-25,816,MS,MS: SDC - Extensive Services
+24-25,816,SB,SB: Spanish Biliteracy
+24-25,955,GE,GE: General Education
+24-25,656,GE,GE: General Education
+24-25,656,SB,SB: Spanish Biliteracy
+24-25,493,GE,GE: General Education
+24-25,621,CA,SDC Transition Program (CAT)
+24-25,621,GX,GX: General Education Newcomer
+24-25,621,MM,MM: SDC - Mild to Moderate
+24-25,621,NC,NC: Chinese Newcomer
+24-25,621,NS,NS: Spanish Newcomer
+24-25,621,NX,NX: Newcomer Program
+24-25,814,GE,GE: General Education
+24-25,820,GE,GE: General Education
+24-25,823,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,823,GE,GE: General Education
+24-25,488,GE,GE: General Education
+24-25,834,CB,CB: Cantonese Biliteracy
+24-25,834,GE,GE: General Education
+24-25,834,MM,MM: SDC - Mild to Moderate
+24-25,834,SB,SB: Spanish Biliteracy
+24-25,782,GE,GE: General Education
+24-25,782,MM,MM: SDC - Mild to Moderate
+24-25,915,GE,GE: General Education
+24-25,842,GE,GE: General Education
+24-25,842,MS,MS: SDC - Extensive Services
+24-25,750,GE,GE: General Education
+24-25,750,SA,SA: SDC - Extensive Services Autism Focus
+24-25,848,CB,CB: Cantonese Biliteracy
+24-25,848,GE,GE: General Education
+24-25,513,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,513,CB,CB: Cantonese Biliteracy
+24-25,513,GE,GE: General Education
+24-25,513,SB,SB: Spanish Biliteracy
+24-25,859,AF,AF: SDC - Mild/Mod Autism Focus
+24-25,859,ED,ED: SDC - SOAR
+24-25,859,GE,GE: General Education
+24-25,832,AO,AO: SDC - Auditory/Oral
+24-25,832,GE,GE: General Education
+24-25,832,MM,MM: SDC - Mild to Moderate
+24-25,832,TC,TC: SDC - Total Communication
+24-25,997,GE,GE: General Education
+24-25,997,MM,MM: SDC - Mild to Moderate
+24-25,997,MS,MS: SDC - Extensive Services
+24-25,862,CB,CB: Cantonese Biliteracy
+24-25,862,GE,GE: General Education
+24-25,867,CB,CB: Cantonese Biliteracy
+24-25,867,GE,GE: General Education
+24-25,868,GE,GE: General Education
+24-25,868,MM,MM: SDC - Mild to Moderate
+24-25,868,MS,MS: SDC - Extensive Services
+24-25,868,NX,NX: Newcomer Program
+24-25,868,SA,SA: SDC - Extensive Services Autism Focus
+24-25,785,CA,SDC Transition Program (CAT)
+24-25,785,GE,GE: General Education
+24-25,785,MM,MM: SDC - Mild to Moderate
+24-25,571,ED,ED: SDC - SOAR
+24-25,571,GE,GE: General Education
+24-25,571,MM,MM: SDC - Mild to Moderate
+24-25,571,MS,MS: SDC - Extensive Services
+24-25,571,NX,NX: Newcomer Program
+24-25,497,GE,GE: General Education
+24-25,497,SE,SE: Spanish Immersion (Non-Native)
+24-25,497,SN,SN: Spanish Immersion (Spanish Speakers)
+24-25,876,CE,CE: Cantonese Immersion (All English)
+24-25,876,CN,CN: Cantonese Immersion (Cantonese Speakers)
+24-25,876,GE,GE: General Education
+24-25,801,GE,GE: General Education
+24-25,801,SA,SA: SDC - Extensive Services Autism Focus
+24-25,485,CE,CE: Cantonese Immersion (All English)
+24-25,485,CN,CN: Cantonese Immersion (Cantonese Speakers)
+24-25,485,CT,CT: Cantonese Immersion (All others)
+23-24,441,BA,Bay Street Transition Program
+23-24,441,CA,SDC Transition Program (CAT)
+23-24,442,CA,SDC Transition Program (CAT)
+23-24,413,GE,<none>
+23-24,413,SA,<none>
+23-24,420,GE,<none>
+23-24,420,MS,<none>
+23-24,420,SE,<none>
+23-24,420,SN,<none>
+23-24,431,GE,<none>
+23-24,431,MM,<none>
+23-24,431,MN,<none>
+23-24,431,SA,<none>
+23-24,903,GE,<none>
+23-24,435,GE,<none>
+23-24,435,AF,<none>
+23-24,815,GE,<none>
+23-24,815,MM,<none>
+23-24,815,CA,<none>
+23-24,439,GE,<none>
+23-24,439,MM,<none>
+23-24,439,MS,<none>
+23-24,439,NX,<none>
+23-24,439,CA,<none>
+23-24,858,GE,<none>
+23-24,456,GE,<none>
+23-24,456,SB,<none>
+23-24,618,MM,<none>
+23-24,618,SE,<none>
+23-24,618,SN,<none>
+23-24,764,GE,<none>
+23-24,764,MM,<none>
+23-24,764,MS,<none>
+23-24,764,CA,<none>
+23-24,449,GE,<none>
+23-24,449,FB,<none>
+23-24,625,GE,<none>
+23-24,603,GE,<none>
+23-24,603,TC,<none>
+23-24,603,SB,<none>
+23-24,872,GE,<none>
+23-24,872,CB,<none>
+23-24,509,CE,<none>
+23-24,509,CN,<none>
+23-24,478,GE,<none>
+23-24,478,JE,<none>
+23-24,478,JN,<none>
+23-24,478,MM,<none>
+23-24,478,JB,<none>
+23-24,481,GE,<none>
+23-24,481,SB,<none>
+23-24,525,GE,<none>
+23-24,632,GE,<none>
+23-24,632,AF,<none>
+23-24,632,ED,<none>
+23-24,632,MM,<none>
+23-24,632,MS,<none>
+23-24,507,GE,<none>
+23-24,521,GE,<none>
+23-24,521,AF,<none>
+23-24,521,ED,<none>
+23-24,521,MS,<none>
+23-24,529,GE,<none>
+23-24,529,AF,<none>
+23-24,529,MM,<none>
+23-24,529,MS,<none>
+23-24,529,NX,<none>
+23-24,529,SN,<none>
+23-24,539,GE,<none>
+23-24,539,ED,<none>
+23-24,680,GE,<none>
+23-24,680,ED,<none>
+23-24,680,SE,<none>
+23-24,680,SN,<none>
+23-24,546,GE,<none>
+23-24,546,ED,<none>
+23-24,546,MM,<none>
+23-24,546,NX,<none>
+23-24,546,SA,<none>
+23-24,559,GE,<none>
+23-24,559,ED,<none>
+23-24,559,MM,<none>
+23-24,559,MS,<none>
+23-24,559,NX,<none>
+23-24,559,SF,<none>
+23-24,559,CA,<none>
+23-24,562,GE,<none>
+23-24,562,AF,<none>
+23-24,562,CE,<none>
+23-24,562,CN,<none>
+23-24,404,GE,<none>
+23-24,404,AF,<none>
+23-24,404,MM,<none>
+23-24,404,MS,<none>
+23-24,404,SA,<none>
+23-24,575,GE,<none>
+23-24,575,SA,<none>
+23-24,575,SB,<none>
+23-24,589,GE,<none>
+23-24,589,SA,<none>
+23-24,593,GE,<none>
+23-24,593,SB,<none>
+23-24,453,GE,<none>
+23-24,453,SE,<none>
+23-24,453,SN,<none>
+23-24,614,GE,<none>
+23-24,614,CB,<none>
+23-24,614,MM,<none>
+23-24,614,SB,<none>
+23-24,607,GE,<none>
+23-24,607,CN,<none>
+23-24,607,ED,<none>
+23-24,607,MM,<none>
+23-24,607,SN,<none>
+23-24,537,MS,<none>
+23-24,537,SE,<none>
+23-24,537,SN,<none>
+23-24,466,GE,<none>
+23-24,644,GE,<none>
+23-24,644,AF,<none>
+23-24,757,GE,<none>
+23-24,757,MM,<none>
+23-24,757,MS,<none>
+23-24,544,GE,<none>
+23-24,544,MS,<none>
+23-24,544,MM,<none>
+23-24,838,GE,<none>
+23-24,838,ME,<none>
+23-24,838,MN,<none>
+23-24,838,SA,<none>
+23-24,710,GE,<none>
+23-24,710,MM,<none>
+23-24,664,AO,<none>
+23-24,664,GE,<none>
+23-24,670,GE,<none>
+23-24,670,AF,<none>
+23-24,490,GE,<none>
+23-24,490,CB,<none>
+23-24,676,GE,<none>
+23-24,676,MS,<none>
+23-24,476,NC,<none>
+23-24,634,GE,<none>
+23-24,634,ED,<none>
+23-24,634,MM,<none>
+23-24,634,SN,<none>
+23-24,479,GE,<none>
+23-24,479,KE,<none>
+23-24,479,KN,<none>
+23-24,405,GE,<none>
+23-24,405,AF,<none>
+23-24,405,ED,<none>
+23-24,405,MM,<none>
+23-24,405,MS,<none>
+23-24,405,NX,<none>
+23-24,405,SA,<none>
+23-24,405,SF,<none>
+23-24,691,GE,<none>
+23-24,691,FB,<none>
+23-24,691,MM,<none>
+23-24,691,SB,<none>
+23-24,697,GE,<none>
+23-24,697,AF,<none>
+23-24,697,MM,<none>
+23-24,697,MS,<none>
+23-24,697,SA,<none>
+23-24,697,CA,<none>
+23-24,830,GE,<none>
+23-24,708,GE,<none>
+23-24,708,AF,<none>
+23-24,708,CN,<none>
+23-24,708,MM,<none>
+23-24,708,MS,<none>
+23-24,708,NX,<none>
+23-24,853,NX,<none>
+23-24,853,GE,<none>
+23-24,853,ED,<none>
+23-24,853,MM,<none>
+23-24,853,SF,<none>
+23-24,853,CA,<none>
+23-24,714,SE,<none>
+23-24,714,SN,<none>
+23-24,549,GE,<none>
+23-24,718,GE,<none>
+23-24,718,AF,<none>
+23-24,950,GE,<none>
+23-24,950,MM,<none>
+23-24,505,GE,<none>
+23-24,722,GE,<none>
+23-24,722,AF,<none>
+23-24,724,DS,<none>
+23-24,724,NS,<none>
+23-24,725,GE,<none>
+23-24,725,ED,<none>
+23-24,725,MM,<none>
+23-24,725,MS,<none>
+23-24,725,NX,<none>
+23-24,725,SA,<none>
+23-24,725,SF,<none>
+23-24,725,CA,<none>
+23-24,729,GE,<none>
+23-24,729,CB,<none>
+23-24,729,SE,<none>
+23-24,729,SN,<none>
+23-24,723,GE,<none>
+23-24,723,CB,<none>
+23-24,723,SB,<none>
+23-24,650,GE,<none>
+23-24,650,SB,<none>
+23-24,735,GE,<none>
+23-24,928,GE,<none>
+23-24,651,GE,<none>
+23-24,651,MM,<none>
+23-24,651,CA,<none>
+23-24,746,GE,<none>
+23-24,746,ME,<none>
+23-24,746,MN,<none>
+23-24,638,GE,<none>
+23-24,638,CB,<none>
+23-24,786,GE,<none>
+23-24,786,AF,<none>
+23-24,786,JE,<none>
+23-24,786,JN,<none>
+23-24,786,JB,<none>
+23-24,786,MM,<none>
+23-24,569,GE,<none>
+23-24,569,MM,<none>
+23-24,975,GE,<none>
+23-24,778,GE,<none>
+23-24,778,AF,<none>
+23-24,778,AO,<none>
+23-24,778,ED,<none>
+23-24,778,JB,<none>
+23-24,778,MM,<none>
+23-24,778,MS,<none>
+23-24,778,TC,<none>
+23-24,790,GE,<none>
+23-24,760,GE,<none>
+23-24,760,MM,<none>
+23-24,760,SE,<none>
+23-24,760,SN,<none>
+23-24,965,GE,<none>
+23-24,796,GE,<none>
+23-24,797,GE,<none>
+23-24,797,AF,<none>
+23-24,797,CN,<none>
+23-24,797,MM,<none>
+23-24,797,SA,<none>
+23-24,816,GE,<none>
+23-24,816,MM,<none>
+23-24,816,SB,<none>
+23-24,816,MS,<none>
+23-24,955,GE,<none>
+23-24,656,GE,<none>
+23-24,656,SB,<none>
+23-24,493,GE,<none>
+23-24,621,GX,<none>
+23-24,621,NC,<none>
+23-24,621,NS,<none>
+23-24,621,NX,<none>
+23-24,621,MM,<none>
+23-24,621,SF,<none>
+23-24,621,CA,<none>
+23-24,814,GE,<none>
+23-24,820,GE,<none>
+23-24,823,GE,<none>
+23-24,823,AF,<none>
+23-24,488,GE,<none>
+23-24,834,GE,<none>
+23-24,834,CB,<none>
+23-24,834,MM,<none>
+23-24,834,SB,<none>
+23-24,782,GE,<none>
+23-24,782,MM,<none>
+23-24,915,GE,<none>
+23-24,842,GE,<none>
+23-24,842,MS,<none>
+23-24,750,GE,<none>
+23-24,750,SA,<none>
+23-24,848,GE,<none>
+23-24,848,CB,<none>
+23-24,513,GE,<none>
+23-24,513,AF,<none>
+23-24,513,CB,<none>
+23-24,513,SB,<none>
+23-24,859,GE,<none>
+23-24,859,ED,<none>
+23-24,832,GE,<none>
+23-24,832,AO,<none>
+23-24,832,MM,<none>
+23-24,832,TC,<none>
+23-24,997,GE,<none>
+23-24,997,MM,<none>
+23-24,997,MS,<none>
+23-24,862,GE,<none>
+23-24,862,CB,<none>
+23-24,867,GE,<none>
+23-24,867,CB,<none>
+23-24,868,GE,<none>
+23-24,868,MM,<none>
+23-24,868,MS,<none>
+23-24,868,NX,<none>
+23-24,785,GE,<none>
+23-24,785,MM,<none>
+23-24,785,CA,<none>
+23-24,571,GE,<none>
+23-24,571,ED,<none>
+23-24,571,MM,<none>
+23-24,571,MS,<none>
+23-24,571,NX,<none>
+23-24,497,GE,<none>
+23-24,497,SE,<none>
+23-24,497,SN,<none>
+23-24,876,GE,<none>
+23-24,876,CE,<none>
+23-24,876,CN,<none>
+23-24,801,GE,<none>
+23-24,801,SA,<none>
+23-24,485,CE,<none>
+23-24,485,CT,<none>
+23-24,485,CN,<none>
+22-23,441,BA,BA: Bay Street Transition Training Center
+22-23,441,CA,CA: SDC - Transition Program (CAT)
+22-23,442,CA,CA: SDC - Transition Program (CAT)
+22-23,413,GE,GE: General Education
+22-23,413,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,420,GE,GE: General Education
+22-23,420,MS,MS: SDC - Moderate to Severe
+22-23,420,SE,SE: Spanish Immersion (Non-Native)
+22-23,420,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,431,GE,GE: General Education
+22-23,431,MM,MM: SDC - Mild to Moderate
+22-23,431,MN,MN: Mandarin Immersion (Mandarin Speakers)
+22-23,431,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,903,GE,GE: General Education
+22-23,435,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,435,GE,GE: General Education
+22-23,815,GE,GE: General Education
+22-23,815,MM,MM: SDC - Mild to Moderate
+22-23,815,CA,CA: SDC - Transition Program (CAT)
+22-23,439,GE,GE: General Education
+22-23,439,MM,MM: SDC - Mild to Moderate
+22-23,439,MS,MS: SDC - Moderate to Severe
+22-23,439,NX,NX: Newcomer Program
+22-23,439,CA,CA: SDC - Transition Program (CAT)
+22-23,858,GE,GE: General Education
+22-23,456,GE,GE: General Education
+22-23,456,SB,SB: Spanish Biliteracy
+22-23,618,MM,MM: SDC - Mild to Moderate
+22-23,618,SE,SE: Spanish Immersion (Non-Native)
+22-23,618,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,764,GE,GE: General Education
+22-23,764,MM,MM: SDC - Mild to Moderate
+22-23,764,MS,MS: SDC - Moderate to Severe
+22-23,764,CA,CA: SDC - Transition Program (CAT)
+22-23,449,GE,GE: General Education
+22-23,449,FB,FB: Filipino FLES
+22-23,625,GE,GE: General Education
+22-23,603,GE,GE: General Education
+22-23,603,SB,SB: Spanish Biliteracy
+22-23,872,CB,CB: Cantonese Biliteracy
+22-23,872,GE,GE: General Education
+22-23,509,CE,CE: Cantonese Immersion (All English)
+22-23,509,CN,CN: Cantonese Immersion (Cantonese Speakers)
+22-23,478,GE,GE: General Education
+22-23,478,JE,JE: Japanese Bilingual Bicultural Program - English Cohort
+22-23,478,JN,JN: Japanese Bilingual Bicultural Program - Japanese Cohort
+22-23,478,MM,MM: SDC - Mild to Moderate
+22-23,478,JB,JB: Japanese Bilingual Bicultural Prgram
+22-23,481,GE,GE: General Education
+22-23,481,SB,SB: Spanish Biliteracy
+22-23,525,GE,GE: General Education
+22-23,632,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,632,ED,ED: SDC - Emotionally Disturbed
+22-23,632,GE,GE: General Education
+22-23,632,MM,MM: SDC - Mild to Moderate
+22-23,632,MS,MS: SDC - Moderate to Severe
+22-23,507,GE,GE: General Education
+22-23,521,GE,GE: General Education
+22-23,529,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,529,GE,GE: General Education
+22-23,529,MM,MM: SDC - Mild to Moderate
+22-23,529,MS,MS: SDC - Moderate to Severe
+22-23,529,NX,NX: Newcomer Program
+22-23,529,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,539,GE,GE: General Education
+22-23,539,ED,ED: SDC - Emotionally Disturbed
+22-23,680,GE,GE: General Education
+22-23,680,SE,SE: Spanish Immersion (Non-Native)
+22-23,680,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,680,ED,ED: SDC - Emotionally Disturbed
+22-23,546,ED,ED: SDC - Emotionally Disturbed
+22-23,546,GE,GE: General Education
+22-23,546,MM,MM: SDC - Mild to Moderate
+22-23,546,NX,NX: Newcomer Program
+22-23,546,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,559,ED,ED: SDC - Emotionally Disturbed
+22-23,559,GE,GE: General Education
+22-23,559,MM,MM: SDC - Mild to Moderate
+22-23,559,MS,MS: SDC - Moderate to Severe
+22-23,559,NX,NX: Newcomer Program
+22-23,559,CA,CA: SDC - Transition Program (CAT)
+22-23,562,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,562,CE,CE: Cantonese Immersion (All English)
+22-23,562,CN,CN: Cantonese Immersion (Cantonese Speakers)
+22-23,562,GE,GE: General Education
+22-23,404,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,404,GE,GE: General Education
+22-23,404,MM,MM: SDC - Mild to Moderate
+22-23,404,MS,MS: SDC - Moderate to Severe
+22-23,404,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,575,GE,GE: General Education
+22-23,575,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,575,SB,SB: Spanish Biliteracy
+22-23,589,GE,GE: General Education
+22-23,589,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,593,GE,GE: General Education
+22-23,593,SB,SB: Spanish Biliteracy
+22-23,453,GE,GE: General Education
+22-23,453,SE,SE: Spanish Immersion (Non-Native)
+22-23,453,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,614,GE,GE: General Education
+22-23,614,MM,MM: SDC - Mild to Moderate
+22-23,614,SB,SB: Spanish Biliteracy
+22-23,607,CN,CN: Cantonese Immersion (Cantonese Speakers)
+22-23,607,ED,ED: SDC - Emotionally Disturbed
+22-23,607,GE,GE: General Education
+22-23,607,MM,MM: SDC - Mild to Moderate
+22-23,607,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,537,MS,MS: SDC - Moderate to Severe
+22-23,537,SE,SE: Spanish Immersion (Non-Native)
+22-23,537,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,466,GE,GE: General Education
+22-23,644,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,644,GE,GE: General Education
+22-23,757,GE,GE: General Education
+22-23,757,MM,MM: SDC - Mild to Moderate
+22-23,757,MS,MS: SDC - Moderate to Severe
+22-23,544,GE,GE: General Education
+22-23,544,MS,MS: SDC - Moderate to Severe
+22-23,838,GE,GE: General Education
+22-23,838,ME,ME: Mandarin Immersion (Non-Native)
+22-23,838,MN,MN: Mandarin Immersion (Mandarin Speakers)
+22-23,838,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,710,GE,GE: General Education
+22-23,710,MM,MM: SDC - Mild to Moderate
+22-23,664,GE,GE: General Education
+22-23,670,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,670,GE,GE: General Education
+22-23,490,CB,CB: Cantonese Biliteracy
+22-23,490,GE,GE: General Education
+22-23,676,GE,GE: General Education
+22-23,676,MS,MS: SDC - Moderate to Severe
+22-23,476,NC,NC: Chinese Newcomer
+22-23,634,ED,ED: SDC - Emotionally Disturbed
+22-23,634,GE,GE: General Education
+22-23,634,MM,MM: SDC - Mild to Moderate
+22-23,634,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,479,GE,GE: General Education
+22-23,479,KE,KE: Korean Immersion (Non-Native)
+22-23,479,KN,KN: Korean Immersion (Korean Speakers)
+22-23,405,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,405,ED,ED: SDC - Emotionally Disturbed
+22-23,405,GE,GE: General Education
+22-23,405,MM,MM: SDC - Mild to Moderate
+22-23,405,MS,MS: SDC - Moderate to Severe
+22-23,405,NX,NX: Newcomer Program
+22-23,405,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,691,FB,FB: Filipino FLES
+22-23,691,GE,GE: General Education
+22-23,691,MM,MM: SDC - Mild to Moderate
+22-23,691,SB,SB: Spanish Biliteracy
+22-23,697,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,697,GE,GE: General Education
+22-23,697,MM,MM: SDC - Mild to Moderate
+22-23,697,MS,MS: SDC - Moderate to Severe
+22-23,697,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,697,CA,CA: SDC - Transition Program (CAT)
+22-23,830,GE,GE: General Education
+22-23,708,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,708,CN,CN: Cantonese Immersion (Cantonese Speakers)
+22-23,708,GE,GE: General Education
+22-23,708,MM,MM: SDC - Mild to Moderate
+22-23,853,ED,ED: SDC - Emotionally Disturbed
+22-23,853,GE,GE: General Education
+22-23,853,MM,MM: SDC - Mild to Moderate
+22-23,853,NX,NX: Newcomer Program
+22-23,853,CA,CA: SDC - Transition Program (CAT)
+22-23,714,SE,SE: Spanish Immersion (Non-Native)
+22-23,714,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,549,GE,GE: General Education
+22-23,718,GE,GE: General Education
+22-23,950,GE,GE: General Education
+22-23,950,MM,MM: SDC - Mild to Moderate
+22-23,505,GE,GE: General Education
+22-23,722,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,722,GE,GE: General Education
+22-23,724,DS,<none>
+22-23,724,NS,NS: Spanish Newcomer
+22-23,725,ED,ED: SDC - Emotionally Disturbed
+22-23,725,GE,GE: General Education
+22-23,725,MM,MM: SDC - Mild to Moderate
+22-23,725,MS,MS: SDC - Moderate to Severe
+22-23,725,NX,NX: Newcomer Program
+22-23,725,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,725,CA,CA: SDC - Transition Program (CAT)
+22-23,729,CB,CB: Cantonese Biliteracy
+22-23,729,GE,GE: General Education
+22-23,729,SE,SE: Spanish Immersion (Non-Native)
+22-23,729,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,723,CB,CB: Cantonese Biliteracy
+22-23,723,GE,GE: General Education
+22-23,723,SB,SB: Spanish Biliteracy
+22-23,650,GE,GE: General Education
+22-23,650,SB,SB: Spanish Biliteracy
+22-23,735,GE,GE: General Education
+22-23,928,GE,GE: General Education
+22-23,651,GE,GE: General Education
+22-23,651,MM,MM: SDC - Mild to Moderate
+22-23,651,CA,CA: SDC - Transition Program (CAT)
+22-23,746,GE,GE: General Education
+22-23,746,ME,ME: Mandarin Immersion (Non-Native)
+22-23,746,MN,MN: Mandarin Immersion (Mandarin Speakers)
+22-23,638,CB,CB: Cantonese Biliteracy
+22-23,638,GE,GE: General Education
+22-23,786,GE,GE: General Education
+22-23,786,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,786,JE,JE: Japanese Bilingual Bicultural Program - English Cohort
+22-23,786,JN,JN: Japanese Bilingual Bicultural Program - Japanese Cohort
+22-23,786,JB,JB: Japanese Bilingual Bicultural Prgram
+22-23,569,GE,GE: General Education
+22-23,569,MM,MM: SDC - Mild to Moderate
+22-23,778,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,778,AO,AO: SDC - Auditory/Oral
+22-23,778,GE,GE: General Education
+22-23,778,JB,JB: Japanese Bilingual Bicultural Prgram
+22-23,778,MM,MM: SDC - Mild to Moderate
+22-23,778,MS,MS: SDC - Moderate to Severe
+22-23,778,TC,TC: SDC - Total Communication
+22-23,790,GE,GE: General Education
+22-23,760,GE,GE: General Education
+22-23,760,MM,MM: SDC - Mild to Moderate
+22-23,760,SE,SE: Spanish Immersion (Non-Native)
+22-23,760,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,965,GE,GE: General Education
+22-23,796,GE,GE: General Education
+22-23,797,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,797,CN,CN: Cantonese Immersion (Cantonese Speakers)
+22-23,797,GE,GE: General Education
+22-23,797,MM,MM: SDC - Mild to Moderate
+22-23,797,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,816,GE,GE: General Education
+22-23,816,MM,MM: SDC - Mild to Moderate
+22-23,816,SB,SB: Spanish Biliteracy
+22-23,955,GE,GE: General Education
+22-23,656,GE,GE: General Education
+22-23,656,SB,SB: Spanish Biliteracy
+22-23,493,GE,GE: General Education
+22-23,621,GX,GX: General Education Newcomer
+22-23,621,NC,NC: Chinese Newcomer
+22-23,621,NS,NS: Spanish Newcomer
+22-23,621,NX,NX: Newcomer Program
+22-23,621,CA,CA: SDC - Transition Program (CAT)
+22-23,814,GE,GE: General Education
+22-23,820,GE,GE: General Education
+22-23,823,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,823,GE,GE: General Education
+22-23,488,GE,GE: General Education
+22-23,834,CB,CB: Cantonese Biliteracy
+22-23,834,GE,GE: General Education
+22-23,834,SB,SB: Spanish Biliteracy
+22-23,782,GE,GE: General Education
+22-23,782,MM,MM: SDC - Mild to Moderate
+22-23,915,GE,GE: General Education
+22-23,842,GE,GE: General Education
+22-23,842,MS,MS: SDC - Moderate to Severe
+22-23,750,GE,GE: General Education
+22-23,750,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,848,CB,CB: Cantonese Biliteracy
+22-23,848,GE,GE: General Education
+22-23,513,AF,AF: SDC - Mild/Mod Autism Focus
+22-23,513,CB,CB: Cantonese Biliteracy
+22-23,513,GE,GE: General Education
+22-23,513,SB,SB: Spanish Biliteracy
+22-23,859,GE,GE: General Education
+22-23,832,AO,AO: SDC - Auditory/Oral
+22-23,832,GE,GE: General Education
+22-23,832,MM,MM: SDC - Mild to Moderate
+22-23,997,GE,GE: General Education
+22-23,997,MS,MS: SDC - Moderate to Severe
+22-23,862,CB,CB: Cantonese Biliteracy
+22-23,862,GE,GE: General Education
+22-23,867,CB,CB: Cantonese Biliteracy
+22-23,867,GE,GE: General Education
+22-23,868,GE,GE: General Education
+22-23,868,MM,MM: SDC - Mild to Moderate
+22-23,868,NX,NX: Newcomer Program
+22-23,785,GE,GE: General Education
+22-23,785,MM,MM: SDC - Mild to Moderate
+22-23,785,CA,CA: SDC - Transition Program (CAT)
+22-23,571,ED,ED: SDC - Emotionally Disturbed
+22-23,571,GE,GE: General Education
+22-23,571,MM,MM: SDC - Mild to Moderate
+22-23,571,MS,MS: SDC - Moderate to Severe
+22-23,571,NX,NX: Newcomer Program
+22-23,497,GE,GE: General Education
+22-23,497,SE,SE: Spanish Immersion (Non-Native)
+22-23,497,SN,SN: Spanish Immersion (Spanish Speakers)
+22-23,876,GE,GE: General Education
+22-23,876,CE,CE: Cantonese Immersion (All English)
+22-23,876,CN,CN: Cantonese Immersion (Cantonese Speakers)
+22-23,801,GE,GE: General Education
+22-23,801,SA,SA: SDC - Mod/Severe Autism Focus
+22-23,485,CE,CE: Cantonese Immersion (All English)
+22-23,485,CT,CT: Cantonese Immersion (All others)
+22-23,485,CN,CN: Cantonese Immersion (Cantonese Speakers)
+21-22,420,GE,Gen Ed
+21-22,903,GE,Gen Ed
+21-22,449,GE,Gen Ed
+21-22,525,GE,Gen Ed
+21-22,507,GE,Gen Ed
+21-22,680,GE,Gen Ed
+21-22,453,GE,Gen Ed
+21-22,830,GE,Gen Ed
+21-22,950,GE,Gen Ed
+21-22,928,GE,Gen Ed
+21-22,975,GE,Gen Ed
+21-22,790,GE,Gen Ed
+21-22,965,GE,Gen Ed
+21-22,955,GE,Gen Ed
+21-22,820,GE,Gen Ed
+21-22,915,GE,Gen Ed
+21-22,997,GE,Gen Ed
+21-22,603,DH,SDC - Deaf and Hard of Hearing
+21-22,782,MM,SDC - Mild to Moderate
+21-22,997,MS,SDC - Moderate to Severe
+21-22,872,CB,Chinese Biliteracy
+21-22,614,CB,Chinese Biliteracy
+21-22,490,CB,Chinese Biliteracy
+21-22,729,CB,Chinese Biliteracy
+21-22,723,CB,Chinese Biliteracy
+21-22,638,CB,Chinese Biliteracy
+21-22,834,CB,Chinese Biliteracy
+21-22,848,CB,Chinese Biliteracy
+21-22,513,CB,Chinese Biliteracy
+21-22,862,CB,Chinese Biliteracy
+21-22,867,CB,Chinese Biliteracy
+21-22,509,CN,Chinese Immersion (Cantonese)
+21-22,562,CN,Chinese Immersion (Cantonese)
+21-22,876,CN,Chinese Immersion (Cantonese)
+21-22,485,CT,Chinese Immersion (Non-English)
+21-22,509,CE,Chinese Immersion (Non-Native)
+21-22,562,CE,Chinese Immersion (Non-Native)
+21-22,876,CE,Chinese Immersion (Non-Native)
+21-22,485,CE,Chinese Immersion (Non-Native)
+21-22,449,FB,Filipino Biliteracy
+21-22,691,FB,Filipino Biliteracy
+21-22,413,GE,Gen Ed
+21-22,435,GE,Gen Ed
+21-22,456,GE,Gen Ed
+21-22,625,GE,Gen Ed
+21-22,603,GE,Gen Ed
+21-22,872,GE,Gen Ed
+21-22,478,GE,Gen Ed
+21-22,481,GE,Gen Ed
+21-22,521,GE,Gen Ed
+21-22,539,GE,Gen Ed
+21-22,562,GE,Gen Ed
+21-22,575,GE,Gen Ed
+21-22,589,GE,Gen Ed
+21-22,593,GE,Gen Ed
+21-22,614,GE,Gen Ed
+21-22,644,GE,Gen Ed
+21-22,544,GE,Gen Ed
+21-22,838,GE,Gen Ed
+21-22,664,GE,Gen Ed
+21-22,670,GE,Gen Ed
+21-22,490,GE,Gen Ed
+21-22,676,GE,Gen Ed
+21-22,479,GE,Gen Ed
+21-22,691,GE,Gen Ed
+21-22,549,GE,Gen Ed
+21-22,718,GE,Gen Ed
+21-22,505,GE,Gen Ed
+21-22,722,GE,Gen Ed
+21-22,729,GE,Gen Ed
+21-22,723,GE,Gen Ed
+21-22,650,GE,Gen Ed
+21-22,735,GE,Gen Ed
+21-22,746,GE,Gen Ed
+21-22,638,GE,Gen Ed
+21-22,786,GE,Gen Ed
+21-22,569,GE,Gen Ed
+21-22,760,GE,Gen Ed
+21-22,796,GE,Gen Ed
+21-22,816,GE,Gen Ed
+21-22,656,GE,Gen Ed
+21-22,493,GE,Gen Ed
+21-22,814,GE,Gen Ed
+21-22,823,GE,Gen Ed
+21-22,488,GE,Gen Ed
+21-22,834,GE,Gen Ed
+21-22,782,GE,Gen Ed
+21-22,842,GE,Gen Ed
+21-22,750,GE,Gen Ed
+21-22,848,GE,Gen Ed
+21-22,513,GE,Gen Ed
+21-22,859,GE,Gen Ed
+21-22,862,GE,Gen Ed
+21-22,867,GE,Gen Ed
+21-22,497,GE,Gen Ed
+21-22,876,GE,Gen Ed
+21-22,801,GE,Gen Ed
+21-22,478,JE,Japanese Bilingual Bicultural - English
+21-22,786,JE,Japanese Bilingual Bicultural - English
+21-22,478,JN,Japanese Bilingual Bicultural - Japanese
+21-22,786,JN,Japanese Bilingual Bicultural - Japanese
+21-22,479,KN,Korean Immersion (Korean)
+21-22,479,KE,Korean Immersion (Non-Native)
+21-22,838,MN,Mandarin Immersion (Mandarin)
+21-22,746,MN,Mandarin Immersion (Mandarin)
+21-22,838,ME,Mandarin Immersion (Non-Native)
+21-22,746,ME,Mandarin Immersion (Non-Native)
+21-22,724,NX,Newcomer
+21-22,664,AO,SDC - Auditory/Oral
+21-22,618,MM,SDC - Mild to Moderate
+21-22,478,MM,SDC - Mild to Moderate
+21-22,614,MM,SDC - Mild to Moderate
+21-22,691,MM,SDC - Mild to Moderate
+21-22,569,MM,SDC - Mild to Moderate
+21-22,760,MM,SDC - Mild to Moderate
+21-22,816,MM,SDC - Mild to Moderate
+21-22,435,MM,SDC - Mild/Mod Autism Focus
+21-22,562,MM,SDC - Mild/Mod Autism Focus
+21-22,644,MM,SDC - Mild/Mod Autism Focus
+21-22,670,MM,SDC - Mild/Mod Autism Focus
+21-22,722,MM,SDC - Mild/Mod Autism Focus
+21-22,786,MM,SDC - Mild/Mod Autism Focus
+21-22,823,MM,SDC - Mild/Mod Autism Focus
+21-22,513,MM,SDC - Mild/Mod Autism Focus
+21-22,420,MS,SDC - Moderate to Severe
+21-22,537,MS,SDC - Moderate to Severe
+21-22,544,MS,SDC - Moderate to Severe
+21-22,676,MS,SDC - Moderate to Severe
+21-22,842,MS,SDC - Moderate to Severe
+21-22,413,SA,SDC - Severely Autistic
+21-22,575,SA,SDC - Severely Autistic
+21-22,589,SA,SDC - Severely Autistic
+21-22,838,SA,SDC - Severely Autistic
+21-22,750,SA,SDC - Severely Autistic
+21-22,801,SA,SDC - Severely Autistic
+21-22,539,ED,"SDC - Social-Emotional/Behavioral
+Enhanced"
+21-22,456,SB,Spanish Biliteracy
+21-22,603,SB,Spanish Biliteracy
+21-22,481,SB,Spanish Biliteracy
+21-22,575,SB,Spanish Biliteracy
+21-22,593,SB,Spanish Biliteracy
+21-22,614,SB,Spanish Biliteracy
+21-22,691,SB,Spanish Biliteracy
+21-22,723,SB,Spanish Biliteracy
+21-22,650,SB,Spanish Biliteracy
+21-22,816,SB,Spanish Biliteracy
+21-22,656,SB,Spanish Biliteracy
+21-22,834,SB,Spanish Biliteracy
+21-22,513,SB,Spanish Biliteracy
+21-22,420,SE,Spanish Immersion (Non-Native)
+21-22,618,SE,Spanish Immersion (Non-Native)
+21-22,680,SE,Spanish Immersion (Non-Native)
+21-22,453,SE,Spanish Immersion (Non-Native)
+21-22,537,SE,Spanish Immersion (Non-Native)
+21-22,714,SE,Spanish Immersion (Non-Native)
+21-22,729,SE,Spanish Immersion (Non-Native)
+21-22,760,SE,Spanish Immersion (Non-Native)
+21-22,497,SE,Spanish Immersion (Non-Native)
+21-22,420,SN,Spanish Immersion (Spanish)
+21-22,618,SN,Spanish Immersion (Spanish)
+21-22,680,SN,Spanish Immersion (Spanish)
+21-22,453,SN,Spanish Immersion (Spanish)
+21-22,537,SN,Spanish Immersion (Spanish)
+21-22,714,SN,Spanish Immersion (Spanish)
+21-22,729,SN,Spanish Immersion (Spanish)
+21-22,760,SN,Spanish Immersion (Spanish)
+21-22,497,SN,Spanish Immersion (Spanish)
+21-22,607,CN,Chinese Immersion (Cantonese)
+21-22,708,CN,Chinese Immersion (Cantonese)
+21-22,797,CN,Chinese Immersion (Cantonese)
+21-22,485,CN,Chinese Immersion (Cantonese)
+21-22,431,GE,Gen Ed
+21-22,858,GE,Gen Ed
+21-22,632,GE,Gen Ed
+21-22,529,GE,Gen Ed
+21-22,546,GE,Gen Ed
+21-22,404,GE,Gen Ed
+21-22,607,GE,Gen Ed
+21-22,710,GE,Gen Ed
+21-22,634,GE,Gen Ed
+21-22,708,GE,Gen Ed
+21-22,778,GE,Gen Ed
+21-22,797,GE,Gen Ed
+21-22,868,GE,Gen Ed
+21-22,778,JB,Japanese Bilingual
+21-22,431,MN,Mandarin Immersion (Mandarin)
+21-22,529,NX,Newcomer
+21-22,546,NX,Newcomer
+21-22,868,NX,Newcomer
+21-22,778,AO,SDC - Auditory/Oral
+21-22,778,DH,SDC - Deaf and Hard of Hearing
+21-22,431,MM,SDC - Mild to Moderate
+21-22,632,MM,SDC - Mild to Moderate
+21-22,529,MM,SDC - Mild to Moderate
+21-22,546,MM,SDC - Mild to Moderate
+21-22,404,MM,SDC - Mild to Moderate
+21-22,607,MM,SDC - Mild to Moderate
+21-22,710,MM,SDC - Mild to Moderate
+21-22,634,MM,SDC - Mild to Moderate
+21-22,708,MM,SDC - Mild to Moderate
+21-22,778,MM,SDC - Mild to Moderate
+21-22,797,MM,SDC - Mild to Moderate
+21-22,868,MM,SDC - Mild to Moderate
+21-22,632,MM,SDC - Mild/Mod Autism Focus
+21-22,529,MM,SDC - Mild/Mod Autism Focus
+21-22,404,MM,SDC - Mild/Mod Autism Focus
+21-22,708,MM,SDC - Mild/Mod Autism Focus
+21-22,797,MM,SDC - Mild/Mod Autism Focus
+21-22,632,MS,SDC - Moderate to Severe
+21-22,529,MS,SDC - Moderate to Severe
+21-22,404,MS,SDC - Moderate to Severe
+21-22,708,MS,SDC - Moderate to Severe
+21-22,778,MS,SDC - Moderate to Severe
+21-22,868,MS,SDC - Moderate to Severe
+21-22,431,SA,SDC - Severely Autistic
+21-22,546,SA,SDC - Severely Autistic
+21-22,404,SA,SDC - Severely Autistic
+21-22,797,SA,SDC - Severely Autistic
+21-22,632,ED,SDC - Social-Emotional/Behavioral Enhanced
+21-22,546,ED,SDC - Social-Emotional/Behavioral Enhanced
+21-22,607,ED,SDC - Social-Emotional/Behavioral Enhanced
+21-22,634,ED,SDC - Social-Emotional/Behavioral Enhanced
+21-22,778,ED,SDC - Social-Emotional/Behavioral Enhanced
+21-22,529,SN,Spanish Immersion (Spanish)
+21-22,607,SN,Spanish Immersion (Spanish)
+21-22,634,SN,Spanish Immersion (Spanish)
+21-22,815,GE,Gen Ed
+21-22,439,GE,Gen Ed
+21-22,764,GE,Gen Ed
+21-22,559,GE,Gen Ed
+21-22,466,GE,Gen Ed
+21-22,757,GE,Gen Ed
+21-22,405,GE,Gen Ed
+21-22,697,GE,Gen Ed
+21-22,853,GE,Gen Ed
+21-22,725,GE,Gen Ed
+21-22,651,GE,Gen Ed
+21-22,832,GE,Gen Ed
+21-22,785,GE,Gen Ed
+21-22,571,GE,Gen Ed
+21-22,621,GX,Gen Ed Newcomer
+21-22,559,NX,Newcomer
+21-22,853,NX,Newcomer
+21-22,725,NX,Newcomer
+21-22,621,NX,Newcomer
+21-22,571,NX,Newcomer
+21-22,832,AO,SDC - Auditory/Oral
+21-22,815,MM,SDC - Mild to Moderate
+21-22,439,MM,SDC - Mild to Moderate
+21-22,764,MM,SDC - Mild to Moderate
+21-22,559,MM,SDC - Mild to Moderate
+21-22,757,MM,SDC - Mild to Moderate
+21-22,405,MM,SDC - Mild to Moderate
+21-22,697,MM,SDC - Mild to Moderate
+21-22,853,MM,SDC - Mild to Moderate
+21-22,725,MM,SDC - Mild to Moderate
+21-22,651,MM,SDC - Mild to Moderate
+21-22,832,MM,SDC - Mild to Moderate
+21-22,785,MM,SDC - Mild to Moderate
+21-22,571,MM,SDC - Mild to Moderate
+21-22,697,MM,SDC - Mild/Mod Autism Focus
+21-22,439,MS,SDC - Moderate to Severe
+21-22,764,MS,SDC - Moderate to Severe
+21-22,559,MS,SDC - Moderate to Severe
+21-22,757,MS,SDC - Moderate to Severe
+21-22,405,MS,SDC - Moderate to Severe
+21-22,697,MS,SDC - Moderate to Severe
+21-22,725,MS,SDC - Moderate to Severe
+21-22,571,MS,SDC - Moderate to Severe
+19-20,413,GE,General Education
+19-20,413,SA,Severely Autistic
+19-20,420,GE,General Education
+19-20,420,SE,Spanish Non-Native
+19-20,420,SN,Spanish Native
+19-20,420,MS,Moderate Severe
+19-20,431,GE,General Education
+19-20,431,MN,Mandarin Native
+19-20,431,MM,Mild Moderate
+19-20,431,SA,Severely Autistic
+19-20,435,GE,General Education
+19-20,439,GE,General Education
+19-20,439,MM,Mild Moderate
+19-20,439,NX,Newcomer
+19-20,439,MS,Moderate Severe
+19-20,858,GE,General Education
+19-20,456,GE,General Education
+19-20,456,SB,Spanish Bilingual
+19-20,618,SE,Spanish Non-Native
+19-20,618,SN,K-8 Spanish Native
+19-20,618,MM,Mild Moderate
+19-20,618,SN,Spanish Native
+19-20,764,GE,General Education
+19-20,764,MM,HS Mild Moderate
+19-20,764,MS,Moderate Severe
+19-20,449,GE,General Education
+19-20,449,FB,Filipino Bilingual
+19-20,625,GE,General Education
+19-20,603,GE,General Education
+19-20,603,SB,Spanish Bilingual
+19-20,872,GE,General Education
+19-20,872,CB,Chinese Biliteracy
+19-20,509,CE,Chinese Non-Native Speakers
+19-20,509,CN,at DeAvila ES Chinese Native Speaker
+19-20,478,GE,General Education
+19-20,478,JE,Japanese Non-Native Cohort
+19-20,478,MM,Mild Moderate
+19-20,478,JN,Japanese Native Cohort
+19-20,481,GE,General Education
+19-20,481,SB,Spanish Bilingual
+19-20,525,GE,General Education
+19-20,632,GE,General Education
+19-20,632,MM,Mild Moderate
+19-20,632,AF,Autism Focus
+19-20,632,MS,Moderate Severe
+19-20,507,GE,General Education
+19-20,529,GE,General Education
+19-20,529,SN,Spanish Native
+19-20,529,MM,Mild Moderate
+19-20,529,NX,Newcomer
+19-20,529,AF,Autism Focus
+19-20,537,SE,Spanish Non-Native
+19-20,537,SN,Spanish Native
+19-20,537,MS,Moderate Severe
+19-20,539,GE,General Education
+19-20,680,GE,General Education
+19-20,680,SE,Spanish Non-Native
+19-20,680,SN,Spanish Native
+19-20,546,GE,General Education
+19-20,546,MM,Mild Moderate
+19-20,546,NX,Newcomer
+19-20,546,ED,Emotionally Disturbed
+19-20,559,GE,General Education
+19-20,559,CN,Chinese Native Speaker
+19-20,559,MM,Mild Moderate
+19-20,559,NX,Newcomer
+19-20,559,MS,Moderate Severe
+19-20,559,ED,Emotionally Disturbed
+19-20,562,GE,General Education
+19-20,562,CE,Chinese Non-Native Speakers
+19-20,562,CN,Chinese Native Speaker
+19-20,562,AF,Autism Focus
+19-20,404,GE,General Education
+19-20,404,MM,Mild Moderate
+19-20,404,AF,Autism Focus
+19-20,404,MS,Moderate Severe
+19-20,404,SA,Severely Autistic
+19-20,575,GE,General Education
+19-20,575,SB,Spanish Bilingual
+19-20,575,SA,Severely Autistic
+19-20,589,GE,General Education
+19-20,589,SA,Severely Autistic
+19-20,593,GE,General Education
+19-20,593,SB,Spanish Bilingual
+19-20,453,GE,General Education
+19-20,453,SE,Spanish Non-Native
+19-20,453,SN,Spanish Native
+19-20,614,GE,General Education
+19-20,614,CB,Chinese Biliteracy
+19-20,614,SB,Spanish Bilingual
+19-20,614,MM,Mild Moderate
+19-20,607,GE,General Education
+19-20,607,SN,Spanish Native
+19-20,607,CN,Chinese Native Speaker
+19-20,607,MM,Mild Moderate
+19-20,607,ED,Emotionally Disturbed
+19-20,466,GE,General Education
+19-20,644,GE,General Education
+19-20,644,AF,Autism Focus
+19-20,757,GE,General Education
+19-20,757,MM,Mild Moderate
+19-20,757,MS,Moderate Severe
+19-20,544,GE,General Education
+19-20,544,MS,Moderate Severe
+19-20,838,GE,General Education
+19-20,838,MN,Mandarin Native
+19-20,838,ME,Mandarin Non-Native Cohort
+19-20,838,SA,Severely Autistic
+19-20,710,GE,General Education
+19-20,710,MM,Mild Moderate
+19-20,664,GE,General Education
+19-20,670,GE,General Education
+19-20,670,AF,Autism Focus
+19-20,490,GE,General Education
+19-20,490,CB,Chinese Biliteracy
+19-20,676,GE,General Education
+19-20,676,MS,Moderate Severe
+19-20,634,GE,General Education
+19-20,634,SN,Spanish Native
+19-20,634,MM,Mild Moderate
+19-20,634,ED,Emotionally Disturbed
+19-20,479,GE,General Education
+19-20,479,KE,Korean Non-Native Cohort
+19-20,479,KN,Korean Native Cohort
+19-20,405,GE,General Education
+19-20,405,MN,Mandarin Native
+19-20,405,MM,Mild Moderate
+19-20,405,NX,Newcomer
+19-20,405,MS,Moderate Severe
+19-20,405,ED,Emotionally Disturbed
+19-20,691,GE,General Education
+19-20,691,SB,Spanish Bilingual
+19-20,691,FB,Filipino Bilingual
+19-20,830,GE,General Education
+19-20,708,GE,General Education
+19-20,708,CN,Chinese Native Speaker
+19-20,708,MM,Mild Moderate
+19-20,708,NX,Newcomer
+19-20,708,MS,Moderate Severe
+19-20,853,GE,General Education
+19-20,853,MM,Mild Moderate
+19-20,853,NX,Newcomer
+19-20,853,ED,Emotionally Disturbed
+19-20,714,SE,Spanish Non-Native
+19-20,714,SN,Spanish Native
+19-20,718,GE,General Education
+19-20,722,GE,General Education
+19-20,722,AF,Autism Focus
+19-20,725,GE,General Education
+19-20,725,MM,Mild Moderate
+19-20,725,NX,Newcomer
+19-20,725,MS,Moderate Severe
+19-20,725,ED,Emotionally Disturbed
+19-20,729,GE,General Education
+19-20,729,SE,Spanish Non-Native
+19-20,729,SN,Spanish Native
+19-20,729,CB,Chinese Biliteracy
+19-20,723,GE,General Education
+19-20,723,CB,Chinese Biliteracy
+19-20,723,SB,Spanish Bilingual
+19-20,650,GE,General Education
+19-20,650,SB,Spanish Bilingual
+19-20,735,GE,General Education
+19-20,651,GE,General Education
+19-20,651,SN,Spanish Native
+19-20,651,MM,Mild Moderate
+19-20,746,GE,General Education
+19-20,746,MN,Mandarin Native
+19-20,746,ME,Mandarin Non-Native Cohort
+19-20,638,GE,General Education
+19-20,638,CB,Chinese Biliteracy
+19-20,786,GE,General Education
+19-20,786,JE,Japanese Non-Native Cohort
+19-20,786,MM,Mild Moderate
+19-20,786,JN,Japanese Native Cohort
+19-20,569,GE,General Education
+19-20,569,MM,Mild Moderate
+19-20,975,GE,General Education
+19-20,778,GE,General Education
+19-20,778,MM,Mild Moderate
+19-20,778,JB,Japanese Bilingual
+19-20,778,MS,Moderate Severe
+19-20,778,ED,Emotionally Disturbed
+19-20,778,DH,Deaf/Hard of Hearing
+19-20,790,GE,General Education
+19-20,760,GE,General Education
+19-20,760,SE,Spanish Non-Native
+19-20,760,SN,Spanish Native
+19-20,760,MM,Mild Moderate
+19-20,796,GE,General Education
+19-20,797,GE,General Education
+19-20,797,CN,Chinese Native Speaker
+19-20,797,MM,Mild Moderate
+19-20,797,AF,Autism Focus
+19-20,816,GE,General Education
+19-20,816,SB,Spanish Bilingual
+19-20,656,GE,General Education
+19-20,656,SB,Spanish Bilingual
+19-20,493,GE,General Education
+19-20,621,NX,Newcomer
+19-20,621,GX,General Education (SF International only)
+19-20,621,NS,Newcomer Spanish
+19-20,814,GE,General Education
+19-20,820,GE,General Education
+19-20,823,AF,Autism Focus
+19-20,834,GE,General Education
+19-20,834,CB,Chinese Biliteracy
+19-20,834,SB,Spanish Bilingual
+19-20,782,MM,Mild Moderate
+19-20,782,GE,General Education
+19-20,842,GE,General Education
+19-20,842,MS,Moderate Severe
+19-20,750,GE,General Education
+19-20,750,SA,Severely Autistic
+19-20,848,GE,General Education
+19-20,848,CB,Chinese Biliteracy
+19-20,513,GE,General Education
+19-20,513,CB,Chinese Biliteracy
+19-20,513,SB,Spanish Bilingual
+19-20,513,AF,Autism Focus
+19-20,832,GE,General Education
+19-20,832,MM,Francisco @ McAteer HS Mild Moderate
+19-20,997,GE,General Education
+19-20,997,MS,Moderate Severe
+19-20,862,GE,General Education
+19-20,862,CB,Chinese Biliteracy
+19-20,867,GE,General Education
+19-20,867,CB,Chinese Biliteracy
+19-20,868,GE,General Education
+19-20,868,NX,Newcomer
+19-20,868,MS,Moderate Severe
+19-20,785,GE,General Education
+19-20,785,MM,Mild Moderate
+19-20,571,GE,General Education
+19-20,571,MM,Mild Moderate
+19-20,571,NX,Newcomer
+19-20,571,MS,Moderate Severe
+19-20,571,ED,Emotionally Disturbed
+19-20,497,GE,General Education
+19-20,497,SE,Spanish Non-Native
+19-20,497,SN,Spanish Native
+19-20,876,GE,General Education
+19-20,876,CE,Chinese Non-Native Speakers
+19-20,876,CN,Chinese Native Speaker
+19-20,801,GE,General Education
+19-20,801,SA,Severely Autistic
+19-20,485,CE,Chinese Non-Native Speakers
+19-20,485,CT,Cantonese Immersion (Other languages cohort)
+19-20,485,CN,Chinese Native Speaker
+17-18,413,GE,GEN
+17-18,413,SA,SA
+17-18,420,GE,GEN
+17-18,420,SPNIMM,IMMS
+17-18,420,MS,MS
+17-18,844,GE,GEN
+17-18,435,GE,GEN
+17-18,845,GE,GEN
+17-18,456,GE,GEN
+17-18,456,SPN,SPN
+17-18,883,GE,GEN
+17-18,625,GE,GEN
+17-18,603,GE,GEN
+17-18,603,TC,DT
+17-18,603,SPN,SPN
+17-18,872,GE,GEN
+17-18,872,CHN,CHN
+17-18,476,NC,NEWC
+17-18,509,CHNIMM,IMMC
+17-18,478,GE,GEN
+17-18,478,JPN,JPN
+17-18,478,MM,MM
+17-18,481,GE,GEN
+17-18,481,SPN,SPN
+17-18,525,GE,GEN
+17-18,507,GE,GEN
+17-18,849,GE,GEN
+17-18,521,GE,GEN
+17-18,537,SPNIMM,IMMS
+17-18,537,MS,MS
+17-18,539,GE,GEN
+17-18,680,GE,GEN
+17-18,680,SPNIMM,IMMS
+17-18,880,GE,GEN
+17-18,562,GE,GEN
+17-18,562,CHNIMM,IMMC
+17-18,562,CHN,CHN
+17-18,575,GE,GEN
+17-18,575,SA,SA
+17-18,575,SPN,SPN
+17-18,589,GE,GEN
+17-18,589,SA,SA
+17-18,593,GE,GEN
+17-18,593,SPN,SPN
+17-18,453,GE,GEN
+17-18,453,SPNIMM,IMMS
+17-18,705,GE,GEN
+17-18,614,GE,GEN
+17-18,614,CHN,CHN
+17-18,614,MM,MM
+17-18,614,SPN,SPN
+17-18,644,GE,GEN
+17-18,644,AF,AF
+17-18,544,GE,GEN
+17-18,544,MM,MM
+17-18,544,MS,MS
+17-18,664,GE,GEN
+17-18,664,AO,DA
+17-18,670,GE,GEN
+17-18,670,AF,AF
+17-18,490,GE,GEN
+17-18,490,CHN,CHN
+17-18,479,GE,GEN
+17-18,479,KORIMM,IMMK
+17-18,691,GE,GEN
+17-18,691,FB,FIL
+17-18,691,MM,MM
+17-18,691,SPN,SPN
+17-18,830,GE,GEN
+17-18,714,SPNIMM,IMMS
+17-18,549,GE,GEN
+17-18,718,GE,GEN
+17-18,704,GE,GEN
+17-18,505,GE,GEN
+17-18,722,GE,GEN
+17-18,724,NS,NEWS
+17-18,729,GE,GEN
+17-18,729,CHN,CHN
+17-18,729,SPNIMM,IMMS
+17-18,814,GE,GEN
+17-18,723,GE,GEN
+17-18,723,CHN,CHN
+17-18,723,SPN,SPN
+17-18,650,GE,GEN
+17-18,650,SPN,SPN
+17-18,735,GE,GEN
+17-18,752,GE,GEN
+17-18,746,GE,GEN
+17-18,746,MNDIMM,IMMM
+17-18,638,GE,GEN
+17-18,638,CHN,CHN
+17-18,786,GE,GEN
+17-18,786,JPN,JPN
+17-18,786,MM,MM
+17-18,569,GE,GEN
+17-18,569,MM,MM
+17-18,875,GE,GEN
+17-18,790,GE,GEN
+17-18,890,GE,GEN
+17-18,760,GE,GEN
+17-18,760,SPNIMM,IMMS
+17-18,760,MM,MM
+17-18,895,GE,GEN
+17-18,796,GE,GEN
+17-18,493,GE,GEN
+17-18,816,GE,GEN
+17-18,816,MS,MS
+17-18,816,SPN,SPN
+17-18,879,GE,GEN
+17-18,656,GE,GEN
+17-18,656,SPN,SPN
+17-18,820,GE,GEN
+17-18,884,GE,GEN
+17-18,823,GE,GEN
+17-18,823,AF,AF
+17-18,488,GE,GEN
+17-18,834,GE,GEN
+17-18,834,CHN,CHN
+17-18,834,SPN,SPN
+17-18,838,GE,GEN
+17-18,838,MNDIMM,IMMM
+17-18,838,SA,SA
+17-18,782,GE,GEN
+17-18,782,MM,MM
+17-18,882,MM,MM
+17-18,874,GE,GEN
+17-18,842,GE,GEN
+17-18,842,MS,MS
+17-18,750,GE,GEN
+17-18,750,SA,SA
+17-18,848,GE,GEN
+17-18,848,CHN,CHN
+17-18,513,GE,GEN
+17-18,513,CHN,CHN
+17-18,513,SPN,SPN
+17-18,859,GE,GEN
+17-18,860,GE,GEN
+17-18,860,MS,MS
+17-18,862,GE,GEN
+17-18,862,CHN,CHN
+17-18,867,GE,GEN
+17-18,867,CHN,CHN
+17-18,497,GE,GEN
+17-18,497,SPNIMM,IMMS
+17-18,876,GE,GEN
+17-18,876,CHNIMM,IMMC
+17-18,801,GE,GEN
+17-18,801,SA,SA
+17-18,815,GE,GEN
+17-18,815,MM,MM
+17-18,815,CA,CA
+17-18,439,GE,GEN
+17-18,439,MM,MM
+17-18,439,MS,MS
+17-18,439,NX,NEWX
+17-18,439,CA,CA
+17-18,764,GE,GEN
+17-18,764,MM,MM
+17-18,764,MS,MS
+17-18,764,CA,CA
+17-18,559,GE,GEN
+17-18,559,CHNIMM,IMMC
+17-18,559,MM,MM
+17-18,559,MS,MS
+17-18,559,NX,NEWX
+17-18,559,CA,CA
+17-18,757,GE,GEN
+17-18,757,MM,MM
+17-18,757,MS,MS
+17-18,405,GE,GEN
+17-18,405,MNDIMM,IMMM
+17-18,405,MM,MM
+17-18,405,MS,MS
+17-18,405,NC,NEWC
+17-18,405,NX,NEWX
+17-18,697,GE,GEN
+17-18,697,MM,MM
+17-18,697,MS,MS
+17-18,697,CA,CA
+17-18,853,GE,GEN
+17-18,853,ED,ED
+17-18,853,MM,MM
+17-18,853,NX,NEWX
+17-18,853,CA,CA
+17-18,725,GE,GEN
+17-18,725,ED,ED
+17-18,725,MM,MM
+17-18,725,MS,MS
+17-18,725,NX,NEWX
+17-18,725,CA,CA
+17-18,651,GE,GEN
+17-18,651,SPNIMM,IMMS
+17-18,651,MM,MM
+17-18,651,CA,CA
+17-18,621,GE,GEN
+17-18,621,NC,NEWC
+17-18,621,NS,NEWS
+17-18,621,NX,NEWX
+17-18,832,GE,GEN
+17-18,785,GE,GEN
+17-18,785,MM,MM
+17-18,785,CA,CA
+17-18,571,GE,GEN
+17-18,571,ED,ED
+17-18,571,MM,MM
+17-18,571,MS,MS
+17-18,571,NX,NEWX
+17-18,431,GE,GEN
+17-18,431,MNDIMM,IMMM
+17-18,431,MM,MM
+17-18,431,SA,SA
+17-18,858,GE,GEN
+17-18,618,SPNIMM,IMMS
+17-18,618,MM,MM
+17-18,449,GE,GEN
+17-18,449,FB,FIL
+17-18,632,GE,GEN
+17-18,632,ED,ED
+17-18,632,MM,MM
+17-18,632,MS,MS
+17-18,529,GE,GEN
+17-18,529,AF,AF
+17-18,529,SPNIMM,IMMS
+17-18,529,MM,MM
+17-18,529,MS,MS
+17-18,529,NX,NEWX
+17-18,546,GE,GEN
+17-18,546,ED,ED
+17-18,546,MM,MM
+17-18,546,NX,NEWX
+17-18,546,SA,SA
+17-18,404,GE,GEN
+17-18,404,AF,AF
+17-18,404,MM,MM
+17-18,404,MS,MS
+17-18,404,SA,SA
+17-18,607,GE,GEN
+17-18,607,ED,ED
+17-18,607,CHNIMM,IMMC
+17-18,607,SPNIMM,IMMS
+17-18,607,MM,MM
+17-18,710,GE,GEN
+17-18,710,MM,MM
+17-18,676,GE,GEN
+17-18,676,MS,MS
+17-18,634,GE,GEN
+17-18,634,ED,ED
+17-18,634,SPNIMM,IMMS
+17-18,634,MM,MM
+17-18,708,GE,GEN
+17-18,708,CHNIMM,IMMC
+17-18,708,MM,MM
+17-18,708,MS,MS
+17-18,708,NX,NEWX
+17-18,778,GE,GEN
+17-18,778,DH,DH
+17-18,778,ED,ED
+17-18,778,JPN,JPN
+17-18,778,MM,MM
+17-18,778,MS,MS
+17-18,797,GE,GEN
+17-18,797,AF,AF
+17-18,797,CHNIMM,IMMC
+17-18,797,MM,MM
+17-18,868,GE,GEN
+17-18,868,MS,MS
+17-18,868,NX,NEWX
+17-18,485,CHNIMM,IMMC
+16-17,413,GE,GEN
+16-17,413,MS,MS
+16-17,420,GE,GEN
+16-17,420,SPNIMM,IMMS
+16-17,420,MS,MS
+16-17,844,GE,GEN
+16-17,435,GE,GEN
+16-17,845,GE,GEN
+16-17,456,GE,GEN
+16-17,456,SPN,SPN
+16-17,883,GE,GEN
+16-17,625,GE,GEN
+16-17,603,GE,GEN
+16-17,603,SPN,SPN
+16-17,872,GE,GEN
+16-17,872,CHN,CHN
+16-17,509,GE,GEN
+16-17,509,CHNIMM,IMMC
+16-17,478,GE,GEN
+16-17,478,JPN,JPN
+16-17,478,MM,MM
+16-17,481,GE,GEN
+16-17,481,SPN,SPN
+16-17,525,GE,GEN
+16-17,507,GE,GEN
+16-17,849,GE,GEN
+16-17,521,GE,GEN
+16-17,537,SPNIMM,IMMS
+16-17,537,MS,MS
+16-17,539,GE,GEN
+16-17,680,GE,GEN
+16-17,680,SPNIMM,IMMS
+16-17,880,GE,GEN
+16-17,562,GE,GEN
+16-17,562,AF,AF
+16-17,562,CHNIMM,IMMC
+16-17,562,CHN,CHN
+16-17,575,GE,GEN
+16-17,575,MS,MS
+16-17,575,SPN,SPN
+16-17,589,GE,GEN
+16-17,589,SA,SA
+16-17,593,GE,GEN
+16-17,593,SPN,SPN
+16-17,453,GE,GEN
+16-17,453,SPNIMM,IMMS
+16-17,705,GE,GEN
+16-17,865,GE,GEN
+16-17,614,GE,GEN
+16-17,614,CHN,CHN
+16-17,614,MM,MM
+16-17,614,SPN,SPN
+16-17,644,GE,GEN
+16-17,644,AF,AF
+16-17,544,GE,GEN
+16-17,544,MM,MM
+16-17,544,MS,MS
+16-17,664,GE,GEN
+16-17,664,AO,DA
+16-17,670,GE,GEN
+16-17,670,AF,AF
+16-17,490,GE,GEN
+16-17,490,CHN,CHN
+16-17,479,GE,GEN
+16-17,479,KORIMM,IMMK
+16-17,691,GE,GEN
+16-17,691,FB,FIL
+16-17,691,MM,MM
+16-17,691,SPN,SPN
+16-17,830,GE,GEN
+16-17,714,SPNIMM,IMMS
+16-17,549,GE,GEN
+16-17,549,CHN,CHN
+16-17,718,GE,GEN
+16-17,704,GE,GEN
+16-17,505,GE,GEN
+16-17,722,GE,GEN
+16-17,722,MM,MM
+16-17,724,NS,NEWS
+16-17,729,GE,GEN
+16-17,729,CHN,CHN
+16-17,729,SPNIMM,IMMS
+16-17,814,GE,GEN
+16-17,723,GE,GEN
+16-17,723,CHN,CHN
+16-17,723,SPN,SPN
+16-17,650,GE,GEN
+16-17,650,SPN,SPN
+16-17,735,GE,GEN
+16-17,752,GE,GEN
+16-17,746,GE,GEN
+16-17,746,MNDIMM,IMMM
+16-17,638,GE,GEN
+16-17,638,CHN,CHN
+16-17,786,GE,GEN
+16-17,786,JPN,JPN
+16-17,786,MM,MM
+16-17,569,GE,GEN
+16-17,569,MM,MM
+16-17,875,GE,GEN
+16-17,790,GE,GEN
+16-17,890,GE,GEN
+16-17,760,GE,GEN
+16-17,760,SPNIMM,IMMS
+16-17,760,MM,MM
+16-17,895,GE,GEN
+16-17,796,GE,GEN
+16-17,493,GE,GEN
+16-17,816,GE,GEN
+16-17,816,MS,MS
+16-17,816,SPN,SPN
+16-17,879,GE,GEN
+16-17,656,GE,GEN
+16-17,656,SPN,SPN
+16-17,820,GE,GEN
+16-17,884,GE,GEN
+16-17,823,GE,GEN
+16-17,823,AF,AF
+16-17,488,GE,GEN
+16-17,834,GE,GEN
+16-17,834,CHN,CHN
+16-17,834,SPN,SPN
+16-17,838,GE,GEN
+16-17,838,MNDIMM,IMMM
+16-17,838,SA,SA
+16-17,782,GE,GEN
+16-17,782,CHN,CHN
+16-17,782,MM,MM
+16-17,882,MM,MM
+16-17,874,GE,GEN
+16-17,842,GE,GEN
+16-17,842,MS,MS
+16-17,750,GE,GEN
+16-17,750,SA,SA
+16-17,848,GE,GEN
+16-17,848,CHN,CHN
+16-17,513,GE,GEN
+16-17,513,CHN,CHN
+16-17,513,SPN,SPN
+16-17,859,GE,GEN
+16-17,706,GE,GEN
+16-17,860,GE,GEN
+16-17,860,MS,MS
+16-17,862,GE,GEN
+16-17,862,CHN,CHN
+16-17,881,GE,GEN
+16-17,867,GE,GEN
+16-17,867,CHN,CHN
+16-17,497,GE,GEN
+16-17,497,SPNIMM,IMMS
+16-17,876,GE,GEN
+16-17,876,CHNIMM,IMMC
+16-17,801,GE,GEN
+16-17,801,SA,SA
+16-17,832,GE,GEN
+16-17,815,GE,GEN
+16-17,815,MM,MM
+16-17,815,CA,CA
+16-17,439,GE,GEN
+16-17,439,MM,MM
+16-17,439,MS,MS
+16-17,439,NX,NEWX
+16-17,439,CA,CA
+16-17,764,GE,GEN
+16-17,764,MM,MM
+16-17,764,MS,MS
+16-17,764,NX,NEWX
+16-17,764,CA,CA
+16-17,559,GE,GEN
+16-17,559,ED,ED
+16-17,559,CHNIMM,IMMC
+16-17,559,MM,MM
+16-17,559,MS,MS
+16-17,559,NX,NEWX
+16-17,559,CA,CA
+16-17,624,GE,GEN
+16-17,624,MM,MM
+16-17,757,GE,GEN
+16-17,757,MM,MM
+16-17,757,MS,MS
+16-17,405,GE,GEN
+16-17,405,ED,ED
+16-17,405,MNDIMM,IMMM
+16-17,405,MM,MM
+16-17,405,MS,MS
+16-17,405,NC,NEWC
+16-17,405,NX,NEWX
+16-17,405,CHNIMM,IMMC
+16-17,697,GE,GEN
+16-17,697,MM,MM
+16-17,697,MS,MS
+16-17,697,CA,CA
+16-17,853,GE,GEN
+16-17,853,ED,ED
+16-17,853,MM,MM
+16-17,853,NX,NEWX
+16-17,853,CA,CA
+16-17,725,GE,GEN
+16-17,725,ED,ED
+16-17,725,MM,MM
+16-17,725,MS,MS
+16-17,725,NX,NEWX
+16-17,725,CA,CA
+16-17,651,GE,GEN
+16-17,651,SPNIMM,IMMS
+16-17,651,MM,MM
+16-17,651,MS,MS
+16-17,651,CA,CA
+16-17,621,GE,GEN
+16-17,621,NS,NEWS
+16-17,621,NX,NEWX
+16-17,785,GE,GEN
+16-17,785,MM,MM
+16-17,785,CA,CA
+16-17,571,GE,GEN
+16-17,571,ED,ED
+16-17,571,MM,MM
+16-17,571,MS,MS
+16-17,571,NX,NEWX
+16-17,431,GE,GEN
+16-17,431,MNDIMM,IMMM
+16-17,431,MM,MM
+16-17,431,SA,SA
+16-17,858,GE,GEN
+16-17,618,SPNIMM,IMMS
+16-17,618,MM,MM
+16-17,449,GE,GEN
+16-17,449,FB,FIL
+16-17,632,GE,GEN
+16-17,632,ED,ED
+16-17,632,MM,MM
+16-17,632,MS,MS
+16-17,529,GE,GEN
+16-17,529,AF,AF
+16-17,529,SPNIMM,IMMS
+16-17,529,MM,MM
+16-17,529,MS,MS
+16-17,529,NX,NEWX
+16-17,546,GE,GEN
+16-17,546,ED,ED
+16-17,546,MM,MM
+16-17,546,NX,NEWX
+16-17,546,SA,SA
+16-17,404,GE,GEN
+16-17,404,AF,AF
+16-17,404,MM,MM
+16-17,404,MS,MS
+16-17,404,SA,SA
+16-17,607,GE,GEN
+16-17,607,ED,ED
+16-17,607,CHNIMM,IMMC
+16-17,607,SPNIMM,IMMS
+16-17,607,MM,MM
+16-17,607,NX,NEWX
+16-17,710,GE,GEN
+16-17,710,CHNIMM,IMMC
+16-17,710,MM,MM
+16-17,676,GE,GEN
+16-17,676,MS,MS
+16-17,634,GE,GEN
+16-17,634,SPNIMM,IMMS
+16-17,634,MM,MM
+16-17,634,MS,MS
+16-17,708,GE,GEN
+16-17,708,CHNIMM,IMMC
+16-17,708,MM,MM
+16-17,708,MS,MS
+16-17,708,NX,NEWX
+16-17,778,GE,GEN
+16-17,778,DH,DH
+16-17,778,ED,ED
+16-17,778,JPN,JPN
+16-17,778,MM,MM
+16-17,778,MS,MS
+16-17,797,GE,GEN
+16-17,797,AF,AF
+16-17,797,CHNIMM,IMMC
+16-17,797,MM,MM
+16-17,797,MS,MS
+16-17,868,GE,GEN
+16-17,868,MM,MM
+16-17,868,MS,MS
+16-17,868,NX,NEWX
+16-17,485,CHNIMM,IMMC
+15-16,413,GE,GEN
+15-16,413,SA,SA
+15-16,420,GE,GEN
+15-16,420,SPNIMM,IMMS
+15-16,420,MS,MS
+15-16,844,GE,GEN
+15-16,435,GE,GEN
+15-16,845,GE,GEN
+15-16,456,GE,GEN
+15-16,456,SPN,SPN
+15-16,625,GE,GEN
+15-16,603,GE,GEN
+15-16,603,TC,DT
+15-16,603,SPN,SPN
+15-16,872,GE,GEN
+15-16,872,CHN,CHN
+15-16,476,NC,NEWC
+15-16,509,CHNIMM,IMMC
+15-16,478,GE,GEN
+15-16,478,JPN,JPN
+15-16,478,MM,MM
+15-16,481,GE,GEN
+15-16,481,SPN,SPN
+15-16,525,GE,GEN
+15-16,507,GE,GEN
+15-16,507,MM,MM
+15-16,849,GE,GEN
+15-16,521,GE,GEN
+15-16,537,SPNIMM,IMMS
+15-16,537,MS,MS
+15-16,539,GE,GEN
+15-16,680,GE,GEN
+15-16,680,SPNIMM,IMMS
+15-16,680,ED,ED
+15-16,880,GE,GEN
+15-16,562,GE,GEN
+15-16,562,AF,AF
+15-16,562,CHNIMM,IMMC
+15-16,562,CHN,CHN
+15-16,575,GE,GEN
+15-16,575,SA,SA
+15-16,575,SPN,SPN
+15-16,589,GE,GEN
+15-16,589,SA,SA
+15-16,593,GE,GEN
+15-16,593,SPN,SPN
+15-16,453,GE,GEN
+15-16,453,SPNIMM,IMMS
+15-16,865,GE,GEN
+15-16,614,GE,GEN
+15-16,614,CHN,CHN
+15-16,614,MM,MM
+15-16,614,SPN,SPN
+15-16,644,GE,GEN
+15-16,644,AF,AF
+15-16,544,GE,GEN
+15-16,544,MM,MM
+15-16,664,GE,GEN
+15-16,670,GE,GEN
+15-16,670,AF,AF
+15-16,490,GE,GEN
+15-16,490,CHN,CHN
+15-16,479,GE,GEN
+15-16,479,KORIMM,IMMK
+15-16,691,GE,GEN
+15-16,691,FB,FIL
+15-16,691,SPN,SPN
+15-16,830,GE,GEN
+15-16,714,SPNIMM,IMMS
+15-16,549,GE,GEN
+15-16,549,CHN,CHN
+15-16,718,GE,GEN
+15-16,704,GE,GEN
+15-16,505,GE,GEN
+15-16,722,GE,GEN
+15-16,722,MM,MM
+15-16,724,GE,GEN
+15-16,724,NS,NEWS
+15-16,729,GE,GEN
+15-16,729,CHN,CHN
+15-16,729,SPNIMM,IMMS
+15-16,814,GE,GEN
+15-16,723,GE,GEN
+15-16,723,CHN,CHN
+15-16,723,SPN,SPN
+15-16,650,GE,GEN
+15-16,650,SPN,SPN
+15-16,735,GE,GEN
+15-16,752,GE,GEN
+15-16,746,GE,GEN
+15-16,746,MNDIMM,IMMM
+15-16,638,GE,GEN
+15-16,638,CHN,CHN
+15-16,786,GE,GEN
+15-16,786,JPN,JPN
+15-16,786,MM,MM
+15-16,569,GE,GEN
+15-16,569,MM,MM
+15-16,875,GE,GEN
+15-16,790,GE,GEN
+15-16,890,GE,GEN
+15-16,760,GE,GEN
+15-16,760,SPNIMM,IMMS
+15-16,760,MM,MM
+15-16,895,GE,GEN
+15-16,796,GE,GEN
+15-16,493,GE,GEN
+15-16,816,GE,GEN
+15-16,816,MS,MS
+15-16,816,SPN,SPN
+15-16,879,GE,GEN
+15-16,656,GE,GEN
+15-16,656,SPN,SPN
+15-16,820,GE,GEN
+15-16,823,GE,GEN
+15-16,823,AF,AF
+15-16,488,GE,GEN
+15-16,834,GE,GEN
+15-16,834,CHN,CHN
+15-16,834,SPN,SPN
+15-16,838,GE,GEN
+15-16,838,MNDIMM,IMMM
+15-16,838,SA,SA
+15-16,782,GE,GEN
+15-16,782,MM,MM
+15-16,882,GE,GEN
+15-16,882,MM,MM
+15-16,874,GE,GEN
+15-16,842,GE,GEN
+15-16,842,MS,MS
+15-16,750,GE,GEN
+15-16,750,SA,SA
+15-16,848,GE,GEN
+15-16,848,CHN,CHN
+15-16,513,GE,GEN
+15-16,513,CHN,CHN
+15-16,513,SPN,SPN
+15-16,859,GE,GEN
+15-16,859,ED,ED
+15-16,860,GE,GEN
+15-16,860,MS,MS
+15-16,862,GE,GEN
+15-16,862,CHN,CHN
+15-16,881,GE,GEN
+15-16,867,GE,GEN
+15-16,867,CHN,CHN
+15-16,497,GE,GEN
+15-16,497,SPNIMM,IMMS
+15-16,876,GE,GEN
+15-16,876,CHNIMM,IMMC
+15-16,801,GE,GEN
+15-16,801,SA,SA
+15-16,832,GE,GEN
+15-16,815,GE,GEN
+15-16,815,MM,MM
+15-16,815,CA,CA
+15-16,439,GE,GEN
+15-16,439,ED,ED
+15-16,439,MM,MM
+15-16,439,MS,MS
+15-16,439,NX,NEWX
+15-16,439,CA,CA
+15-16,764,GE,GEN
+15-16,764,MM,MM
+15-16,764,MS,MS
+15-16,764,NX,NEWX
+15-16,764,CA,CA
+15-16,559,GE,GEN
+15-16,559,ED,ED
+15-16,559,CHNIMM,IMMC
+15-16,559,MM,MM
+15-16,559,MS,MS
+15-16,559,NX,NEWX
+15-16,559,CA,CA
+15-16,624,GE,GEN
+15-16,624,MM,MM
+15-16,757,GE,GEN
+15-16,757,MM,MM
+15-16,757,MS,MS
+15-16,405,GE,GEN
+15-16,405,ED,ED
+15-16,405,MNDIMM,IMMM
+15-16,405,MM,MM
+15-16,405,MS,MS
+15-16,405,NC,NEWC
+15-16,405,NX,NEWX
+15-16,697,GE,GEN
+15-16,697,MM,MM
+15-16,697,MS,MS
+15-16,697,SA,SA
+15-16,697,CA,CA
+15-16,853,GE,GEN
+15-16,853,ED,ED
+15-16,853,MM,MM
+15-16,853,MS,MS
+15-16,853,NX,NEWX
+15-16,853,CA,CA
+15-16,725,GE,GEN
+15-16,725,ED,ED
+15-16,725,MM,MM
+15-16,725,MS,MS
+15-16,725,NX,NEWX
+15-16,725,CA,CA
+15-16,651,GE,GEN
+15-16,651,SPNIMM,IMMS
+15-16,651,MM,MM
+15-16,651,MS,MS
+15-16,651,CA,CA
+15-16,621,GE,GEN
+15-16,621,NC,NEWC
+15-16,621,NS,NEWS
+15-16,621,NX,NEWX
+15-16,785,GE,GEN
+15-16,785,MM,MM
+15-16,785,CA,CA
+15-16,571,GE,GEN
+15-16,571,ED,ED
+15-16,571,MM,MM
+15-16,571,MS,MS
+15-16,571,NX,NEWX
+15-16,431,GE,GEN
+15-16,431,MNDIMM,IMMM
+15-16,431,MM,MM
+15-16,431,SA,SA
+15-16,858,GE,GEN
+15-16,858,MM,MM
+15-16,618,SPNIMM,IMMS
+15-16,618,MM,MM
+15-16,449,GE,GEN
+15-16,449,FB,FIL
+15-16,632,GE,GEN
+15-16,632,ED,ED
+15-16,632,MM,MM
+15-16,632,MS,MS
+15-16,529,GE,GEN
+15-16,529,SPNIMM,IMMS
+15-16,529,MM,MM
+15-16,529,MS,MS
+15-16,529,NX,NEWX
+15-16,546,GE,GEN
+15-16,546,MM,MM
+15-16,546,NX,NEWX
+15-16,546,SA,SA
+15-16,404,GE,GEN
+15-16,404,AF,AF
+15-16,404,MM,MM
+15-16,404,MS,MS
+15-16,404,SA,SA
+15-16,607,GE,GEN
+15-16,607,ED,ED
+15-16,607,CHNIMM,IMMC
+15-16,607,SPNIMM,IMMS
+15-16,607,MM,MM
+15-16,710,GE,GEN
+15-16,710,MM,MM
+15-16,710,MS,MS
+15-16,676,GE,GEN
+15-16,676,MS,MS
+15-16,676,MM,MM
+15-16,634,GE,GEN
+15-16,634,SPNIMM,IMMS
+15-16,634,MM,MM
+15-16,634,MS,MS
+15-16,708,GE,GEN
+15-16,708,MM,MM
+15-16,708,NX,NEWX
+15-16,778,GE,GEN
+15-16,778,DH,DH
+15-16,778,ED,ED
+15-16,778,JPN,JPN
+15-16,778,MM,MM
+15-16,778,MS,MS
+15-16,797,GE,GEN
+15-16,797,AF,AF
+15-16,797,CHNIMM,IMMC
+15-16,797,MM,MM
+15-16,797,MS,MS
+15-16,868,GE,GEN
+15-16,868,MM,MM
+15-16,868,MS,MS
+15-16,868,NX,NEWX
+15-16,485,CHNIMM,IMMC
+14-15,413,GE,GEN
+14-15,413,MS,MS
+14-15,420,GE,GEN
+14-15,420,SPNIMM,IMMS
+14-15,420,MS,MS
+14-15,435,GE,GEN
+14-15,845,GE,GEN
+14-15,456,GE,GEN
+14-15,456,SPN,SPN
+14-15,625,GE,GEN
+14-15,603,GE,GEN
+14-15,603,TC,DT
+14-15,603,SPN,SPN
+14-15,872,GE,GEN
+14-15,872,CHN,CHN
+14-15,476,NC,NEWC
+14-15,509,CHNIMM,IMMC
+14-15,478,GE,GEN
+14-15,478,JPN,JPN
+14-15,478,MM,MM
+14-15,481,GE,GEN
+14-15,481,SPN,SPN
+14-15,525,GE,GEN
+14-15,507,GE,GEN
+14-15,507,MM,MM
+14-15,849,GE,GEN
+14-15,521,GE,GEN
+14-15,521,MM,MM
+14-15,537,CHNIMM,IMMC
+14-15,537,SPNIMM,IMMS
+14-15,537,MS,MS
+14-15,539,GE,GEN
+14-15,680,GE,GEN
+14-15,680,SPNIMM,IMMS
+14-15,562,GE,GEN
+14-15,562,CHNIMM,IMMC
+14-15,562,MM,MM
+14-15,562,CHN,CHN
+14-15,575,GE,GEN
+14-15,575,MS,MS
+14-15,575,SPN,SPN
+14-15,589,GE,GEN
+14-15,589,SA,SA
+14-15,593,GE,GEN
+14-15,593,SPN,SPN
+14-15,453,GE,GEN
+14-15,453,SPNIMM,IMMS
+14-15,865,GE,GEN
+14-15,614,GE,GEN
+14-15,614,CHN,CHN
+14-15,614,MM,MM
+14-15,614,SPN,SPN
+14-15,644,GE,GEN
+14-15,644,MM,MM
+14-15,544,GE,GEN
+14-15,544,MM,MM
+14-15,664,GE,GEN
+14-15,664,AO,DA
+14-15,670,GE,GEN
+14-15,670,MM,MM
+14-15,490,GE,GEN
+14-15,490,CHN,CHN
+14-15,479,GE,GEN
+14-15,479,KORIMM,IMMK
+14-15,691,GE,GEN
+14-15,691,SPN,SPN
+14-15,830,GE,GEN
+14-15,714,SPNIMM,IMMS
+14-15,549,GE,GEN
+14-15,549,CHN,CHN
+14-15,718,GE,GEN
+14-15,704,GE,GEN
+14-15,505,GE,GEN
+14-15,722,GE,GEN
+14-15,722,MM,MM
+14-15,724,NS,NEWS
+14-15,729,GE,GEN
+14-15,729,CHN,CHN
+14-15,729,SPNIMM,IMMS
+14-15,814,GE,GEN
+14-15,723,GE,GEN
+14-15,723,CHN,CHN
+14-15,723,SPN,SPN
+14-15,650,GE,GEN
+14-15,650,SPN,SPN
+14-15,735,GE,GEN
+14-15,752,GE,GEN
+14-15,746,GE,GEN
+14-15,746,MNDIMM,IMMM
+14-15,638,GE,GEN
+14-15,638,CHN,CHN
+14-15,786,GE,GEN
+14-15,786,JPN,JPN
+14-15,786,MM,MM
+14-15,569,GE,GEN
+14-15,569,MM,MM
+14-15,875,GE,GEN
+14-15,790,GE,GEN
+14-15,890,GE,GEN
+14-15,760,GE,GEN
+14-15,760,SPNIMM,IMMS
+14-15,760,MM,MM
+14-15,895,GE,GEN
+14-15,796,GE,GEN
+14-15,493,GE,GEN
+14-15,816,GE,GEN
+14-15,816,MS,MS
+14-15,816,SPN,SPN
+14-15,879,GE,GEN
+14-15,656,GE,GEN
+14-15,656,SPN,SPN
+14-15,820,GE,GEN
+14-15,823,GE,GEN
+14-15,823,MM,MM
+14-15,488,GE,GEN
+14-15,834,GE,GEN
+14-15,834,CHN,CHN
+14-15,834,SPN,SPN
+14-15,838,GE,GEN
+14-15,838,MNDIMM,IMMM
+14-15,782,GE,GEN
+14-15,782,MM,MM
+14-15,782,MS,MS
+14-15,874,GE,GEN
+14-15,842,GE,GEN
+14-15,842,MS,MS
+14-15,750,GE,GEN
+14-15,750,SA,SA
+14-15,848,GE,GEN
+14-15,848,CHN,CHN
+14-15,513,GE,GEN
+14-15,513,CHN,CHN
+14-15,513,SPN,SPN
+14-15,859,GE,GEN
+14-15,860,GE,GEN
+14-15,862,GE,GEN
+14-15,862,CHN,CHN
+14-15,881,GE,GEN
+14-15,867,GE,GEN
+14-15,867,CHN,CHN
+14-15,497,GE,GEN
+14-15,497,SPNIMM,IMMS
+14-15,876,GE,GEN
+14-15,876,CHNIMM,IMMC
+14-15,801,GE,GEN
+14-15,801,SA,SA
+14-15,832,GE,GEN
+14-15,815,GE,GEN
+14-15,815,MM,MM
+14-15,815,CA,CA
+14-15,439,GE,GEN
+14-15,439,ED,ED
+14-15,439,MM,MM
+14-15,439,MS,MS
+14-15,439,NX,NEWX
+14-15,439,CA,CA
+14-15,764,GE,GEN
+14-15,764,MM,MM
+14-15,764,MS,MS
+14-15,764,CA,CA
+14-15,559,GE,GEN
+14-15,559,ED,ED
+14-15,559,CHNIMM,IMMC
+14-15,559,MM,MM
+14-15,559,MS,MS
+14-15,559,NX,NEWX
+14-15,624,GE,GEN
+14-15,624,MM,MM
+14-15,757,GE,GEN
+14-15,757,MM,MM
+14-15,757,MS,MS
+14-15,405,GE,GEN
+14-15,405,CHNIMM,IMMC
+14-15,405,MM,MM
+14-15,405,MS,MS
+14-15,405,NC,NEWC
+14-15,405,NX,NEWX
+14-15,697,GE,GEN
+14-15,697,MM,MM
+14-15,697,MS,MS
+14-15,697,CA,CA
+14-15,853,GE,GEN
+14-15,853,MM,MM
+14-15,853,MS,MS
+14-15,853,NX,NEWX
+14-15,853,CA,CA
+14-15,725,GE,GEN
+14-15,725,MM,MM
+14-15,725,MS,MS
+14-15,725,NX,NEWX
+14-15,725,CA,CA
+14-15,651,GE,GEN
+14-15,651,MM,MM
+14-15,651,CA,CA
+14-15,621,GE,GEN
+14-15,621,NX,NEWX
+14-15,785,GE,GEN
+14-15,785,CA,CA
+14-15,571,GE,GEN
+14-15,571,ED,ED
+14-15,571,MM,MM
+14-15,571,MS,MS
+14-15,571,NX,NEWX
+14-15,431,GE,GEN
+14-15,431,MNDIMM,IMMM
+14-15,431,MM,MM
+14-15,431,SA,SA
+14-15,431,MS,MS
+14-15,618,SPNIMM,IMMS
+14-15,618,MM,MM
+14-15,449,GE,GEN
+14-15,449,FB,FIL
+14-15,632,GE,GEN
+14-15,632,MM,MM
+14-15,632,MS,MS
+14-15,529,GE,GEN
+14-15,529,SPNIMM,IMMS
+14-15,529,MM,MM
+14-15,529,MS,MS
+14-15,529,NX,NEWX
+14-15,546,GE,GEN
+14-15,546,MM,MM
+14-15,546,NX,NEWX
+14-15,546,SA,SA
+14-15,546,MS,MS
+14-15,404,GE,GEN
+14-15,404,MM,MM
+14-15,404,MS,MS
+14-15,607,GE,GEN
+14-15,607,CHNIMM,IMMC
+14-15,607,SPNIMM,IMMS
+14-15,607,MM,MM
+14-15,607,MS,MS
+14-15,710,GE,GEN
+14-15,710,MM,MM
+14-15,676,GE,GEN
+14-15,676,MS,MS
+14-15,634,GE,GEN
+14-15,634,SPNIMM,IMMS
+14-15,634,MM,MM
+14-15,634,MS,MS
+14-15,708,GE,GEN
+14-15,708,MM,MM
+14-15,708,MS,MS
+14-15,708,NX,NEWX
+14-15,778,GE,GEN
+14-15,778,JPN,JPN
+14-15,778,MM,MM
+14-15,778,MS,MS
+14-15,797,GE,GEN
+14-15,797,CHNIMM,IMMC
+14-15,797,MM,MM
+14-15,797,MS,MS
+14-15,868,GE,GEN
+14-15,868,MM,MM
+14-15,868,MS,MS
+14-15,868,NX,NEWX
+14-15,485,CHNIMM,IMMC
+13-14,413,GE,GEN
+13-14,413,MS,MS
+13-14,420,GE,GEN
+13-14,420,SPNIMM,IMMS
+13-14,420,MS,MS
+13-14,435,GE,GEN
+13-14,845,GE,GEN
+13-14,456,GE,GEN
+13-14,456,SPN,SPN
+13-14,625,GE,GEN
+13-14,603,GE,GEN
+13-14,603,SPN,SPN
+13-14,872,GE,GEN
+13-14,872,CHN,CHN
+13-14,509,CHNIMM,IMMC
+13-14,478,GE,GEN
+13-14,478,JPN,JPN
+13-14,481,GE,GEN
+13-14,481,SPN,SPN
+13-14,525,GE,GEN
+13-14,525,MM,MM
+13-14,507,GE,GEN
+13-14,521,GE,GEN
+13-14,537,SPNIMM,IMMS
+13-14,537,MS,MS
+13-14,539,GE,GEN
+13-14,680,GE,GEN
+13-14,680,SPNIMM,IMMS
+13-14,562,GE,GEN
+13-14,562,CHNIMM,IMMC
+13-14,562,SA,SA
+13-14,562,CHN,CHN
+13-14,575,GE,GEN
+13-14,575,MS,MS
+13-14,575,SPN,SPN
+13-14,589,GE,GEN
+13-14,589,SA,SA
+13-14,593,GE,GEN
+13-14,593,SPN,SPN
+13-14,453,GE,GEN
+13-14,453,SPNIMM,IMMS
+13-14,865,GE,GEN
+13-14,614,GE,GEN
+13-14,614,CHN,CHN
+13-14,614,MM,MM
+13-14,614,SPN,SPN
+13-14,644,GE,GEN
+13-14,644,MM,MM
+13-14,544,GE,GEN
+13-14,544,MM,MM
+13-14,544,MS,MS
+13-14,664,GE,GEN
+13-14,664,DH,DH
+13-14,670,GE,GEN
+13-14,670,MM,MM
+13-14,490,GE,GEN
+13-14,490,CHN,CHN
+13-14,479,GE,GEN
+13-14,479,KORIMM,IMMK
+13-14,691,GE,GEN
+13-14,691,FB,FIL
+13-14,691,SPN,SPN
+13-14,830,GE,GEN
+13-14,714,SPNIMM,IMMS
+13-14,549,GE,GEN
+13-14,549,CHN,CHN
+13-14,718,GE,GEN
+13-14,718,ED,ED
+13-14,704,GE,GEN
+13-14,505,GE,GEN
+13-14,722,GE,GEN
+13-14,722,MM,MM
+13-14,724,NS,NEWS
+13-14,729,GE,GEN
+13-14,729,CHN,CHN
+13-14,729,SPNIMM,IMMS
+13-14,814,GE,GEN
+13-14,723,GE,GEN
+13-14,723,CHN,CHN
+13-14,723,SPN,SPN
+13-14,650,GE,GEN
+13-14,650,SPN,SPN
+13-14,735,GE,GEN
+13-14,752,GE,GEN
+13-14,746,GE,GEN
+13-14,746,MNDIMM,IMMM
+13-14,638,GE,GEN
+13-14,638,CHN,CHN
+13-14,638,MS,MS
+13-14,786,GE,GEN
+13-14,786,JPN,JPN
+13-14,786,MM,MM
+13-14,569,GE,GEN
+13-14,569,MM,MM
+13-14,790,GE,GEN
+13-14,760,GE,GEN
+13-14,760,SPNIMM,IMMS
+13-14,760,MM,MM
+13-14,895,GE,GEN
+13-14,796,GE,GEN
+13-14,493,GE,GEN
+13-14,816,GE,GEN
+13-14,816,MS,MS
+13-14,816,SPN,SPN
+13-14,879,GE,GEN
+13-14,656,GE,GEN
+13-14,656,SPN,SPN
+13-14,820,GE,GEN
+13-14,823,GE,GEN
+13-14,823,MM,MM
+13-14,488,GE,GEN
+13-14,834,GE,GEN
+13-14,834,CHN,CHN
+13-14,834,SPN,SPN
+13-14,838,GE,GEN
+13-14,838,MNDIMM,IMMM
+13-14,782,GE,GEN
+13-14,782,MM,MM
+13-14,874,GE,GEN
+13-14,842,GE,GEN
+13-14,842,MS,MS
+13-14,750,GE,GEN
+13-14,750,SA,SA
+13-14,848,GE,GEN
+13-14,848,CHN,CHN
+13-14,513,GE,GEN
+13-14,513,CHN,CHN
+13-14,513,SPN,SPN
+13-14,513,ED,ED
+13-14,859,GE,GEN
+13-14,860,GE,GEN
+13-14,862,GE,GEN
+13-14,862,CHN,CHN
+13-14,867,GE,GEN
+13-14,867,CHN,CHN
+13-14,497,GE,GEN
+13-14,497,SPNIMM,IMMS
+13-14,876,GE,GEN
+13-14,876,CHNIMM,IMMC
+13-14,801,GE,GEN
+13-14,801,SA,SA
+13-14,832,GE,GEN
+13-14,815,GE,GEN
+13-14,815,MM,MM
+13-14,815,CA,CA
+13-14,439,GE,GEN
+13-14,439,MM,MM
+13-14,439,MS,MS
+13-14,439,CA,CA
+13-14,764,GE,GEN
+13-14,764,MM,MM
+13-14,764,MS,MS
+13-14,764,CA,CA
+13-14,559,GE,GEN
+13-14,559,ED,ED
+13-14,559,CHNIMM,IMMC
+13-14,559,MM,MM
+13-14,559,MS,MS
+13-14,559,NX,NEWX
+13-14,624,GE,GEN
+13-14,624,MM,MM
+13-14,757,GE,GEN
+13-14,757,MS,MS
+13-14,405,GE,GEN
+13-14,405,ED,ED
+13-14,405,CHNIMM,IMMC
+13-14,405,MM,MM
+13-14,405,MS,MS
+13-14,405,NC,NEWC
+13-14,405,NX,NEWX
+13-14,697,GE,GEN
+13-14,697,MM,MM
+13-14,697,MS,MS
+13-14,697,CA,CA
+13-14,853,GE,GEN
+13-14,853,MM,MM
+13-14,853,NX,NEWX
+13-14,853,CA,CA
+13-14,725,GE,GEN
+13-14,725,MM,MM
+13-14,725,MS,MS
+13-14,725,NX,NEWX
+13-14,725,CA,CA
+13-14,651,GE,GEN
+13-14,651,MM,MM
+13-14,651,CA,CA
+13-14,621,GE,GEN
+13-14,621,NX,NEWX
+13-14,785,GE,GEN
+13-14,785,CA,CA
+13-14,571,GE,GEN
+13-14,571,ED,ED
+13-14,571,MM,MM
+13-14,571,MS,MS
+13-14,571,NX,NEWX
+13-14,431,GE,GEN
+13-14,431,MNDIMM,IMMM
+13-14,431,MM,MM
+13-14,431,MS,MS
+13-14,618,SPNIMM,IMMS
+13-14,618,MM,MM
+13-14,618,GE,GEN
+13-14,449,GE,GEN
+13-14,449,FB,FIL
+13-14,632,GE,GEN
+13-14,632,MM,MM
+13-14,632,MS,MS
+13-14,529,GE,GEN
+13-14,529,SPNIMM,IMMS
+13-14,529,MM,MM
+13-14,529,MS,MS
+13-14,529,NX,NEWX
+13-14,546,GE,GEN
+13-14,546,MM,MM
+13-14,546,NC,NEWC
+13-14,546,NX,NEWX
+13-14,404,GE,GEN
+13-14,404,MM,MM
+13-14,404,MS,MS
+13-14,607,GE,GEN
+13-14,607,CHNIMM,IMMC
+13-14,607,SPNIMM,IMMS
+13-14,607,MM,MM
+13-14,710,GE,GEN
+13-14,710,MM,MM
+13-14,676,GE,GEN
+13-14,676,MS,MS
+13-14,634,GE,GEN
+13-14,634,SPNIMM,IMMS
+13-14,634,MM,MM
+13-14,708,GE,GEN
+13-14,708,MM,MM
+13-14,708,MS,MS
+13-14,708,NX,NEWX
+13-14,778,GE,GEN
+13-14,778,JPN,JPN
+13-14,778,MM,MM
+13-14,778,MS,MS
+13-14,797,GE,GEN
+13-14,797,MM,MM
+13-14,868,GE,GEN
+13-14,868,MM,MM
+13-14,868,MS,MS
+13-14,485,CHNIMM,IMMC
+12-13,413,GE,GEN
+12-13,413,GE,iGE
+12-13,420,GE,GEN
+12-13,420,GE,iGE
+12-13,420,SPNIMM,IMMS
+12-13,420,SN,iSN
+12-13,435,GE,GEN
+12-13,435,GE,iGE
+12-13,456,GE,GEN
+12-13,456,GE,iGE
+12-13,456,NC,INC
+12-13,456,SB,iSB
+12-13,456,SPN,SPN
+12-13,449,GE,GEN
+12-13,449,FB,FIL
+12-13,449,GE,iGE
+12-13,449,SPN,SPN
+12-13,625,GE,GEN
+12-13,625,GE,iGE
+12-13,603,GE,GEN
+12-13,603,GE,iGE
+12-13,603,NC,INC
+12-13,603,SB,iSB
+12-13,603,SPN,SPN
+12-13,872,GE,GEN
+12-13,872,CHN,CHN
+12-13,872,CB,iCB
+12-13,872,GE,iGE
+12-13,509,CN,iCN
+12-13,509,CHNIMM,IMMC
+12-13,478,GE,GEN
+12-13,478,GE,iGE
+12-13,478,JB,iJB
+12-13,478,JPN,JPN
+12-13,481,GE,GEN
+12-13,481,GE,iGE
+12-13,481,SPN,SPN
+12-13,525,GE,GEN
+12-13,525,GE,iGE
+12-13,507,GE,GEN
+12-13,507,GE,iGE
+12-13,521,GE,GEN
+12-13,521,GE,iGE
+12-13,537,SPNIMM,IMMS
+12-13,537,SN,iSN
+12-13,539,GE,GEN
+12-13,539,GE,iGE
+12-13,680,GE,GEN
+12-13,680,GE,iGE
+12-13,680,SPNIMM,IMMS
+12-13,680,SN,iSN
+12-13,562,GE,GEN
+12-13,562,CN,iCN
+12-13,562,GE,iGE
+12-13,562,CHNIMM,IMMC
+12-13,562,CHN,CHN
+12-13,575,GE,GEN
+12-13,575,GE,iGE
+12-13,575,NC,INC
+12-13,575,SB,iSB
+12-13,575,SPN,SPN
+12-13,589,GE,GEN
+12-13,589,GE,iGE
+12-13,593,GE,GEN
+12-13,593,GE,iGE
+12-13,593,NC,INC
+12-13,593,SB,iSB
+12-13,593,SPN,SPN
+12-13,453,GE,GEN
+12-13,453,GE,iGE
+12-13,453,SPNIMM,IMMS
+12-13,614,GE,GEN
+12-13,614,CHN,CHN
+12-13,614,CB,iCB
+12-13,614,GE,iGE
+12-13,614,NC,INC
+12-13,614,SB,iSB
+12-13,614,SPN,SPN
+12-13,644,GE,GEN
+12-13,644,GE,iGE
+12-13,544,GE,GEN
+12-13,544,GE,iGE
+12-13,664,GE,GEN
+12-13,664,GE,iGE
+12-13,670,GE,GEN
+12-13,670,GE,iGE
+12-13,490,GE,GEN
+12-13,490,CHN,CHN
+12-13,490,CB,iCB
+12-13,490,GE,iGE
+12-13,676,GE,GEN
+12-13,676,GE,iGE
+12-13,479,GE,GEN
+12-13,479,GE,iGE
+12-13,479,KORIMM,IMMK
+12-13,691,GE,GEN
+12-13,691,FB,FIL
+12-13,691,GE,iGE
+12-13,691,SPN,SPN
+12-13,830,GE,GEN
+12-13,830,GE,iGE
+12-13,714,SPNIMM,IMMS
+12-13,714,SN,iSN
+12-13,549,GE,GEN
+12-13,549,CHN,CHN
+12-13,549,GE,iGE
+12-13,718,GE,GEN
+12-13,718,GE,iGE
+12-13,505,GE,GEN
+12-13,505,GE,iGE
+12-13,722,GE,GEN
+12-13,722,GE,iGE
+12-13,724,NS,NEWS
+12-13,729,GE,GEN
+12-13,729,CHN,CHN
+12-13,729,CB,iCB
+12-13,729,SPNIMM,IMMS
+12-13,729,SN,iSN
+12-13,814,GE,GEN
+12-13,814,GE,iGE
+12-13,723,GE,GEN
+12-13,723,CHN,CHN
+12-13,723,CB,iCB
+12-13,723,GE,iGE
+12-13,723,NC,INC
+12-13,723,SB,iSB
+12-13,723,SPN,SPN
+12-13,650,GE,GEN
+12-13,650,SPN,SPN
+12-13,735,GE,GEN
+12-13,735,GE,iGE
+12-13,746,GE,GEN
+12-13,746,CN,iCN
+12-13,746,GE,iGE
+12-13,746,MNDIMM,IMMM
+12-13,638,GE,GEN
+12-13,638,CHN,CHN
+12-13,638,CB,iCB
+12-13,638,GE,iGE
+12-13,786,GE,GEN
+12-13,786,JPN,JPN
+12-13,569,GE,GEN
+12-13,569,GE,iGE
+12-13,790,GE,GEN
+12-13,790,GE,iGE
+12-13,760,GE,GEN
+12-13,760,SPNIMM,IMMS
+12-13,760,SN,iSN
+12-13,760,GE,iGE
+12-13,796,GE,GEN
+12-13,796,GE,iGE
+12-13,493,GE,GEN
+12-13,493,GE,iGE
+12-13,816,GE,GEN
+12-13,816,GE,iGE
+12-13,816,NC,INC
+12-13,816,SB,iSB
+12-13,816,SPN,SPN
+12-13,656,GE,GEN
+12-13,656,GE,iGE
+12-13,656,NC,INC
+12-13,656,SB,iSB
+12-13,656,SPN,SPN
+12-13,820,GE,GEN
+12-13,823,GE,GEN
+12-13,823,GE,iGE
+12-13,488,GE,GEN
+12-13,488,GE,iGE
+12-13,834,GE,GEN
+12-13,834,CHN,CHN
+12-13,834,CB,iCB
+12-13,834,GE,iGE
+12-13,834,SPN,SPN
+12-13,838,GE,GEN
+12-13,838,MNDIMM,IMMM
+12-13,782,GE,GEN
+12-13,782,GE,iGE
+12-13,842,GE,GEN
+12-13,842,GE,iGE
+12-13,750,GE,GEN
+12-13,750,GE,iGE
+12-13,848,GE,GEN
+12-13,848,CHN,CHN
+12-13,513,GE,GEN
+12-13,513,CHN,CHN
+12-13,513,CB,iCB
+12-13,513,GE,iGE
+12-13,513,NC,INC
+12-13,513,SB,iSB
+12-13,513,SPN,SPN
+12-13,859,GE,GEN
+12-13,859,GE,iGE
+12-13,862,GE,GEN
+12-13,862,CHN,CHN
+12-13,862,GE,iGE
+12-13,867,GE,GEN
+12-13,867,CHN,CHN
+12-13,867,CB,iCB
+12-13,867,GE,iGE
+12-13,497,GE,GEN
+12-13,497,SPNIMM,IMMS
+12-13,497,SN,iSN
+12-13,876,GE,GEN
+12-13,876,CN,iCN
+12-13,876,GE,iGE
+12-13,876,CHNIMM,IMMC
+12-13,801,GE,GEN
+12-13,801,GE,iGE
+12-13,832,GE,GEN
+12-13,832,GE,iGE
+12-13,815,GE,GEN
+12-13,815,GE,iGE
+12-13,439,GE,GEN
+12-13,439,GE,iGE
+12-13,764,GE,GEN
+12-13,764,GE,iGE
+12-13,559,GE,GEN
+12-13,559,GE,iGE
+12-13,559,CHNIMM,IMMC
+12-13,559,NX,NEWX
+12-13,624,GE,GEN
+12-13,757,GE,GEN
+12-13,757,GE,iGE
+12-13,405,GE,GEN
+12-13,405,GE,iGE
+12-13,405,CHNIMM,IMMC
+12-13,405,NC,NEWC
+12-13,405,NX,NEWX
+12-13,697,GE,GEN
+12-13,697,GE,iGE
+12-13,853,GE,GEN
+12-13,853,NX,NEWX
+12-13,725,GE,GEN
+12-13,725,GE,iGE
+12-13,725,SPNIMM,IMMS
+12-13,725,NX,NEWX
+12-13,651,GE,GEN
+12-13,651,GE,iGE
+12-13,621,GE,GEN
+12-13,621,NX,NEWX
+12-13,785,GE,GEN
+12-13,785,GE,iGE
+12-13,571,GE,GEN
+12-13,571,GE,iGE
+12-13,571,NX,NEWX
+12-13,431,GE,GEN
+12-13,431,GE,iGE
+12-13,431,MNDIMM,IMMM
+12-13,618,SPNIMM,IMMS
+12-13,618,SN,iSN
+12-13,618,GE,GEN
+12-13,632,GE,GEN
+12-13,632,GE,iGE
+12-13,529,GE,GEN
+12-13,529,GE,iGE
+12-13,529,SPNIMM,IMMS
+12-13,529,NX,NEWX
+12-13,546,GE,GEN
+12-13,546,GE,iGE
+12-13,546,NC,NEWC
+12-13,546,NX,NEWX
+12-13,404,GE,GEN
+12-13,404,GE,iGE
+12-13,607,GE,GEN
+12-13,607,GE,iGE
+12-13,607,CHNIMM,IMMC
+12-13,607,SPNIMM,IMMS
+12-13,710,GE,GEN
+12-13,710,GE,iGE
+12-13,634,GE,GEN
+12-13,634,GE,iGE
+12-13,634,SPNIMM,IMMS
+12-13,708,GE,GEN
+12-13,708,GE,iGE
+12-13,708,NX,NEWX
+12-13,778,GE,GEN
+12-13,778,GE,iGE
+12-13,778,JB,iJB
+12-13,778,JPN,JPN
+12-13,797,GE,GEN
+12-13,797,GE,iGE
+12-13,868,GE,GEN
+12-13,868,GE,iGE
+12-13,868,NX,NEWX
+12-13,485,CN,iCN
+12-13,485,CHNIMM,IMMC

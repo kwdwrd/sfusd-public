@@ -1,0 +1,1260 @@
+SchoolName,idSchool,Grade,Program,1st Choice,2nd Choice,3rd Choice,4th Choice,5th Choice,6th Choice,7th Choice,8th Choice+,Grand Total
+Alamo ES,413,KG,GE,84,94,87,69,64,48,49.0,731.0,1226.0
+Alamo ES,413,KG,SA,0,1,0,0,0,0,0.0,0.0,1.0
+Alamo ES,413,1,GE,84,7,5,3,1,1,1.0,18.0,120.0
+Alamo ES,413,1,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Alamo ES,413,2,GE,86,1,1,1,2,1,0.0,11.0,103.0
+Alamo ES,413,2,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Alamo ES,413,3,GE,88,5,2,4,1,3,1.0,6.0,110.0
+Alamo ES,413,3,SA,4,0,0,0,0,0,0.0,0.0,4.0
+Alamo ES,413,4,GE,87,2,1,0,0,1,1.0,4.0,96.0
+Alamo ES,413,4,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Alamo ES,413,5,GE,90,2,0,3,0,0,1.0,3.0,99.0
+Alamo ES,413,5,SA,2,0,0,0,0,0,0.0,0.0,2.0
+Alvarado ES,420,TK,GE,109,27,36,14,17,8,6.0,4.0,221.0
+Alvarado ES,420,KG,GE,59,75,53,56,46,50,50.0,606.0,995.0
+Alvarado ES,420,KG,MS,1,1,0,0,0,0,0.0,0.0,2.0
+Alvarado ES,420,KG,SE,68,54,52,40,43,29,24.0,342.0,652.0
+Alvarado ES,420,KG,SN,47,18,18,10,8,4,2.0,9.0,116.0
+Alvarado ES,420,1,GE,42,7,4,6,3,1,2.0,15.0,80.0
+Alvarado ES,420,1,MS,4,0,0,0,0,0,0.0,0.0,4.0
+Alvarado ES,420,1,SE,24,4,1,1,0,0,1.0,8.0,39.0
+Alvarado ES,420,1,SN,32,2,2,0,0,0,0.0,0.0,36.0
+Alvarado ES,420,2,GE,46,1,1,2,2,1,3.0,6.0,62.0
+Alvarado ES,420,2,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Alvarado ES,420,2,SN,44,0,0,0,0,0,0.0,1.0,45.0
+Alvarado ES,420,3,GE,44,5,2,2,1,1,1.0,7.0,63.0
+Alvarado ES,420,3,MS,0,1,0,0,0,0,0.0,0.0,1.0
+Alvarado ES,420,3,SN,46,1,1,0,0,0,0.0,0.0,48.0
+Alvarado ES,420,4,GE,41,2,0,1,1,0,1.0,2.0,48.0
+Alvarado ES,420,4,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Alvarado ES,420,4,SN,44,0,2,1,0,0,0.0,0.0,47.0
+Alvarado ES,420,5,GE,43,3,1,0,1,1,0.0,1.0,50.0
+Alvarado ES,420,5,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Alvarado ES,420,5,SN,42,1,1,0,0,0,0.0,0.0,44.0
+Aptos MS,431,6,GE,385,290,214,115,56,30,9.0,11.0,1110.0
+Aptos MS,431,6,MM,5,6,2,0,0,0,0.0,0.0,13.0
+Aptos MS,431,6,MN,49,6,6,4,2,0,1.0,0.0,68.0
+Aptos MS,431,6,SA,2,4,2,0,0,0,0.0,0.0,8.0
+Aptos MS,431,7,GE,255,4,6,3,3,1,0.0,1.0,273.0
+Aptos MS,431,7,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Aptos MS,431,7,MN,49,0,0,0,0,0,0.0,0.0,49.0
+Aptos MS,431,7,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Aptos MS,431,8,GE,254,4,5,2,2,1,1.0,1.0,270.0
+Aptos MS,431,8,MM,12,1,0,0,0,0,0.0,0.0,13.0
+Aptos MS,431,8,MN,68,2,0,0,0,0,0.0,0.0,70.0
+Aptos MS,431,8,SA,2,0,0,0,0,0,0.0,0.0,2.0
+Argonne ES,435,KG,GE,97,85,78,81,72,69,51.0,742.0,1275.0
+Argonne ES,435,1,GE,68,1,6,2,4,0,4.0,17.0,102.0
+Argonne ES,435,2,GE,83,1,2,1,3,0,3.0,12.0,105.0
+Argonne ES,435,3,GE,72,5,4,0,2,3,1.0,8.0,95.0
+Argonne ES,435,4,GE,84,4,2,1,1,0,1.0,3.0,96.0
+Argonne ES,435,5,GE,63,0,2,0,2,0,1.0,2.0,70.0
+Argonne TK,903,TK,GE,66,73,24,13,7,10,8.0,6.0,207.0
+Asawa (Ruth) SOTA HS,815,9,GE,113,5,4,5,3,0,1.0,0.0,131.0
+Asawa (Ruth) SOTA HS,815,9,MM,0,2,2,0,1,0,0.0,0.0,5.0
+Asawa (Ruth) SOTA HS,815,10,GE,217,0,0,0,0,0,0.0,0.0,217.0
+Asawa (Ruth) SOTA HS,815,10,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Asawa (Ruth) SOTA HS,815,11,GE,204,1,0,0,0,0,0.0,0.0,205.0
+Asawa (Ruth) SOTA HS,815,12,GE,157,0,0,0,0,0,0.0,0.0,157.0
+Asawa (Ruth) SOTA HS,815,12,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Balboa HS,439,9,GE,438,452,373,224,135,32,12.0,6.0,1672.0
+Balboa HS,439,9,MM,7,5,5,1,2,1,0.0,0.0,21.0
+Balboa HS,439,9,MS,2,1,1,0,0,0,0.0,0.0,4.0
+Balboa HS,439,9,NX,15,6,9,1,0,1,0.0,0.0,32.0
+Balboa HS,439,10,GE,300,11,6,3,2,0,0.0,1.0,323.0
+Balboa HS,439,10,MM,9,1,0,0,0,0,0.0,0.0,10.0
+Balboa HS,439,10,MS,4,0,0,0,0,0,0.0,0.0,4.0
+Balboa HS,439,10,NX,20,0,0,0,0,0,0.0,0.0,20.0
+Balboa HS,439,11,GE,302,3,4,1,1,0,0.0,0.0,311.0
+Balboa HS,439,11,MM,6,0,0,0,0,0,0.0,0.0,6.0
+Balboa HS,439,11,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Balboa HS,439,12,GE,274,2,1,0,0,0,0.0,0.0,277.0
+Balboa HS,439,12,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Balboa HS,439,12,MS,9,0,0,0,0,0,0.0,0.0,9.0
+Balboa HS,439,12,NX,13,0,0,0,0,0,0.0,0.0,13.0
+Balboa HS,439,13,CA,3,0,1,0,0,0,0.0,0.0,4.0
+Brown Jr. (Willie) MS,858,6,GE,125,73,50,38,20,13,6.0,8.0,333.0
+Brown Jr. (Willie) MS,858,7,GE,91,1,1,0,0,0,0.0,0.0,93.0
+Brown Jr. (Willie) MS,858,8,GE,70,2,2,2,1,1,0.0,0.0,78.0
+Bryant ES,456,KG,GE,3,13,5,13,6,5,2.0,172.0,219.0
+Bryant ES,456,KG,SB,27,10,12,13,6,3,1.0,8.0,80.0
+Bryant ES,456,1,GE,19,1,0,0,0,0,0.0,3.0,23.0
+Bryant ES,456,1,SB,23,0,0,0,0,0,0.0,0.0,23.0
+Bryant ES,456,2,GE,17,0,0,0,0,0,0.0,2.0,19.0
+Bryant ES,456,2,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Bryant ES,456,3,GE,13,0,1,0,0,0,0.0,3.0,17.0
+Bryant ES,456,3,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Bryant ES,456,4,GE,18,0,0,0,0,0,0.0,0.0,18.0
+Bryant ES,456,4,SB,20,0,0,0,0,0,0.0,0.0,20.0
+Bryant ES,456,5,GE,19,0,0,0,0,0,0.0,0.0,19.0
+Bryant ES,456,5,SB,14,0,0,0,0,0,0.0,0.0,14.0
+Buena Vista Horace Mann K-8,618,KG,MM,1,2,1,0,0,0,0.0,0.0,4.0
+Buena Vista Horace Mann K-8,618,KG,SE,34,30,29,22,24,12,12.0,316.0,479.0
+Buena Vista Horace Mann K-8,618,KG,SN,32,38,25,18,8,2,2.0,21.0,146.0
+Buena Vista Horace Mann K-8,618,1,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Buena Vista Horace Mann K-8,618,1,SE,26,2,1,1,1,0,0.0,4.0,35.0
+Buena Vista Horace Mann K-8,618,1,SN,43,1,1,2,0,0,0.0,0.0,47.0
+Buena Vista Horace Mann K-8,618,2,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Buena Vista Horace Mann K-8,618,2,SN,69,3,1,0,0,0,0.0,0.0,73.0
+Buena Vista Horace Mann K-8,618,3,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Buena Vista Horace Mann K-8,618,3,SN,74,5,2,1,0,0,0.0,0.0,82.0
+Buena Vista Horace Mann K-8,618,4,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Buena Vista Horace Mann K-8,618,4,SN,67,1,3,0,0,0,0.0,0.0,71.0
+Buena Vista Horace Mann K-8,618,5,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Buena Vista Horace Mann K-8,618,5,SN,71,4,2,0,0,0,0.0,0.0,77.0
+Buena Vista Horace Mann K-8,618,6,SN,116,34,29,12,2,2,4.0,3.0,202.0
+Buena Vista Horace Mann K-8,618,7,SN,63,1,0,0,0,0,0.0,0.0,64.0
+Buena Vista Horace Mann K-8,618,8,SN,64,0,0,0,0,0,0.0,0.0,64.0
+Burton (Phillip and Sala) HS,764,9,GE,196,174,132,84,47,33,29.0,19.0,714.0
+Burton (Phillip and Sala) HS,764,9,MM,1,2,1,1,0,0,0.0,0.0,5.0
+Burton (Phillip and Sala) HS,764,9,MS,2,0,2,0,0,0,0.0,0.0,4.0
+Burton (Phillip and Sala) HS,764,10,GE,276,13,1,1,0,0,1.0,1.0,293.0
+Burton (Phillip and Sala) HS,764,10,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Burton (Phillip and Sala) HS,764,10,MS,4,0,0,0,0,0,0.0,0.0,4.0
+Burton (Phillip and Sala) HS,764,11,GE,250,1,1,0,0,1,0.0,0.0,253.0
+Burton (Phillip and Sala) HS,764,11,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Burton (Phillip and Sala) HS,764,11,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Burton (Phillip and Sala) HS,764,12,GE,254,1,0,1,0,0,0.0,0.0,256.0
+Burton (Phillip and Sala) HS,764,12,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Burton (Phillip and Sala) HS,764,12,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Burton (Phillip and Sala) HS,764,13,CA,4,0,0,0,0,0,0.0,0.0,4.0
+Carmichael (Bessie) K-8,449,TK,GE,12,9,11,5,7,8,12.0,24.0,88.0
+Carmichael (Bessie) K-8,449,KG,FB,8,1,0,1,1,0,0.0,28.0,39.0
+Carmichael (Bessie) K-8,449,KG,GE,49,17,10,9,7,5,2.0,194.0,293.0
+Carmichael (Bessie) K-8,449,1,FB,17,0,0,0,0,0,0.0,4.0,21.0
+Carmichael (Bessie) K-8,449,1,GE,60,1,0,0,0,1,0.0,5.0,67.0
+Carmichael (Bessie) K-8,449,2,FB,20,0,0,0,0,0,0.0,0.0,20.0
+Carmichael (Bessie) K-8,449,2,GE,58,1,3,0,0,0,0.0,2.0,64.0
+Carmichael (Bessie) K-8,449,3,FB,19,0,0,0,0,0,0.0,1.0,20.0
+Carmichael (Bessie) K-8,449,3,GE,57,0,3,1,0,0,1.0,3.0,65.0
+Carmichael (Bessie) K-8,449,4,FB,16,0,0,0,0,0,0.0,0.0,16.0
+Carmichael (Bessie) K-8,449,4,GE,54,0,0,3,0,0,0.0,0.0,57.0
+Carmichael (Bessie) K-8,449,5,FB,17,0,0,0,0,0,0.0,0.0,17.0
+Carmichael (Bessie) K-8,449,5,GE,46,1,0,1,0,0,0.0,0.0,48.0
+Carmichael (Bessie) K-8,449,6,GE,59,13,6,4,2,1,2.0,4.0,91.0
+Carmichael (Bessie) K-8,449,7,GE,61,2,0,0,0,0,0.0,0.0,63.0
+Carmichael (Bessie) K-8,449,8,GE,64,0,1,0,0,0,0.0,0.0,65.0
+Carver (Dr George W) ES,625,KG,GE,15,14,11,10,5,3,3.0,121.0,182.0
+Carver (Dr George W) ES,625,1,GE,30,0,1,0,0,1,0.0,2.0,34.0
+Carver (Dr George W) ES,625,2,GE,28,2,0,0,0,0,0.0,1.0,31.0
+Carver (Dr George W) ES,625,3,GE,21,0,0,0,0,0,0.0,1.0,22.0
+Carver (Dr George W) ES,625,4,GE,33,0,0,0,0,0,0.0,0.0,33.0
+Carver (Dr George W) ES,625,5,GE,29,1,0,0,0,0,0.0,0.0,30.0
+Chavez (Cesar) ES,603,KG,GE,11,12,17,11,2,7,7.0,177.0,244.0
+Chavez (Cesar) ES,603,KG,SB,17,15,23,12,7,1,3.0,11.0,89.0
+Chavez (Cesar) ES,603,1,DT,3,0,0,0,0,0,0.0,0.0,3.0
+Chavez (Cesar) ES,603,1,GE,33,1,1,0,0,4,2.0,2.0,43.0
+Chavez (Cesar) ES,603,1,SB,43,1,1,0,1,0,0.0,0.0,46.0
+Chavez (Cesar) ES,603,2,DT,3,0,0,0,0,0,0.0,0.0,3.0
+Chavez (Cesar) ES,603,2,GE,22,1,0,0,0,0,0.0,2.0,25.0
+Chavez (Cesar) ES,603,2,SB,43,0,0,0,0,0,0.0,0.0,43.0
+Chavez (Cesar) ES,603,3,DT,4,0,0,0,0,0,0.0,0.0,4.0
+Chavez (Cesar) ES,603,3,GE,25,1,0,0,0,1,2.0,3.0,32.0
+Chavez (Cesar) ES,603,3,SB,36,0,1,2,0,0,0.0,0.0,39.0
+Chavez (Cesar) ES,603,4,DT,5,0,0,0,0,0,0.0,0.0,5.0
+Chavez (Cesar) ES,603,4,GE,27,0,0,0,0,0,0.0,1.0,28.0
+Chavez (Cesar) ES,603,4,SB,37,0,1,0,0,0,0.0,0.0,38.0
+Chavez (Cesar) ES,603,5,GE,28,2,0,0,0,0,0.0,0.0,30.0
+Chavez (Cesar) ES,603,5,SB,43,0,0,0,0,0,0.0,0.0,43.0
+Chin (John Yehall) ES,872,KG,CB,40,25,28,7,7,4,2.0,15.0,128.0
+Chin (John Yehall) ES,872,KG,GE,15,41,18,23,16,18,11.0,378.0,520.0
+Chin (John Yehall) ES,872,1,CB,21,1,2,0,1,0,1.0,1.0,27.0
+Chin (John Yehall) ES,872,1,GE,21,1,0,0,1,2,1.0,9.0,35.0
+Chin (John Yehall) ES,872,2,CB,22,4,3,0,3,1,0.0,0.0,33.0
+Chin (John Yehall) ES,872,2,GE,23,2,1,0,1,4,1.0,4.0,36.0
+Chin (John Yehall) ES,872,3,GE,45,0,4,0,1,0,0.0,5.0,55.0
+Chin (John Yehall) ES,872,4,GE,45,3,1,0,2,0,0.0,2.0,53.0
+Chin (John Yehall) ES,872,5,GE,47,1,3,1,1,0,0.0,1.0,54.0
+Chinese Education Center ES,476,KG,NC,0,0,0,0,0,0,1.0,0.0,1.0
+Chinese Education Center ES,476,1,NC,2,0,1,1,1,1,1.0,1.0,8.0
+Chinese Education Center ES,476,2,NC,4,0,0,4,1,2,2.0,6.0,19.0
+Chinese Education Center ES,476,3,NC,0,0,0,1,0,5,0.0,4.0,10.0
+Chinese Education Center ES,476,4,NC,6,1,0,0,2,4,3.0,1.0,17.0
+Chinese Education Center ES,476,5,NC,1,1,0,2,3,6,1.0,4.0,18.0
+Chinese Immersion School at DeAvila E5S09 KG CE,42,48,48,27,24,20,16,360,585,,,
+Chinese Immersion School at DeAvila E5S09 KG CN,48,18,9,9,13,6,2,28,133,,,
+Chinese Immersion School at DeAvila E5S09,1,CE,29,1,6,0,1,1,1,8.0,47.0,
+Chinese Immersion School at DeAvila E5S09,1,CN,39,2,2,0,1,0,0,0.0,44.0,
+Chinese Immersion School at DeAvila E5S09,2,CN,68,0,0,0,0,0,0,1.0,69.0,
+Chinese Immersion School at DeAvila E5S09,3,CN,62,1,0,0,0,0,0,0.0,63.0,
+Chinese Immersion School at DeAvila E5S09,4,CN,63,1,1,0,0,0,0,0.0,65.0,
+Chinese Immersion School at DeAvila E5S09,5,CN,67,2,1,0,0,0,0,0.0,70.0,
+Clarendon ES,478,KG,GE,122,180,180,182,144,131,127.0,564.0,1630.0
+Clarendon ES,478,KG,JE,75,68,75,56,50,48,33.0,308.0,713.0
+Clarendon ES,478,KG,JN,24,12,0,1,0,0,0.0,4.0,41.0
+Clarendon ES,478,KG,MM,5,2,1,1,0,0,0.0,1.0,10.0
+Clarendon ES,478,1,GE,56,16,11,16,8,10,4.0,9.0,130.0
+Clarendon ES,478,1,JB,49,6,6,3,5,3,2.0,2.0,76.0
+Clarendon ES,478,1,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Clarendon ES,478,2,GE,54,10,9,6,2,2,2.0,5.0,90.0
+Clarendon ES,478,2,JB,45,6,4,2,0,0,0.0,0.0,57.0
+Clarendon ES,478,2,MM,6,0,0,0,0,0,0.0,0.0,6.0
+Clarendon ES,478,3,GE,50,5,9,8,7,5,3.0,5.0,92.0
+Clarendon ES,478,3,JB,48,1,0,1,1,0,0.0,0.0,51.0
+Clarendon ES,478,3,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Clarendon ES,478,4,GE,48,7,2,5,1,4,1.0,2.0,70.0
+Clarendon ES,478,4,JB,44,1,1,0,0,0,0.0,0.0,46.0
+Clarendon ES,478,4,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Clarendon ES,478,5,GE,49,4,3,3,1,0,0.0,4.0,64.0
+Clarendon ES,478,5,JB,47,0,2,0,0,0,0.0,0.0,49.0
+Clarendon ES,478,5,MM,6,0,0,0,0,0,0.0,0.0,6.0
+Cleveland ES,481,KG,GE,12,20,14,5,6,5,4.0,144.0,210.0
+Cleveland ES,481,KG,SB,19,20,7,4,3,1,0.0,0.0,54.0
+Cleveland ES,481,1,GE,18,0,1,0,1,0,1.0,2.0,23.0
+Cleveland ES,481,1,SB,44,0,1,0,0,0,0.0,0.0,45.0
+Cleveland ES,481,2,GE,22,0,1,0,0,0,0.0,2.0,25.0
+Cleveland ES,481,2,SB,44,1,0,0,0,0,0.0,0.0,45.0
+Cleveland ES,481,3,GE,21,0,0,0,0,0,0.0,2.0,23.0
+Cleveland ES,481,3,SB,43,1,0,0,0,0,0.0,0.0,44.0
+Cleveland ES,481,4,GE,21,0,0,0,0,0,0.0,0.0,21.0
+Cleveland ES,481,4,SB,43,0,0,0,0,0,0.0,0.0,43.0
+Cleveland ES,481,5,GE,19,0,0,0,0,0,0.0,0.0,19.0
+Cleveland ES,481,5,SB,40,0,0,0,0,0,0.0,0.0,40.0
+Cobb (Dr William L) ES,525,TK,GE,12,8,14,16,14,6,5.0,22.0,97.0
+Cobb (Dr William L) ES,525,KG,GE,16,12,10,17,9,8,4.0,241.0,317.0
+Cobb (Dr William L) ES,525,1,GE,30,1,1,0,0,1,1.0,5.0,39.0
+Cobb (Dr William L) ES,525,2,GE,24,0,0,0,0,0,0.0,2.0,26.0
+Cobb (Dr William L) ES,525,3,GE,18,0,1,1,0,0,0.0,2.0,22.0
+Cobb (Dr William L) ES,525,4,GE,10,1,0,0,0,1,0.0,0.0,12.0
+Cobb (Dr William L) ES,525,5,GE,26,0,0,0,0,1,0.0,0.0,27.0
+Denman (James) MS,632,6,AF,0,1,2,1,0,0,0.0,0.0,4.0
+Denman (James) MS,632,6,ED,1,0,0,2,0,0,0.0,0.0,3.0
+Denman (James) MS,632,6,GE,242,103,82,51,26,10,8.0,17.0,539.0
+Denman (James) MS,632,6,MM,5,2,0,0,0,0,0.0,0.0,7.0
+Denman (James) MS,632,6,MS,1,0,1,0,0,0,0.0,0.0,2.0
+Denman (James) MS,632,7,ED,2,0,0,0,0,0,0.0,0.0,2.0
+Denman (James) MS,632,7,GE,265,2,2,1,0,1,0.0,1.0,272.0
+Denman (James) MS,632,7,MM,7,0,0,0,0,0,0.0,0.0,7.0
+Denman (James) MS,632,7,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Denman (James) MS,632,8,ED,3,0,0,0,0,0,0.0,0.0,3.0
+Denman (James) MS,632,8,GE,296,3,0,0,1,1,0.0,0.0,301.0
+Denman (James) MS,632,8,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Denman (James) MS,632,8,MS,5,0,0,0,0,0,0.0,0.0,5.0
+Drew (Dr Charles) College Preparatory 5A0c7adTeKmy ESGE,10,11,4,3,2,1,2,24,57,,,
+Drew (Dr Charles) College Preparatory 5A0c7adKeGmy ESGE,21,10,7,4,5,4,6,133,190,,,
+Drew (Dr Charles) College Preparatory 5A0c7ademy E1SGE,37,0,2,0,0,0,0,4,43,,,
+Drew (Dr Charles) College Preparatory 5A0c7ademy E2SGE,33,0,1,1,1,0,0,2,38,,,
+Drew (Dr Charles) College Preparatory 5A0c7ademy E3SGE,28,0,0,0,0,0,0,1,29,,,
+Drew (Dr Charles) College Preparatory 5A0c7ademy E4SGE,33,0,0,0,0,0,0,0,33,,,
+Drew (Dr Charles) College Preparatory 5A0c7ademy E5SGE,29,1,0,0,0,0,0,0,30,,,
+El Dorado ES,521,KG,GE,13,14,8,5,8,6,3.0,129.0,186.0
+El Dorado ES,521,1,GE,31,2,0,0,1,0,0.0,4.0,38.0
+El Dorado ES,521,2,GE,36,1,0,0,1,0,0.0,1.0,39.0
+El Dorado ES,521,3,GE,28,0,0,0,0,0,0.0,2.0,30.0
+El Dorado ES,521,4,GE,28,1,0,0,0,0,0.0,0.0,29.0
+El Dorado ES,521,5,GE,34,1,0,0,0,0,0.0,0.0,35.0
+Everett MS,529,6,AF,1,2,2,0,0,0,0.0,0.0,5.0
+Everett MS,529,6,GE,123,92,77,48,29,22,20.0,29.0,440.0
+Everett MS,529,6,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Everett MS,529,6,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Everett MS,529,6,NX,3,0,0,0,1,0,0.0,0.0,4.0
+Everett MS,529,6,SN,50,51,30,18,3,0,2.0,3.0,157.0
+Everett MS,529,7,AF,6,0,0,0,0,0,0.0,0.0,6.0
+Everett MS,529,7,GE,111,5,3,1,2,1,0.0,1.0,124.0
+Everett MS,529,7,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Everett MS,529,7,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Everett MS,529,7,NX,31,0,0,1,0,0,0.0,0.0,32.0
+Everett MS,529,7,SN,78,0,0,0,0,0,0.0,0.0,78.0
+Everett MS,529,8,AF,3,0,0,0,0,0,0.0,0.0,3.0
+Everett MS,529,8,GE,134,1,1,3,0,2,0.0,2.0,143.0
+Everett MS,529,8,MM,4,0,0,1,0,0,0.0,0.0,5.0
+Everett MS,529,8,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Everett MS,529,8,NX,44,0,0,0,0,0,1.0,0.0,45.0
+Everett MS,529,8,SN,70,0,0,0,0,0,0.0,0.0,70.0
+Fairmount ES,537,KG,MS,2,1,1,0,0,0,0.0,0.0,4.0
+Fairmount ES,537,KG,SE,20,35,36,27,21,20,12.0,311.0,482.0
+Fairmount ES,537,KG,SN,30,13,17,12,9,10,5.0,12.0,108.0
+Fairmount ES,537,1,SE,25,3,1,1,2,1,1.0,7.0,41.0
+Fairmount ES,537,1,SN,34,6,1,0,1,0,0.0,1.0,43.0
+Fairmount ES,537,2,SN,65,1,5,0,1,1,0.0,0.0,73.0
+Fairmount ES,537,3,SN,62,5,2,1,0,0,0.0,0.0,70.0
+Fairmount ES,537,4,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Fairmount ES,537,4,SN,64,3,0,0,0,0,0.0,0.0,67.0
+Fairmount ES,537,5,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Fairmount ES,537,5,SN,58,0,6,0,0,0,0.0,0.0,64.0
+Feinstein (Dianne) ES,539,KG,GE,74,48,60,55,61,49,62.0,745.0,1154.0
+Feinstein (Dianne) ES,539,1,GE,80,7,5,4,5,4,6.0,16.0,127.0
+Feinstein (Dianne) ES,539,2,GE,86,4,2,0,4,0,3.0,8.0,107.0
+Feinstein (Dianne) ES,539,3,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Feinstein (Dianne) ES,539,3,GE,83,6,3,3,0,0,1.0,10.0,106.0
+Feinstein (Dianne) ES,539,4,GE,72,3,3,0,3,0,1.0,1.0,83.0
+Feinstein (Dianne) ES,539,5,ED,2,0,0,0,0,0,0.0,0.0,2.0
+Feinstein (Dianne) ES,539,5,GE,81,2,1,5,2,0,0.0,1.0,92.0
+Flynn (Leonard R) ES,680,TK,GE,23,42,18,10,12,8,3.0,25.0,141.0
+Flynn (Leonard R) ES,680,KG,GE,10,22,11,15,8,6,10.0,215.0,297.0
+Flynn (Leonard R) ES,680,KG,SE,20,16,13,11,15,11,10.0,164.0,260.0
+Flynn (Leonard R) ES,680,KG,SN,12,20,18,10,9,1,3.0,14.0,87.0
+Flynn (Leonard R) ES,680,1,GE,23,3,2,0,0,1,2.0,13.0,44.0
+Flynn (Leonard R) ES,680,1,SE,18,2,0,1,0,0,1.0,5.0,27.0
+Flynn (Leonard R) ES,680,1,SN,22,1,0,0,0,0,0.0,0.0,23.0
+Flynn (Leonard R) ES,680,2,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Flynn (Leonard R) ES,680,2,GE,33,1,2,0,0,0,0.0,2.0,38.0
+Flynn (Leonard R) ES,680,2,SN,39,0,0,0,0,0,0.0,0.0,39.0
+Flynn (Leonard R) ES,680,3,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Flynn (Leonard R) ES,680,3,GE,29,0,0,1,0,0,0.0,5.0,35.0
+Flynn (Leonard R) ES,680,3,SN,36,0,0,0,0,0,0.0,0.0,36.0
+Flynn (Leonard R) ES,680,4,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Flynn (Leonard R) ES,680,4,GE,28,0,0,0,0,0,0.0,0.0,28.0
+Flynn (Leonard R) ES,680,4,SN,31,0,0,0,0,0,0.0,0.0,31.0
+Flynn (Leonard R) ES,680,5,ED,3,0,0,0,0,0,0.0,0.0,3.0
+Flynn (Leonard R) ES,680,5,GE,31,0,0,0,0,0,0.0,0.0,31.0
+Flynn (Leonard R) ES,680,5,SN,29,3,0,0,0,0,0.0,0.0,32.0
+Francisco MS,546,6,ED,2,0,1,0,0,0,0.0,0.0,3.0
+Francisco MS,546,6,GE,162,91,64,21,18,12,5.0,21.0,394.0
+Francisco MS,546,6,MM,0,0,1,1,0,0,0.0,0.0,2.0
+Francisco MS,546,6,NX,2,0,1,1,0,0,0.0,0.0,4.0
+Francisco MS,546,6,SA,2,2,3,0,0,0,0.0,0.0,7.0
+Francisco MS,546,7,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Francisco MS,546,7,GE,154,1,0,0,1,0,1.0,1.0,158.0
+Francisco MS,546,7,NX,17,0,0,0,0,0,0.0,0.0,17.0
+Francisco MS,546,7,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Francisco MS,546,8,GE,156,1,0,1,0,0,0.0,0.0,158.0
+Francisco MS,546,8,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Francisco MS,546,8,NX,43,2,0,0,1,0,0.0,0.0,46.0
+Francisco MS,546,8,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Galileo HS,559,9,CN,0,8,11,11,8,4,2.0,0.0,44.0
+Galileo HS,559,9,ED,2,0,2,0,0,0,0.0,0.0,4.0
+Galileo HS,559,9,GE,482,302,422,269,101,33,8.0,7.0,1624.0
+Galileo HS,559,9,MM,4,5,3,1,1,0,0.0,0.0,14.0
+Galileo HS,559,9,MS,5,5,1,1,0,0,0.0,0.0,12.0
+Galileo HS,559,9,NX,14,8,6,1,0,1,0.0,2.0,32.0
+Galileo HS,559,10,CN,19,1,1,0,0,0,0.0,0.0,21.0
+Galileo HS,559,10,ED,2,0,0,0,0,0,0.0,0.0,2.0
+Galileo HS,559,10,GE,402,11,10,2,2,1,0.0,0.0,428.0
+Galileo HS,559,10,MM,13,0,1,0,0,0,0.0,0.0,14.0
+Galileo HS,559,10,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Galileo HS,559,10,NX,18,0,0,0,0,0,0.0,0.0,18.0
+Galileo HS,559,11,GE,414,5,3,3,3,0,0.0,0.0,428.0
+Galileo HS,559,11,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Galileo HS,559,11,MS,7,0,0,0,0,0,0.0,0.0,7.0
+Galileo HS,559,11,NX,29,0,0,0,0,0,0.0,0.0,29.0
+Galileo HS,559,12,CN,20,0,0,0,0,0,0.0,0.0,20.0
+Galileo HS,559,12,GE,368,1,1,0,0,0,0.0,0.0,370.0
+Galileo HS,559,12,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Galileo HS,559,12,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Galileo HS,559,12,NX,44,1,0,0,0,0,0.0,0.0,45.0
+Galileo HS,559,13,CA,14,3,0,0,0,0,0.0,0.0,17.0
+Garfield ES,562,KG,AF,2,4,1,1,2,0,0.0,0.0,10.0
+Garfield ES,562,KG,CE,11,7,5,7,4,4,6.0,158.0,202.0
+Garfield ES,562,KG,CN,4,0,4,4,8,3,2.0,10.0,35.0
+Garfield ES,562,KG,GE,10,13,10,14,12,16,15.0,330.0,420.0
+Garfield ES,562,1,CE,10,1,1,1,1,0,1.0,4.0,19.0
+Garfield ES,562,1,CN,10,0,1,1,0,0,0.0,0.0,12.0
+Garfield ES,562,1,GE,19,0,1,1,0,1,0.0,3.0,25.0
+Garfield ES,562,2,AF,1,0,0,0,0,0,0.0,0.0,1.0
+Garfield ES,562,2,CN,16,1,2,0,0,0,0.0,1.0,20.0
+Garfield ES,562,2,GE,18,2,0,0,1,0,0.0,4.0,25.0
+Garfield ES,562,3,AF,5,0,0,0,0,0,0.0,0.0,5.0
+Garfield ES,562,3,CN,16,0,0,1,0,0,0.0,0.0,17.0
+Garfield ES,562,3,GE,18,0,0,0,0,0,0.0,2.0,20.0
+Garfield ES,562,4,AF,1,0,0,0,0,0,0.0,0.0,1.0
+Garfield ES,562,4,CN,13,0,0,0,0,0,0.0,0.0,13.0
+Garfield ES,562,4,GE,14,1,0,0,0,0,0.0,2.0,17.0
+Garfield ES,562,5,AF,2,0,0,0,0,0,0.0,0.0,2.0
+Garfield ES,562,5,CN,13,1,0,0,0,0,0.0,0.0,14.0
+Garfield ES,562,5,GE,20,0,0,0,0,0,0.0,1.0,21.0
+Giannini (A.P.) MS,404,6,AF,10,5,1,0,0,0,0.0,0.0,16.0
+Giannini (A.P.) MS,404,6,GE,564,346,240,111,50,20,7.0,11.0,1349.0
+Giannini (A.P.) MS,404,6,MM,14,2,1,0,0,0,0.0,0.0,17.0
+Giannini (A.P.) MS,404,6,MS,3,7,0,0,0,0,0.0,0.0,10.0
+Giannini (A.P.) MS,404,6,SA,10,3,1,0,0,0,0.0,0.0,14.0
+Giannini (A.P.) MS,404,7,AF,1,0,0,0,0,0,0.0,0.0,1.0
+Giannini (A.P.) MS,404,7,GE,397,6,9,2,1,0,1.0,0.0,416.0
+Giannini (A.P.) MS,404,7,MM,11,0,0,0,0,0,0.0,0.0,11.0
+Giannini (A.P.) MS,404,7,MS,4,0,0,0,0,0,0.0,0.0,4.0
+Giannini (A.P.) MS,404,7,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Giannini (A.P.) MS,404,8,AF,8,0,0,0,0,0,0.0,0.0,8.0
+Giannini (A.P.) MS,404,8,GE,392,9,8,3,1,1,0.0,0.0,414.0
+Giannini (A.P.) MS,404,8,MM,3,0,1,0,0,0,0.0,0.0,4.0
+Giannini (A.P.) MS,404,8,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Giannini (A.P.) MS,404,8,SA,4,0,0,0,0,0,0.0,0.0,4.0
+Glen Park ES,575,KG,GE,45,36,50,44,25,33,21.0,441.0,695.0
+Glen Park ES,575,KG,SA,5,1,0,0,0,0,0.0,0.0,6.0
+Glen Park ES,575,KG,SB,8,7,10,5,3,2,5.0,15.0,55.0
+Glen Park ES,575,1,GE,43,5,3,0,0,1,0.0,12.0,64.0
+Glen Park ES,575,1,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Glen Park ES,575,1,SB,21,0,0,0,0,0,0.0,0.0,21.0
+Glen Park ES,575,2,GE,45,1,0,1,0,1,1.0,6.0,55.0
+Glen Park ES,575,2,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Glen Park ES,575,2,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Glen Park ES,575,3,GE,43,1,0,0,2,1,1.0,6.0,54.0
+Glen Park ES,575,3,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Glen Park ES,575,4,GE,40,2,0,0,0,0,0.0,1.0,43.0
+Glen Park ES,575,4,SA,6,0,0,0,0,0,0.0,0.0,6.0
+Glen Park ES,575,4,SB,20,0,0,0,0,0,0.0,1.0,21.0
+Glen Park ES,575,5,GE,57,1,0,1,1,1,0.0,0.0,61.0
+Glen Park ES,575,5,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Grattan ES,589,KG,GE,124,88,109,125,133,93,106.0,616.0,1394.0
+Grattan ES,589,KG,SA,1,0,2,0,0,0,0.0,0.0,3.0
+Grattan ES,589,1,GE,78,6,10,4,7,4,6.0,16.0,131.0
+Grattan ES,589,1,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Grattan ES,589,2,GE,67,5,5,8,2,6,2.0,6.0,101.0
+Grattan ES,589,2,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Grattan ES,589,3,GE,65,3,4,6,5,3,2.0,7.0,95.0
+Grattan ES,589,3,SA,2,0,0,0,0,0,0.0,0.0,2.0
+Grattan ES,589,4,GE,64,5,3,3,3,1,3.0,6.0,88.0
+Grattan ES,589,4,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Grattan ES,589,5,GE,64,2,0,1,0,2,1.0,0.0,70.0
+Grattan ES,589,5,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Guadalupe ES,593,KG,GE,19,10,10,10,10,13,9.0,160.0,241.0
+Guadalupe ES,593,KG,SB,12,9,10,6,4,1,2.0,3.0,47.0
+Guadalupe ES,593,1,GE,53,1,5,2,0,2,0.0,5.0,68.0
+Guadalupe ES,593,1,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Guadalupe ES,593,2,GE,42,1,2,1,2,1,0.0,3.0,52.0
+Guadalupe ES,593,2,SB,22,2,0,0,0,0,0.0,0.0,24.0
+Guadalupe ES,593,3,GE,43,1,1,0,0,0,0.0,2.0,47.0
+Guadalupe ES,593,3,SB,18,0,0,0,0,0,0.0,0.0,18.0
+Guadalupe ES,593,4,GE,62,1,0,0,0,0,0.0,0.0,63.0
+Guadalupe ES,593,5,GE,63,1,0,0,0,0,0.0,0.0,64.0
+Harte (Bret) ES,453,TK,GE,5,15,2,8,2,1,1.0,21.0,55.0
+Harte (Bret) ES,453,KG,GE,15,7,6,2,4,3,2.0,115.0,154.0
+Harte (Bret) ES,453,KG,SE,6,2,2,1,0,1,0.0,73.0,85.0
+Harte (Bret) ES,453,KG,SN,7,4,1,1,1,0,0.0,10.0,24.0
+Harte (Bret) ES,453,1,GE,18,1,0,0,0,0,0.0,1.0,20.0
+Harte (Bret) ES,453,1,SE,2,0,0,0,0,0,0.0,3.0,5.0
+Harte (Bret) ES,453,1,SN,12,0,0,0,0,0,0.0,0.0,12.0
+Harte (Bret) ES,453,2,GE,22,0,0,0,0,0,0.0,1.0,23.0
+Harte (Bret) ES,453,2,SN,16,1,0,1,0,0,0.0,0.0,18.0
+Harte (Bret) ES,453,3,GE,19,0,1,0,0,1,0.0,1.0,22.0
+Harte (Bret) ES,453,3,SN,18,0,1,0,0,0,0.0,0.0,19.0
+Harte (Bret) ES,453,4,GE,19,0,0,0,0,0,0.0,0.0,19.0
+Harte (Bret) ES,453,4,SN,12,0,0,0,0,0,0.0,0.0,12.0
+Harte (Bret) ES,453,5,GE,15,0,0,0,0,0,0.0,0.0,15.0
+Harte (Bret) ES,453,5,SN,15,0,0,0,0,0,0.0,0.0,15.0
+Hillcrest ES,614,KG,CB,3,2,8,5,4,5,3.0,12.0,42.0
+Hillcrest ES,614,KG,GE,17,24,20,15,15,16,5.0,173.0,285.0
+Hillcrest ES,614,KG,MM,0,2,3,0,1,0,0.0,0.0,6.0
+Hillcrest ES,614,KG,SB,12,4,7,3,7,1,2.0,4.0,40.0
+Hillcrest ES,614,1,CB,17,1,1,0,0,0,0.0,2.0,21.0
+Hillcrest ES,614,1,GE,36,1,1,0,3,0,1.0,2.0,44.0
+Hillcrest ES,614,1,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Hillcrest ES,614,1,SB,21,0,2,0,0,0,0.0,0.0,23.0
+Hillcrest ES,614,2,CB,12,0,2,0,0,0,0.0,0.0,14.0
+Hillcrest ES,614,2,GE,33,4,1,0,1,1,0.0,2.0,42.0
+Hillcrest ES,614,2,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Hillcrest ES,614,2,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Hillcrest ES,614,3,CB,12,0,0,0,0,0,0.0,1.0,13.0
+Hillcrest ES,614,3,GE,34,3,1,0,1,1,2.0,1.0,43.0
+Hillcrest ES,614,3,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Hillcrest ES,614,3,SB,16,0,0,0,0,0,0.0,0.0,16.0
+Hillcrest ES,614,4,CB,9,1,0,1,0,0,0.0,0.0,11.0
+Hillcrest ES,614,4,GE,38,1,1,0,0,0,0.0,0.0,40.0
+Hillcrest ES,614,4,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Hillcrest ES,614,4,SB,19,0,0,0,0,0,0.0,0.0,19.0
+Hillcrest ES,614,5,CB,12,0,0,0,0,0,0.0,0.0,12.0
+Hillcrest ES,614,5,GE,41,1,0,0,0,1,0.0,0.0,43.0
+Hillcrest ES,614,5,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Hillcrest ES,614,5,SB,19,0,0,1,0,0,0.0,0.0,20.0
+Hoover (Herbert) MS,607,6,CN,73,19,22,10,6,1,0.0,2.0,133.0
+Hoover (Herbert) MS,607,6,ED,2,2,0,0,1,0,0.0,0.0,5.0
+Hoover (Herbert) MS,607,6,GE,292,336,205,120,56,19,12.0,11.0,1051.0
+Hoover (Herbert) MS,607,6,MM,1,4,1,1,0,0,0.0,0.0,7.0
+Hoover (Herbert) MS,607,6,SN,75,28,10,6,5,3,1.0,1.0,129.0
+Hoover (Herbert) MS,607,7,CN,65,1,0,0,0,0,0.0,0.0,66.0
+Hoover (Herbert) MS,607,7,ED,2,0,0,0,0,0,0.0,0.0,2.0
+Hoover (Herbert) MS,607,7,GE,196,11,5,4,1,0,0.0,0.0,217.0
+Hoover (Herbert) MS,607,7,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Hoover (Herbert) MS,607,7,SN,66,0,0,0,0,0,0.0,0.0,66.0
+Hoover (Herbert) MS,607,8,CN,66,0,0,0,0,0,0.0,0.0,66.0
+Hoover (Herbert) MS,607,8,ED,2,0,0,0,0,0,0.0,0.0,2.0
+Hoover (Herbert) MS,607,8,GE,201,7,2,8,1,0,1.0,0.0,220.0
+Hoover (Herbert) MS,607,8,MM,6,1,0,0,0,0,0.0,0.0,7.0
+Hoover (Herbert) MS,607,8,SN,66,0,0,0,0,0,0.0,0.0,66.0
+Jefferson ES,644,KG,AF,5,4,2,2,1,0,0.0,0.0,14.0
+Jefferson ES,644,KG,GE,82,52,65,66,75,70,67.0,777.0,1254.0
+Jefferson ES,644,1,AF,4,0,0,0,0,0,0.0,0.0,4.0
+Jefferson ES,644,1,GE,78,4,3,4,1,9,6.0,18.0,123.0
+Jefferson ES,644,2,AF,5,0,0,0,0,0,0.0,0.0,5.0
+Jefferson ES,644,2,GE,83,5,2,4,1,2,0.0,11.0,108.0
+Jefferson ES,644,3,AF,2,0,0,0,0,0,0.0,0.0,2.0
+Jefferson ES,644,3,GE,78,1,1,2,2,1,2.0,8.0,95.0
+Jefferson ES,644,4,AF,3,0,0,0,0,0,0.0,0.0,3.0
+Jefferson ES,644,4,GE,80,0,2,2,2,1,3.0,5.0,95.0
+Jefferson ES,644,5,AF,1,0,0,0,0,0,0.0,0.0,1.0
+Jefferson ES,644,5,GE,82,0,2,0,2,1,1.0,2.0,90.0
+Jordan (June) HS,757,9,GE,39,38,53,29,16,11,10.0,24.0,220.0
+Jordan (June) HS,757,9,MM,4,0,4,0,0,0,0.0,0.0,8.0
+Jordan (June) HS,757,9,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Jordan (June) HS,757,10,GE,61,2,2,2,0,0,0.0,0.0,67.0
+Jordan (June) HS,757,10,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Jordan (June) HS,757,11,GE,56,2,0,0,0,0,0.0,0.0,58.0
+Jordan (June) HS,757,11,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Jordan (June) HS,757,11,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Jordan (June) HS,757,12,GE,57,0,0,0,0,0,0.0,0.0,57.0
+Jordan (June) HS,757,12,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Jordan (June) HS,757,12,MS,9,0,0,0,0,0,0.0,0.0,9.0
+Key (Francis Scott) ES,544,KG,GE,58,51,43,47,44,40,39.0,672.0,994.0
+Key (Francis Scott) ES,544,KG,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Key (Francis Scott) ES,544,1,GE,85,5,4,7,3,4,3.0,16.0,127.0
+Key (Francis Scott) ES,544,1,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Key (Francis Scott) ES,544,2,GE,87,5,3,2,2,1,0.0,10.0,110.0
+Key (Francis Scott) ES,544,2,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Key (Francis Scott) ES,544,2,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Key (Francis Scott) ES,544,3,GE,86,3,4,2,0,1,0.0,5.0,101.0
+Key (Francis Scott) ES,544,3,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Key (Francis Scott) ES,544,3,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Key (Francis Scott) ES,544,4,GE,91,2,2,2,0,0,0.0,3.0,100.0
+Key (Francis Scott) ES,544,4,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Key (Francis Scott) ES,544,4,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Key (Francis Scott) ES,544,5,GE,97,3,1,2,0,0,0.0,2.0,105.0
+Key (Francis Scott) ES,544,5,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Key (Francis Scott) ES,544,5,MS,1,0,0,0,0,0,0.0,0.0,1.0
+King (Thomas Starr) ES,838,KG,GE,6,11,4,4,4,3,5.0,215.0,252.0
+King (Thomas Starr) ES,838,KG,ME,37,17,18,6,9,6,6.0,222.0,321.0
+King (Thomas Starr) ES,838,KG,MN,11,10,3,1,1,0,1.0,11.0,38.0
+King (Thomas Starr) ES,838,KG,SA,0,3,0,0,0,0,0.0,0.0,3.0
+King (Thomas Starr) ES,838,1,GE,18,0,0,0,0,0,1.0,4.0,23.0
+King (Thomas Starr) ES,838,1,ME,20,1,1,1,0,0,1.0,3.0,27.0
+King (Thomas Starr) ES,838,1,MN,23,3,0,0,1,0,0.0,0.0,27.0
+King (Thomas Starr) ES,838,1,SA,2,0,0,0,0,0,0.0,0.0,2.0
+King (Thomas Starr) ES,838,2,GE,17,1,0,1,1,0,0.0,1.0,21.0
+King (Thomas Starr) ES,838,2,MN,47,1,0,0,0,1,0.0,0.0,49.0
+King (Thomas Starr) ES,838,3,GE,14,1,0,1,0,0,1.0,3.0,20.0
+King (Thomas Starr) ES,838,3,MN,38,0,0,1,1,0,0.0,0.0,40.0
+King (Thomas Starr) ES,838,3,SA,5,0,0,0,0,0,0.0,0.0,5.0
+King (Thomas Starr) ES,838,4,GE,13,0,0,0,1,0,0.0,0.0,14.0
+King (Thomas Starr) ES,838,4,MN,37,1,0,0,0,0,0.0,0.0,38.0
+King (Thomas Starr) ES,838,4,SA,1,0,0,0,0,0,0.0,0.0,1.0
+King (Thomas Starr) ES,838,5,GE,13,0,0,0,1,0,0.0,0.0,14.0
+King (Thomas Starr) ES,838,5,MN,41,0,0,0,0,0,0.0,0.0,41.0
+King Jr (Dr Martin L) MS,710,6,GE,136,56,40,25,12,8,7.0,11.0,295.0
+King Jr (Dr Martin L) MS,710,6,MM,1,1,0,0,0,0,0.0,0.0,2.0
+King Jr (Dr Martin L) MS,710,7,GE,175,2,0,0,0,0,0.0,0.0,177.0
+King Jr (Dr Martin L) MS,710,7,MM,4,0,0,0,0,0,0.0,0.0,4.0
+King Jr (Dr Martin L) MS,710,8,GE,158,3,1,2,0,0,0.0,0.0,164.0
+King Jr (Dr Martin L) MS,710,8,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Lafayette ES,664,KG,GE,82,47,73,57,56,67,49.0,713.0,1144.0
+Lafayette ES,664,1,DA,3,0,0,0,0,0,0.0,0.0,3.0
+Lafayette ES,664,1,GE,82,4,4,2,4,4,2.0,22.0,124.0
+Lafayette ES,664,2,DA,2,0,0,0,0,0,0.0,0.0,2.0
+Lafayette ES,664,2,GE,89,1,1,1,1,0,0.0,11.0,104.0
+Lafayette ES,664,3,DA,1,0,0,0,0,0,0.0,0.0,1.0
+Lafayette ES,664,3,GE,93,1,7,4,4,1,3.0,6.0,119.0
+Lafayette ES,664,4,DA,4,0,0,0,0,0,0.0,0.0,4.0
+Lafayette ES,664,4,GE,88,1,1,0,2,0,0.0,4.0,96.0
+Lafayette ES,664,5,DA,2,0,0,0,0,0,0.0,0.0,2.0
+Lafayette ES,664,5,GE,94,4,4,0,2,0,0.0,2.0,106.0
+Lakeshore ES,670,KG,AF,3,3,4,1,2,1,0.0,0.0,14.0
+Lakeshore ES,670,KG,GE,45,25,28,26,18,27,29.0,453.0,651.0
+Lakeshore ES,670,1,AF,7,0,0,0,0,0,0.0,0.0,7.0
+Lakeshore ES,670,1,GE,85,4,2,2,0,1,3.0,14.0,111.0
+Lakeshore ES,670,2,AF,3,0,0,0,0,0,0.0,0.0,3.0
+Lakeshore ES,670,2,GE,84,4,5,2,0,2,1.0,6.0,104.0
+Lakeshore ES,670,3,GE,79,2,0,3,1,3,0.0,5.0,93.0
+Lakeshore ES,670,4,AF,5,0,0,0,0,0,0.0,0.0,5.0
+Lakeshore ES,670,4,GE,71,1,1,2,0,0,0.0,1.0,76.0
+Lakeshore ES,670,5,AF,4,0,0,0,0,0,0.0,0.0,4.0
+Lakeshore ES,670,5,GE,70,1,2,1,1,0,3.0,3.0,81.0
+Lau (Gordon J) ES,490,KG,CB,56,13,17,10,7,6,5.0,15.0,129.0
+Lau (Gordon J) ES,490,KG,GE,21,35,13,24,13,12,10.0,286.0,414.0
+Lau (Gordon J) ES,490,1,CB,74,0,1,0,0,0,1.0,0.0,76.0
+Lau (Gordon J) ES,490,1,GE,32,1,0,3,0,0,1.0,7.0,44.0
+Lau (Gordon J) ES,490,2,CB,89,3,0,0,1,0,0.0,1.0,94.0
+Lau (Gordon J) ES,490,2,GE,33,6,0,2,2,1,1.0,4.0,49.0
+Lau (Gordon J) ES,490,3,CB,82,3,0,1,0,1,0.0,1.0,88.0
+Lau (Gordon J) ES,490,3,GE,41,4,2,0,1,0,2.0,4.0,54.0
+Lau (Gordon J) ES,490,4,CB,67,2,0,1,2,0,0.0,0.0,72.0
+Lau (Gordon J) ES,490,4,GE,21,0,4,0,1,2,0.0,2.0,30.0
+Lau (Gordon J) ES,490,5,CB,66,0,0,3,0,0,0.0,0.0,69.0
+Lau (Gordon J) ES,490,5,GE,53,3,2,0,1,0,0.0,2.0,61.0
+Lawton K-8,676,KG,GE,155,114,128,117,107,86,79.0,736.0,1522.0
+Lawton K-8,676,KG,MS,0,0,1,0,0,0,0.0,0.0,1.0
+Lawton K-8,676,1,GE,85,12,4,5,1,8,2.0,18.0,135.0
+Lawton K-8,676,2,GE,72,5,5,4,3,1,3.0,7.0,100.0
+Lawton K-8,676,2,MS,4,0,0,0,0,0,0.0,0.0,4.0
+Lawton K-8,676,3,GE,77,9,5,5,1,0,2.0,5.0,104.0
+Lawton K-8,676,3,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Lawton K-8,676,4,GE,77,2,3,2,0,2,0.0,3.0,89.0
+Lawton K-8,676,4,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Lawton K-8,676,5,GE,72,5,2,4,1,1,1.0,3.0,89.0
+Lawton K-8,676,5,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Lawton K-8,676,6,GE,95,103,95,63,38,24,15.0,19.0,452.0
+Lawton K-8,676,6,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Lawton K-8,676,7,GE,69,2,3,1,0,1,0.0,0.0,76.0
+Lawton K-8,676,7,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Lawton K-8,676,8,GE,69,3,2,2,0,0,1.0,2.0,79.0
+Lawton K-8,676,8,MS,5,0,0,0,0,0,0.0,0.0,5.0
+Lick (James) MS,634,6,ED,2,3,0,0,0,0,0.0,0.0,5.0
+Lick (James) MS,634,6,GE,81,72,70,30,28,14,12.0,28.0,335.0
+Lick (James) MS,634,6,MM,0,3,6,0,0,0,0.0,0.0,9.0
+Lick (James) MS,634,6,SN,35,37,20,8,2,4,2.0,2.0,110.0
+Lick (James) MS,634,7,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Lick (James) MS,634,7,GE,98,3,2,2,1,0,0.0,1.0,107.0
+Lick (James) MS,634,7,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Lick (James) MS,634,7,SN,80,0,0,0,0,0,0.0,0.0,80.0
+Lick (James) MS,634,8,ED,2,0,0,0,0,0,0.0,0.0,2.0
+Lick (James) MS,634,8,GE,122,3,5,0,2,0,1.0,0.0,133.0
+Lick (James) MS,634,8,MM,6,0,1,0,0,0,0.0,0.0,7.0
+Lick (James) MS,634,8,SN,94,0,0,0,0,0,0.0,0.0,94.0
+Lilienthal (Claire) K-8,479,KG,GE,176,197,101,79,70,65,48.0,546.0,1282.0
+Lilienthal (Claire) K-8,479,KG,KE,30,31,23,13,20,14,11.0,261.0,403.0
+Lilienthal (Claire) K-8,479,KG,KN,12,0,1,0,0,0,0.0,0.0,13.0
+Lilienthal (Claire) K-8,479,1,GE,74,11,8,3,8,4,1.0,7.0,116.0
+Lilienthal (Claire) K-8,479,1,KE,10,5,1,1,1,0,0.0,4.0,22.0
+Lilienthal (Claire) K-8,479,1,KN,13,0,0,0,0,0,0.0,0.0,13.0
+Lilienthal (Claire) K-8,479,2,GE,75,4,6,1,3,3,0.0,4.0,96.0
+Lilienthal (Claire) K-8,479,2,KN,22,0,0,0,0,0,0.0,0.0,22.0
+Lilienthal (Claire) K-8,479,3,GE,84,10,4,3,5,2,0.0,3.0,111.0
+Lilienthal (Claire) K-8,479,3,KN,20,0,0,0,0,0,0.0,0.0,20.0
+Lilienthal (Claire) K-8,479,4,GE,64,4,4,1,3,0,1.0,1.0,78.0
+Lilienthal (Claire) K-8,479,4,KN,19,0,0,0,0,0,0.0,0.0,19.0
+Lilienthal (Claire) K-8,479,5,GE,67,4,2,1,2,0,0.0,1.0,77.0
+Lilienthal (Claire) K-8,479,5,KN,22,0,0,0,0,0,0.0,0.0,22.0
+Lilienthal (Claire) K-8,479,6,GE,89,46,38,22,29,20,21.0,23.0,288.0
+Lilienthal (Claire) K-8,479,6,KN,11,0,0,0,0,0,0.0,0.0,11.0
+Lilienthal (Claire) K-8,479,7,GE,54,2,0,0,1,0,0.0,0.0,57.0
+Lilienthal (Claire) K-8,479,7,KN,19,0,0,0,0,0,0.0,0.0,19.0
+Lilienthal (Claire) K-8,479,8,GE,53,2,3,2,1,1,1.0,1.0,64.0
+Lilienthal (Claire) K-8,479,8,KN,17,0,0,0,0,0,0.0,0.0,17.0
+Lincoln (Abraham) HS,405,9,ED,1,3,0,0,1,0,0.0,0.0,5.0
+Lincoln (Abraham) HS,405,9,GE,1353,787,352,95,25,2,4.0,4.0,2622.0
+Lincoln (Abraham) HS,405,9,MM,11,6,1,2,1,0,0.0,0.0,21.0
+Lincoln (Abraham) HS,405,9,MN,40,25,7,2,5,1,1.0,3.0,84.0
+Lincoln (Abraham) HS,405,9,MS,4,5,3,1,0,0,0.0,0.0,13.0
+Lincoln (Abraham) HS,405,9,NX,10,10,8,2,1,2,1.0,0.0,34.0
+Lincoln (Abraham) HS,405,10,GE,527,13,6,0,0,0,0.0,0.0,546.0
+Lincoln (Abraham) HS,405,10,MM,13,0,0,1,0,0,0.0,0.0,14.0
+Lincoln (Abraham) HS,405,10,MN,32,1,0,0,0,0,0.0,0.0,33.0
+Lincoln (Abraham) HS,405,10,MS,8,0,0,0,0,0,0.0,0.0,8.0
+Lincoln (Abraham) HS,405,10,NX,28,0,0,0,0,0,0.0,0.0,28.0
+Lincoln (Abraham) HS,405,11,ED,2,0,0,0,0,0,0.0,0.0,2.0
+Lincoln (Abraham) HS,405,11,GE,489,6,2,0,1,0,0.0,0.0,498.0
+Lincoln (Abraham) HS,405,11,MM,7,0,0,0,0,0,0.0,0.0,7.0
+Lincoln (Abraham) HS,405,11,MS,3,1,0,0,0,0,0.0,0.0,4.0
+Lincoln (Abraham) HS,405,11,NX,43,0,0,0,0,0,0.0,0.0,43.0
+Lincoln (Abraham) HS,405,11,SF,2,0,0,0,0,0,0.0,0.0,2.0
+Lincoln (Abraham) HS,405,12,ED,3,0,0,0,0,0,0.0,0.0,3.0
+Lincoln (Abraham) HS,405,12,GE,421,3,1,0,0,0,0.0,0.0,425.0
+Lincoln (Abraham) HS,405,12,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Lincoln (Abraham) HS,405,12,MN,32,1,0,0,0,0,0.0,0.0,33.0
+Lincoln (Abraham) HS,405,12,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Lincoln (Abraham) HS,405,12,NX,51,0,0,0,0,0,0.0,0.0,51.0
+Lincoln (Abraham) HS,405,12,SF,3,0,0,0,0,0,0.0,0.0,3.0
+Longfellow ES,691,KG,FB,2,1,1,1,0,1,1.0,27.0,34.0
+Longfellow ES,691,KG,GE,38,8,9,9,8,3,1.0,182.0,258.0
+Longfellow ES,691,KG,MM,1,0,0,1,0,1,0.0,0.0,3.0
+Longfellow ES,691,KG,SB,11,6,7,7,3,1,0.0,1.0,36.0
+Longfellow ES,691,1,FB,17,0,0,0,0,0,1.0,0.0,18.0
+Longfellow ES,691,1,GE,39,1,0,0,1,0,1.0,3.0,45.0
+Longfellow ES,691,1,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Longfellow ES,691,1,SB,19,0,0,1,0,0,0.0,0.0,20.0
+Longfellow ES,691,2,FB,22,0,0,0,0,0,0.0,0.0,22.0
+Longfellow ES,691,2,GE,39,0,0,0,1,0,0.0,2.0,42.0
+Longfellow ES,691,2,MM,8,0,0,0,0,0,0.0,0.0,8.0
+Longfellow ES,691,2,SB,23,1,0,0,0,0,0.0,0.0,24.0
+Longfellow ES,691,3,FB,21,0,0,0,0,0,0.0,1.0,22.0
+Longfellow ES,691,3,GE,46,0,0,0,0,0,0.0,1.0,47.0
+Longfellow ES,691,3,SB,21,0,0,0,0,0,0.0,0.0,21.0
+Longfellow ES,691,4,GE,67,0,0,0,0,0,0.0,0.0,67.0
+Longfellow ES,691,4,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Longfellow ES,691,4,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Longfellow ES,691,5,GE,67,0,0,0,0,0,0.0,1.0,68.0
+Longfellow ES,691,5,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Longfellow ES,691,5,SB,18,0,0,1,0,0,0.0,0.0,19.0
+Lowell HS,697,9,AF,2,0,1,0,0,0,0.0,0.0,3.0
+Lowell HS,697,9,GE,1834,214,93,25,11,1,1.0,1.0,2180.0
+Malcolm X Academy ES,830,TK,GE,5,14,6,1,0,3,1.0,25.0,55.0
+Malcolm X Academy ES,830,KG,GE,18,6,3,1,1,1,1.0,112.0,143.0
+Malcolm X Academy ES,830,1,GE,16,0,0,0,0,0,0.0,1.0,17.0
+Malcolm X Academy ES,830,2,GE,13,0,1,0,0,0,0.0,1.0,15.0
+Malcolm X Academy ES,830,3,GE,15,1,0,1,0,0,0.0,1.0,18.0
+Malcolm X Academy ES,830,4,GE,16,0,0,0,0,0,0.0,0.0,16.0
+Malcolm X Academy ES,830,5,GE,17,0,0,0,0,0,0.0,0.0,17.0
+Marina MS,708,6,CN,20,17,5,11,4,2,1.0,2.0,62.0
+Marina MS,708,6,GE,155,142,86,45,33,16,18.0,36.0,531.0
+Marina MS,708,6,MM,0,1,0,0,2,0,0.0,0.0,3.0
+Marina MS,708,6,NX,1,0,0,0,0,0,0.0,0.0,1.0
+Marina MS,708,7,CN,17,0,0,0,0,0,0.0,0.0,17.0
+Marina MS,708,7,GE,251,3,2,3,0,3,1.0,0.0,263.0
+Marina MS,708,7,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Marina MS,708,7,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Marina MS,708,7,NX,10,0,0,0,0,0,0.0,0.0,10.0
+Marina MS,708,8,CN,23,0,1,0,0,0,0.0,0.0,24.0
+Marina MS,708,8,GE,234,2,5,2,3,0,0.0,3.0,249.0
+Marina MS,708,8,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Marina MS,708,8,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Marina MS,708,8,NX,10,0,0,0,0,0,0.0,0.0,10.0
+Marshall (Thurgood) HS,853,9,ED,1,1,0,0,0,0,0.0,0.0,2.0
+Marshall (Thurgood) HS,853,9,GE,115,60,106,82,43,8,6.0,25.0,445.0
+Marshall (Thurgood) HS,853,9,MM,0,0,0,0,1,0,1.0,0.0,2.0
+Marshall (Thurgood) HS,853,9,NX,5,3,1,0,0,0,0.0,0.0,9.0
+Marshall (Thurgood) HS,853,10,ED,3,0,0,0,0,0,0.0,0.0,3.0
+Marshall (Thurgood) HS,853,10,GE,53,1,0,2,0,0,0.0,0.0,56.0
+Marshall (Thurgood) HS,853,10,MM,3,0,0,0,0,1,0.0,0.0,4.0
+Marshall (Thurgood) HS,853,10,NX,31,0,0,0,0,0,0.0,0.0,31.0
+Marshall (Thurgood) HS,853,10,SF,5,0,0,0,0,0,0.0,0.0,5.0
+Marshall (Thurgood) HS,853,11,ED,3,0,0,0,0,0,0.0,0.0,3.0
+Marshall (Thurgood) HS,853,11,GE,66,2,1,2,0,0,0.0,0.0,71.0
+Marshall (Thurgood) HS,853,11,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Marshall (Thurgood) HS,853,11,NX,72,0,0,0,0,0,0.0,0.0,72.0
+Marshall (Thurgood) HS,853,11,SF,7,0,0,0,0,0,0.0,0.0,7.0
+Marshall (Thurgood) HS,853,12,GE,38,0,0,0,0,0,0.0,0.0,38.0
+Marshall (Thurgood) HS,853,12,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Marshall (Thurgood) HS,853,12,NX,44,0,0,0,0,0,0.0,0.0,44.0
+Marshall (Thurgood) HS,853,13,CA,3,1,0,0,0,0,0.0,0.0,4.0
+Marshall ES,714,KG,SE,21,13,18,14,13,6,10.0,248.0,343.0
+Marshall ES,714,KG,SN,27,16,3,5,7,6,5.0,22.0,91.0
+Marshall ES,714,1,SE,19,0,1,0,1,0,0.0,6.0,27.0
+Marshall ES,714,1,SN,26,1,0,1,0,0,0.0,0.0,28.0
+Marshall ES,714,2,SN,45,3,0,0,1,0,0.0,0.0,49.0
+Marshall ES,714,3,SN,43,4,2,1,0,0,0.0,0.0,50.0
+Marshall ES,714,4,SN,41,1,1,3,0,0,0.0,0.0,46.0
+Marshall ES,714,5,SN,45,3,2,0,0,0,0.0,0.0,50.0
+McCoppin (Frank) ES,549,KG,GE,12,11,12,23,27,30,23.0,548.0,686.0
+McCoppin (Frank) ES,549,1,GE,38,3,1,1,1,2,0.0,13.0,59.0
+McCoppin (Frank) ES,549,2,GE,42,0,0,1,0,0,0.0,4.0,47.0
+McCoppin (Frank) ES,549,3,GE,32,2,4,2,1,1,0.0,7.0,49.0
+McCoppin (Frank) ES,549,4,GE,26,2,3,0,1,2,1.0,2.0,37.0
+McCoppin (Frank) ES,549,5,GE,36,0,1,1,0,0,1.0,0.0,39.0
+McKinley ES,718,KG,GE,76,80,69,70,76,72,71.0,619.0,1133.0
+McKinley ES,718,1,GE,69,6,4,8,6,0,1.0,12.0,106.0
+McKinley ES,718,2,GE,69,3,0,3,1,5,4.0,4.0,89.0
+McKinley ES,718,3,GE,69,4,5,5,1,1,1.0,10.0,96.0
+McKinley ES,718,4,GE,67,1,1,1,0,1,3.0,4.0,78.0
+McKinley ES,718,5,GE,60,2,0,1,1,0,1.0,1.0,66.0
+McLaren (John) TK,950,TK,GE,13,18,15,8,8,8,3.0,17.0,90.0
+Milk (Harvey) Civil Right ES,505,KG,GE,47,21,31,22,20,16,24.0,456.0,637.0
+Milk (Harvey) Civil Right ES,505,1,GE,41,3,1,0,0,2,3.0,8.0,58.0
+Milk (Harvey) Civil Right ES,505,2,GE,45,1,0,0,1,1,0.0,2.0,50.0
+Milk (Harvey) Civil Right ES,505,3,GE,38,0,2,0,1,0,2.0,6.0,49.0
+Milk (Harvey) Civil Right ES,505,4,GE,29,4,1,1,0,1,0.0,0.0,36.0
+Milk (Harvey) Civil Right ES,505,5,GE,38,0,0,0,0,0,0.0,0.0,38.0
+Miraloma ES,722,KG,AF,4,4,4,1,0,0,0.0,1.0,14.0
+Miraloma ES,722,KG,GE,78,82,77,76,82,79,68.0,614.0,1156.0
+Miraloma ES,722,1,AF,2,0,0,0,0,0,0.0,0.0,2.0
+Miraloma ES,722,1,GE,68,6,7,4,6,8,3.0,13.0,115.0
+Miraloma ES,722,2,AF,3,0,0,0,0,0,0.0,0.0,3.0
+Miraloma ES,722,2,GE,67,0,2,6,2,5,5.0,5.0,92.0
+Miraloma ES,722,3,GE,70,5,6,5,5,2,1.0,8.0,102.0
+Miraloma ES,722,4,AF,3,0,0,0,0,0,0.0,0.0,3.0
+Miraloma ES,722,4,GE,64,2,2,3,1,0,1.0,4.0,77.0
+Miraloma ES,722,5,GE,67,2,2,0,1,3,2.0,1.0,78.0
+Mission Education Center ES,724,1,NS,6,0,2,2,3,0,0.0,0.0,13.0
+Mission Education Center ES,724,2,NS,9,0,1,6,0,2,1.0,0.0,19.0
+Mission Education Center ES,724,3,NS,11,0,0,7,3,0,0.0,0.0,21.0
+Mission Education Center ES,724,4,NS,11,0,0,2,4,0,0.0,0.0,17.0
+Mission Education Center ES,724,5,NS,5,0,1,7,2,0,0.0,0.0,15.0
+Mission HS,725,9,ED,0,1,1,1,0,0,0.0,0.0,3.0
+Mission HS,725,9,GE,149,147,161,137,88,68,25.0,12.0,787.0
+Mission HS,725,9,MM,5,6,0,1,0,1,0.0,1.0,14.0
+Mission HS,725,9,MS,3,1,1,0,0,0,0.0,0.0,5.0
+Mission HS,725,9,NX,4,7,6,3,1,1,0.0,1.0,23.0
+Mission HS,725,9,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Mission HS,725,9,SF,0,1,0,0,0,0,0.0,0.0,1.0
+Mission HS,725,10,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Mission HS,725,10,GE,184,7,3,4,1,0,0.0,0.0,199.0
+Mission HS,725,10,MM,5,0,0,0,1,0,0.0,0.0,6.0
+Mission HS,725,10,MS,5,0,0,0,0,0,0.0,0.0,5.0
+Mission HS,725,10,NX,34,0,0,0,0,0,0.0,0.0,34.0
+Mission HS,725,10,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Mission HS,725,10,SF,4,0,0,0,0,0,0.0,0.0,4.0
+Mission HS,725,11,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Mission HS,725,11,GE,201,4,2,2,2,0,0.0,0.0,211.0
+Mission HS,725,11,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Mission HS,725,11,MS,8,0,1,0,0,0,0.0,0.0,9.0
+Mission HS,725,11,NX,94,0,0,0,0,0,0.0,0.0,94.0
+Mission HS,725,11,SF,7,0,0,0,0,0,0.0,0.0,7.0
+Mission HS,725,12,ED,3,0,0,0,0,0,0.0,0.0,3.0
+Mission HS,725,12,GE,193,1,0,0,0,0,0.0,0.0,194.0
+Mission HS,725,12,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Mission HS,725,12,MS,4,0,0,0,0,0,0.0,0.0,4.0
+Mission HS,725,12,NX,95,0,0,0,0,0,0.0,0.0,95.0
+Mission HS,725,12,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Mission HS,725,13,CA,6,4,1,0,0,0,0.0,0.0,11.0
+Monroe ES,729,KG,CB,41,16,22,7,5,10,3.0,17.0,121.0
+Monroe ES,729,KG,GE,17,70,25,37,15,15,15.0,280.0,474.0
+Monroe ES,729,KG,SE,23,12,13,5,11,7,5.0,204.0,280.0
+Monroe ES,729,KG,SN,28,20,12,9,6,7,3.0,22.0,107.0
+Monroe ES,729,1,CB,27,1,2,0,1,0,0.0,1.0,32.0
+Monroe ES,729,1,GE,22,4,0,2,0,1,0.0,6.0,35.0
+Monroe ES,729,1,SE,18,1,0,0,0,0,0.0,3.0,22.0
+Monroe ES,729,1,SN,31,1,0,0,0,0,0.0,0.0,32.0
+Monroe ES,729,2,CB,25,1,0,0,0,0,0.0,0.0,26.0
+Monroe ES,729,2,GE,25,3,1,1,0,0,0.0,2.0,32.0
+Monroe ES,729,2,SN,43,2,1,0,1,0,0.0,0.0,47.0
+Monroe ES,729,3,CB,22,0,1,0,0,0,0.0,1.0,24.0
+Monroe ES,729,3,GE,22,1,0,1,0,0,1.0,5.0,30.0
+Monroe ES,729,3,SN,47,1,3,0,0,0,0.0,0.0,51.0
+Monroe ES,729,4,CB,25,0,3,0,0,0,0.0,0.0,28.0
+Monroe ES,729,4,GE,21,2,0,0,0,0,0.0,0.0,23.0
+Monroe ES,729,4,SN,45,1,0,0,0,0,0.0,0.0,46.0
+Monroe ES,729,5,CB,27,0,0,1,0,0,0.0,1.0,29.0
+Monroe ES,729,5,GE,25,1,1,1,4,0,0.0,2.0,34.0
+Monroe ES,729,5,SN,43,1,0,0,0,0,0.0,0.0,44.0
+Moscone (George R) ES,723,KG,CB,11,2,8,3,6,0,4.0,18.0,52.0
+Moscone (George R) ES,723,KG,GE,8,22,13,7,3,10,8.0,231.0,302.0
+Moscone (George R) ES,723,KG,SB,36,11,13,7,5,6,4.0,9.0,91.0
+Moscone (George R) ES,723,1,CB,20,0,0,0,2,1,1.0,0.0,24.0
+Moscone (George R) ES,723,1,GE,18,2,0,0,1,2,0.0,2.0,25.0
+Moscone (George R) ES,723,1,SB,24,0,0,0,0,0,0.0,0.0,24.0
+Moscone (George R) ES,723,2,CB,21,1,0,0,0,0,0.0,0.0,22.0
+Moscone (George R) ES,723,2,GE,22,0,0,0,1,0,0.0,2.0,25.0
+Moscone (George R) ES,723,2,SB,22,0,1,0,0,0,0.0,0.0,23.0
+Moscone (George R) ES,723,3,CB,22,0,0,0,0,0,0.0,1.0,23.0
+Moscone (George R) ES,723,3,GE,22,0,0,0,0,0,0.0,3.0,25.0
+Moscone (George R) ES,723,3,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Moscone (George R) ES,723,4,CB,20,0,0,0,0,0,0.0,0.0,20.0
+Moscone (George R) ES,723,4,GE,22,0,0,0,0,0,0.0,0.0,22.0
+Moscone (George R) ES,723,4,SB,22,1,0,0,0,0,0.0,0.0,23.0
+Moscone (George R) ES,723,5,CB,23,3,0,0,0,0,0.0,0.0,26.0
+Moscone (George R) ES,723,5,GE,20,1,0,0,0,3,0.0,0.0,24.0
+Moscone (George R) ES,723,5,SB,19,0,0,0,0,0,0.0,0.0,19.0
+Muir (John) ES,650,KG,GE,4,7,9,1,5,6,3.0,199.0,234.0
+Muir (John) ES,650,KG,SB,2,1,1,0,0,0,0.0,5.0,9.0
+Muir (John) ES,650,1,GE,28,0,0,0,2,4,1.0,12.0,47.0
+Muir (John) ES,650,1,SB,13,1,0,0,0,0,0.0,0.0,14.0
+Muir (John) ES,650,2,GE,27,4,1,3,0,1,1.0,2.0,39.0
+Muir (John) ES,650,2,SB,19,0,0,0,0,0,0.0,0.0,19.0
+Muir (John) ES,650,3,GE,15,0,3,0,1,0,0.0,4.0,23.0
+Muir (John) ES,650,3,SB,20,0,0,0,0,0,0.0,0.0,20.0
+Muir (John) ES,650,4,GE,27,0,0,1,0,0,0.0,0.0,28.0
+Muir (John) ES,650,4,SB,14,0,0,0,0,0,0.0,0.0,14.0
+Muir (John) ES,650,5,GE,23,0,1,0,1,0,0.0,0.0,25.0
+Muir (John) ES,650,5,SB,16,0,0,0,0,0,0.0,0.0,16.0
+New Traditions ES,735,KG,GE,57,44,72,53,71,65,46.0,588.0,996.0
+New Traditions ES,735,1,GE,51,2,6,5,3,2,1.0,14.0,84.0
+New Traditions ES,735,2,GE,48,3,3,1,3,0,1.0,11.0,70.0
+New Traditions ES,735,3,GE,44,4,3,1,1,1,2.0,6.0,62.0
+New Traditions ES,735,4,GE,43,1,1,1,3,0,2.0,2.0,53.0
+New Traditions ES,735,5,GE,43,1,0,1,2,2,0.0,3.0,52.0
+Noriega TK,928,TK,GE,85,24,22,13,6,12,6.0,22.0,190.0
+O'Connell (John) HS,651,9,GE,118,105,120,108,37,25,15.0,34.0,562.0
+O'Connell (John) HS,651,9,MM,1,2,1,1,0,0,0.0,1.0,6.0
+O'Connell (John) HS,651,9,SN,2,2,1,0,0,1,0.0,0.0,6.0
+O'Connell (John) HS,651,10,GE,99,3,1,1,2,1,0.0,0.0,107.0
+O'Connell (John) HS,651,10,MM,6,0,0,0,0,0,0.0,0.0,6.0
+O'Connell (John) HS,651,10,SN,1,1,0,0,0,0,0.0,0.0,2.0
+O'Connell (John) HS,651,11,GE,84,0,2,2,1,0,0.0,0.0,89.0
+O'Connell (John) HS,651,11,MM,3,0,0,0,0,0,0.0,0.0,3.0
+O'Connell (John) HS,651,11,SN,13,0,0,0,0,0,0.0,0.0,13.0
+O'Connell (John) HS,651,12,GE,115,1,0,2,0,0,0.0,0.0,118.0
+O'Connell (John) HS,651,12,MM,1,0,0,0,0,0,0.0,0.0,1.0
+O'Connell (John) HS,651,13,CA,2,3,0,0,0,0,0.0,0.0,5.0
+Ortega (Jose) ES,746,KG,GE,21,25,17,15,12,8,18.0,380.0,496.0
+Ortega (Jose) ES,746,KG,ME,43,26,12,18,10,15,12.0,243.0,379.0
+Ortega (Jose) ES,746,KG,MN,26,11,3,3,2,1,2.0,9.0,57.0
+Ortega (Jose) ES,746,1,GE,41,1,2,1,2,0,1.0,8.0,56.0
+Ortega (Jose) ES,746,1,ME,17,6,0,0,0,1,1.0,3.0,28.0
+Ortega (Jose) ES,746,1,MN,18,0,0,0,0,0,0.0,0.0,18.0
+Ortega (Jose) ES,746,2,GE,46,1,1,1,0,0,0.0,4.0,53.0
+Ortega (Jose) ES,746,2,MN,23,3,0,1,0,0,0.0,0.0,27.0
+Ortega (Jose) ES,746,3,GE,45,0,2,0,0,0,0.0,5.0,52.0
+Ortega (Jose) ES,746,3,MN,19,0,0,0,1,1,0.0,0.0,21.0
+Ortega (Jose) ES,746,4,GE,42,1,0,0,0,0,0.0,1.0,44.0
+Ortega (Jose) ES,746,4,MN,23,0,0,0,0,0,0.0,0.0,23.0
+Ortega (Jose) ES,746,5,GE,44,0,0,0,3,0,1.0,1.0,49.0
+Ortega (Jose) ES,746,5,MN,24,0,0,0,0,0,0.0,0.0,24.0
+Parker (Jean) ES,638,KG,CB,11,22,28,3,8,1,5.0,8.0,86.0
+Parker (Jean) ES,638,KG,GE,9,18,7,22,13,10,9.0,229.0,317.0
+Parker (Jean) ES,638,1,CB,21,1,1,0,0,0,0.0,1.0,24.0
+Parker (Jean) ES,638,1,GE,12,0,0,0,1,0,0.0,4.0,17.0
+Parker (Jean) ES,638,2,CB,23,2,5,1,0,0,0.0,0.0,31.0
+Parker (Jean) ES,638,2,GE,20,3,0,5,1,2,0.0,3.0,34.0
+Parker (Jean) ES,638,3,CB,22,0,0,3,1,0,0.0,0.0,26.0
+Parker (Jean) ES,638,3,GE,22,1,0,0,3,0,1.0,2.0,29.0
+Parker (Jean) ES,638,4,CB,19,4,2,1,0,1,1.0,0.0,28.0
+Parker (Jean) ES,638,4,GE,15,0,2,4,2,0,0.0,1.0,24.0
+Parker (Jean) ES,638,5,CB,20,3,4,3,0,0,0.0,0.0,30.0
+Parker (Jean) ES,638,5,GE,17,1,1,3,2,0,2.0,1.0,27.0
+Parks (Rosa) ES,786,KG,GE,20,11,20,8,6,6,4.0,326.0,401.0
+Parks (Rosa) ES,786,KG,JE,25,8,5,10,7,6,9.0,225.0,295.0
+Parks (Rosa) ES,786,KG,JN,7,6,3,1,2,3,3.0,4.0,29.0
+Parks (Rosa) ES,786,KG,MM,2,2,2,0,0,0,0.0,0.0,6.0
+Parks (Rosa) ES,786,1,GE,32,2,0,3,1,0,0.0,7.0,45.0
+Parks (Rosa) ES,786,1,JB,47,2,2,1,0,0,0.0,7.0,59.0
+Parks (Rosa) ES,786,2,GE,34,1,2,0,0,1,0.0,2.0,40.0
+Parks (Rosa) ES,786,2,JB,46,1,0,0,0,1,0.0,1.0,49.0
+Parks (Rosa) ES,786,2,MM,5,1,0,0,0,0,0.0,0.0,6.0
+Parks (Rosa) ES,786,3,GE,34,0,0,0,1,1,0.0,6.0,42.0
+Parks (Rosa) ES,786,3,JB,45,1,1,1,0,0,0.0,3.0,51.0
+Parks (Rosa) ES,786,3,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Parks (Rosa) ES,786,4,GE,40,0,0,1,0,0,0.0,1.0,42.0
+Parks (Rosa) ES,786,4,JB,44,0,0,0,0,0,0.0,0.0,44.0
+Parks (Rosa) ES,786,4,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Parks (Rosa) ES,786,5,GE,35,2,1,1,0,0,0.0,3.0,42.0
+Parks (Rosa) ES,786,5,JB,42,1,0,1,0,0,0.0,0.0,44.0
+Parks (Rosa) ES,786,5,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Peabody (George) ES,569,KG,GE,147,136,141,103,68,67,61.0,569.0,1292.0
+Peabody (George) ES,569,1,GE,56,5,0,4,5,2,3.0,12.0,87.0
+Peabody (George) ES,569,1,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Peabody (George) ES,569,2,GE,48,0,1,2,3,0,3.0,8.0,65.0
+Peabody (George) ES,569,2,MM,1,0,0,0,0,0,0.0,0.0,1.0
+Peabody (George) ES,569,3,GE,49,10,7,1,1,4,2.0,3.0,77.0
+Peabody (George) ES,569,3,MM,6,0,0,0,0,0,0.0,0.0,6.0
+Peabody (George) ES,569,4,GE,44,3,2,3,2,2,0.0,2.0,58.0
+Peabody (George) ES,569,4,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Peabody (George) ES,569,5,GE,46,3,0,2,1,1,0.0,1.0,54.0
+Peabody (George) ES,569,5,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Presidio MS,778,6,DT,4,0,0,0,0,0,0.0,0.0,4.0
+Presidio MS,778,6,ED,0,0,3,0,1,0,0.0,0.0,4.0
+Presidio MS,778,6,GE,387,246,180,136,60,29,9.0,27.0,1074.0
+Presidio MS,778,6,JB,17,18,7,4,1,0,0.0,0.0,47.0
+Presidio MS,778,6,MM,0,3,1,0,0,0,0.0,0.0,4.0
+Presidio MS,778,6,MS,4,1,2,0,0,0,0.0,0.0,7.0
+Presidio MS,778,7,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Presidio MS,778,7,GE,325,11,3,3,1,0,0.0,0.0,343.0
+Presidio MS,778,7,JB,23,0,0,0,0,0,0.0,0.0,23.0
+Presidio MS,778,7,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Presidio MS,778,8,ED,4,0,0,0,0,0,0.0,0.0,4.0
+Presidio MS,778,8,GE,336,5,5,1,4,0,0.0,0.0,351.0
+Presidio MS,778,8,JB,25,1,0,0,0,0,0.0,0.0,26.0
+Presidio MS,778,8,MM,6,0,0,0,0,0,0.0,0.0,6.0
+Presidio MS,778,8,MS,5,0,0,0,0,0,0.0,0.0,5.0
+Presidio TK,975,TK,GE,36,36,36,30,13,8,6.0,14.0,179.0
+Redding ES,790,TK,GE,13,14,19,14,8,11,7.0,20.0,106.0
+Redding ES,790,KG,GE,32,20,3,9,7,6,6.0,229.0,312.0
+Redding ES,790,1,GE,34,3,0,0,0,1,1.0,7.0,46.0
+Redding ES,790,2,GE,36,2,0,2,0,0,0.0,1.0,41.0
+Redding ES,790,3,GE,34,1,0,0,1,0,1.0,1.0,38.0
+Redding ES,790,4,GE,36,0,0,0,0,0,0.0,1.0,37.0
+Redding ES,790,5,GE,36,0,1,0,0,0,0.0,1.0,38.0
+Revere (Paul) K-8,760,KG,GE,9,8,15,5,5,9,6.0,159.0,216.0
+Revere (Paul) K-8,760,KG,MM,1,2,2,1,0,0,0.0,0.0,6.0
+Revere (Paul) K-8,760,KG,SE,9,5,6,3,4,10,4.0,121.0,162.0
+Revere (Paul) K-8,760,KG,SN,12,8,4,2,3,2,3.0,22.0,56.0
+Revere (Paul) K-8,760,1,GE,16,2,0,0,1,0,1.0,3.0,23.0
+Revere (Paul) K-8,760,1,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Revere (Paul) K-8,760,1,SE,14,1,1,0,0,0,0.0,3.0,19.0
+Revere (Paul) K-8,760,1,SN,21,1,0,0,1,0,0.0,0.0,23.0
+Revere (Paul) K-8,760,2,GE,13,0,0,0,0,0,0.0,1.0,14.0
+Revere (Paul) K-8,760,2,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Revere (Paul) K-8,760,2,SN,36,2,1,0,1,0,0.0,1.0,41.0
+Revere (Paul) K-8,760,3,GE,18,2,0,1,2,0,0.0,1.0,24.0
+Revere (Paul) K-8,760,3,MM,6,0,0,0,0,0,0.0,0.0,6.0
+Revere (Paul) K-8,760,3,SN,35,2,1,0,0,0,0.0,0.0,38.0
+Revere (Paul) K-8,760,4,GE,18,2,0,0,0,0,0.0,0.0,20.0
+Revere (Paul) K-8,760,4,MM,4,0,0,0,0,0,0.0,0.0,4.0
+Revere (Paul) K-8,760,4,SN,29,1,0,0,0,0,0.0,0.0,30.0
+Revere (Paul) K-8,760,5,GE,20,1,1,0,1,0,0.0,0.0,23.0
+Revere (Paul) K-8,760,5,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Revere (Paul) K-8,760,5,SN,34,2,0,0,0,0,0.0,0.0,36.0
+Revere (Paul) K-8,760,6,GE,27,10,6,6,2,3,1.0,10.0,65.0
+Revere (Paul) K-8,760,6,SN,26,5,5,9,3,0,0.0,1.0,49.0
+Revere (Paul) K-8,760,7,GE,24,0,0,2,0,1,0.0,0.0,27.0
+Revere (Paul) K-8,760,7,SN,24,0,1,0,1,0,0.0,0.0,26.0
+Revere (Paul) K-8,760,8,GE,26,1,0,4,1,2,1.0,0.0,35.0
+Revere (Paul) K-8,760,8,SN,22,2,0,0,0,0,0.0,0.0,24.0
+Rodriguez (Zaida T) TK,965,TK,GE,12,32,28,15,11,4,5.0,23.0,130.0
+Rooftop K-8,796,KG,GE,113,101,97,114,108,102,99.0,673.0,1407.0
+Rooftop K-8,796,1,GE,75,6,10,9,4,4,2.0,23.0,133.0
+Rooftop K-8,796,2,GE,77,12,8,5,2,2,3.0,4.0,113.0
+Rooftop K-8,796,3,GE,80,11,2,4,2,4,3.0,7.0,113.0
+Rooftop K-8,796,4,GE,73,2,5,5,3,4,0.0,1.0,93.0
+Rooftop K-8,796,5,GE,76,4,4,2,0,2,1.0,1.0,90.0
+Rooftop K-8,796,6,GE,109,47,57,55,42,33,18.0,16.0,377.0
+Rooftop K-8,796,7,GE,68,1,3,2,0,0,0.0,1.0,75.0
+Rooftop K-8,796,8,GE,71,3,1,3,2,3,1.0,0.0,84.0
+Roosevelt MS,797,6,AF,7,5,1,0,0,0,0.0,0.0,13.0
+Roosevelt MS,797,6,CN,59,14,13,4,5,1,3.0,1.0,100.0
+Roosevelt MS,797,6,GE,275,302,131,82,56,38,21.0,12.0,917.0
+Roosevelt MS,797,6,MM,4,4,0,1,0,0,0.0,0.0,9.0
+Roosevelt MS,797,7,AF,3,0,0,0,0,0,0.0,0.0,3.0
+Roosevelt MS,797,7,CN,63,1,0,0,0,0,0.0,0.0,64.0
+Roosevelt MS,797,7,GE,168,8,3,3,4,0,0.0,0.0,186.0
+Roosevelt MS,797,7,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Roosevelt MS,797,8,AF,4,0,0,0,0,0,0.0,0.0,4.0
+Roosevelt MS,797,8,CN,62,0,0,0,0,0,0.0,0.0,62.0
+Roosevelt MS,797,8,GE,162,10,5,1,3,3,0.0,0.0,184.0
+Roosevelt MS,797,8,MM,2,0,0,0,1,0,0.0,0.0,3.0
+Sanchez ES,816,KG,GE,6,6,9,12,5,4,2.0,195.0,239.0
+Sanchez ES,816,KG,MS,0,2,0,0,0,0,0.0,0.0,2.0
+Sanchez ES,816,KG,SB,7,10,10,5,3,3,3.0,8.0,49.0
+Sanchez ES,816,1,GE,12,1,2,0,0,2,0.0,6.0,23.0
+Sanchez ES,816,1,SB,27,2,2,0,0,0,0.0,0.0,31.0
+Sanchez ES,816,2,GE,18,0,1,1,0,0,0.0,1.0,21.0
+Sanchez ES,816,2,MS,4,0,0,0,0,0,0.0,0.0,4.0
+Sanchez ES,816,2,SB,36,0,0,1,0,0,0.0,0.0,37.0
+Sanchez ES,816,3,GE,21,0,1,0,0,0,0.0,1.0,23.0
+Sanchez ES,816,3,MS,1,0,1,0,0,0,0.0,0.0,2.0
+Sanchez ES,816,3,SB,21,0,2,0,0,0,0.0,1.0,24.0
+Sanchez ES,816,4,GE,18,0,0,0,0,0,0.0,0.0,18.0
+Sanchez ES,816,4,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Sanchez ES,816,4,SB,21,0,0,0,0,0,0.0,0.0,21.0
+Sanchez ES,816,5,GE,18,0,0,1,0,0,0.0,0.0,19.0
+Sanchez ES,816,5,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Sanchez ES,816,5,SB,19,0,1,1,0,0,0.0,0.0,21.0
+Serra (Junipero) Annex TK,955,TK,GE,29,21,24,26,7,8,10.0,20.0,145.0
+Serra (Junipero) ES,656,KG,GE,18,13,6,6,9,5,1.0,258.0,316.0
+Serra (Junipero) ES,656,KG,SB,17,8,7,2,3,2,3.0,6.0,48.0
+Serra (Junipero) ES,656,1,GE,22,0,2,1,0,0,1.0,2.0,28.0
+Serra (Junipero) ES,656,1,SB,22,2,0,0,0,0,0.0,0.0,24.0
+Serra (Junipero) ES,656,2,GE,32,0,0,2,0,1,0.0,2.0,37.0
+Serra (Junipero) ES,656,2,SB,20,1,0,1,0,0,0.0,1.0,23.0
+Serra (Junipero) ES,656,3,GE,22,0,0,0,0,0,0.0,1.0,23.0
+Serra (Junipero) ES,656,3,SB,20,0,0,0,0,0,0.0,0.0,20.0
+Serra (Junipero) ES,656,4,GE,46,0,0,0,0,0,0.0,0.0,46.0
+Serra (Junipero) ES,656,5,GE,37,1,1,0,0,0,0.0,0.0,39.0
+SF Community K-8,493,KG,GE,23,29,17,19,15,17,18.0,294.0,432.0
+SF Community K-8,493,1,GE,35,0,2,0,1,0,0.0,4.0,42.0
+SF Community K-8,493,2,GE,32,1,1,0,1,0,0.0,4.0,39.0
+SF Community K-8,493,3,GE,30,2,1,0,0,0,1.0,5.0,39.0
+SF Community K-8,493,4,GE,29,0,0,0,0,0,0.0,0.0,29.0
+SF Community K-8,493,5,GE,31,3,1,0,0,0,0.0,2.0,37.0
+SF Community K-8,493,6,GE,50,27,18,8,6,0,2.0,10.0,121.0
+SF Community K-8,493,7,GE,31,2,1,0,0,0,0.0,0.0,34.0
+SF Community K-8,493,8,GE,32,1,0,0,0,0,0.0,0.0,33.0
+SF International HS,621,9,GE,11,14,10,15,10,4,4.0,4.0,72.0
+SF International HS,621,9,NC,0,2,0,0,0,0,0.0,0.0,2.0
+SF International HS,621,9,NS,3,2,1,2,0,0,0.0,0.0,8.0
+SF International HS,621,9,NX,2,4,6,1,0,0,0.0,0.0,13.0
+SF International HS,621,9,SF,1,0,0,0,0,0,0.0,0.0,1.0
+SF International HS,621,10,GE,14,0,0,1,0,0,0.0,0.0,15.0
+SF International HS,621,10,NC,3,0,0,0,0,0,0.0,0.0,3.0
+SF International HS,621,10,NS,11,0,0,0,0,0,0.0,0.0,11.0
+SF International HS,621,10,NX,11,0,0,0,0,0,0.0,0.0,11.0
+SF International HS,621,10,SF,4,0,0,0,0,0,0.0,0.0,4.0
+SF International HS,621,11,GE,11,0,0,1,0,0,0.0,0.0,12.0
+SF International HS,621,11,NC,10,0,0,0,0,0,0.0,0.0,10.0
+SF International HS,621,11,NS,21,0,0,0,0,0,0.0,0.0,21.0
+SF International HS,621,11,NX,49,0,0,0,0,0,0.0,0.0,49.0
+SF International HS,621,11,SF,5,0,0,0,0,0,0.0,0.0,5.0
+SF International HS,621,12,GE,26,0,0,0,0,0,0.0,0.0,26.0
+SF International HS,621,12,NC,17,0,0,0,0,0,0.0,0.0,17.0
+SF International HS,621,12,NS,7,0,0,0,0,0,0.0,0.0,7.0
+SF International HS,621,12,NX,51,0,0,0,0,0,0.0,0.0,51.0
+SF International HS,621,12,SF,3,0,0,0,0,0,0.0,0.0,3.0
+SF Public Montessori ES,814,KG,GE,62,39,37,56,31,34,31.0,542.0,832.0
+SF Public Montessori ES,814,1,GE,31,5,1,4,1,1,2.0,11.0,56.0
+SF Public Montessori ES,814,2,GE,27,1,0,1,1,0,0.0,7.0,37.0
+SF Public Montessori ES,814,3,GE,37,0,3,2,1,3,0.0,4.0,50.0
+SF Public Montessori ES,814,4,GE,29,1,2,0,0,1,0.0,1.0,34.0
+SF Public Montessori ES,814,5,GE,34,1,0,0,0,0,0.0,2.0,37.0
+Sheridan ES,820,TK,GE,19,16,14,10,15,7,4.0,23.0,108.0
+Sheridan ES,820,KG,GE,8,8,11,7,8,7,5.0,183.0,237.0
+Sheridan ES,820,1,GE,37,0,1,1,1,0,0.0,9.0,49.0
+Sheridan ES,820,2,GE,31,2,0,1,7,1,0.0,5.0,47.0
+Sheridan ES,820,3,GE,31,3,0,2,0,1,1.0,1.0,39.0
+Sheridan ES,820,4,GE,34,1,0,0,0,0,0.0,0.0,35.0
+Sheridan ES,820,5,GE,35,0,0,0,0,0,0.0,0.0,35.0
+Sherman ES,823,KG,AF,2,3,2,3,1,0,0.0,1.0,12.0
+Sherman ES,823,KG,GE,96,71,55,35,53,35,23.0,566.0,934.0
+Sherman ES,823,1,AF,2,0,0,0,0,0,0.0,0.0,2.0
+Sherman ES,823,1,GE,68,3,4,1,1,2,2.0,11.0,92.0
+Sherman ES,823,2,AF,5,0,0,0,0,0,0.0,0.0,5.0
+Sherman ES,823,2,GE,65,4,1,1,0,2,0.0,11.0,84.0
+Sherman ES,823,3,AF,4,0,0,0,0,0,0.0,0.0,4.0
+Sherman ES,823,3,GE,65,3,1,3,4,2,1.0,7.0,86.0
+Sherman ES,823,4,AF,1,0,0,0,0,0,0.0,0.0,1.0
+Sherman ES,823,4,GE,62,1,0,0,0,0,0.0,2.0,65.0
+Sherman ES,823,5,AF,2,0,0,0,0,0,0.0,0.0,2.0
+Sherman ES,823,5,GE,62,1,1,0,1,0,0.0,3.0,68.0
+Sloat (Commodore) ES,488,KG,GE,71,60,70,63,58,42,49.0,701.0,1114.0
+Sloat (Commodore) ES,488,1,GE,71,5,3,2,6,2,3.0,14.0,106.0
+Sloat (Commodore) ES,488,2,GE,68,4,4,0,1,0,1.0,9.0,87.0
+Sloat (Commodore) ES,488,3,GE,69,1,1,0,3,2,2.0,7.0,85.0
+Sloat (Commodore) ES,488,4,GE,63,1,2,0,0,0,1.0,2.0,69.0
+Sloat (Commodore) ES,488,5,GE,67,1,3,0,1,1,0.0,1.0,74.0
+Spring Valley Science ES,834,KG,CB,11,0,6,4,9,5,1.0,10.0,46.0
+Spring Valley Science ES,834,KG,GE,9,17,17,14,7,8,6.0,221.0,299.0
+Spring Valley Science ES,834,KG,SB,9,0,3,1,0,0,0.0,4.0,17.0
+Spring Valley Science ES,834,1,CB,20,0,0,0,0,0,0.0,0.0,20.0
+Spring Valley Science ES,834,1,GE,16,0,0,0,0,0,0.0,3.0,19.0
+Spring Valley Science ES,834,1,SB,21,0,0,0,0,0,0.0,0.0,21.0
+Spring Valley Science ES,834,2,CB,14,0,1,1,0,0,4.0,0.0,20.0
+Spring Valley Science ES,834,2,GE,21,0,0,1,0,0,1.0,7.0,30.0
+Spring Valley Science ES,834,2,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Spring Valley Science ES,834,3,CB,22,0,0,0,0,0,0.0,0.0,22.0
+Spring Valley Science ES,834,3,GE,18,0,0,2,2,0,0.0,2.0,24.0
+Spring Valley Science ES,834,3,SB,20,0,0,0,0,0,0.0,0.0,20.0
+Spring Valley Science ES,834,4,GE,58,0,0,4,0,0,1.0,0.0,63.0
+Spring Valley Science ES,834,5,GE,54,0,0,0,2,1,1.0,0.0,58.0
+Stevenson (Robert Louis) ES,782,TK,MM,10,0,0,0,0,0,0.0,0.0,10.0
+Stevenson (Robert Louis) ES,782,KG,GE,45,52,57,65,52,66,48.0,695.0,1080.0
+Stevenson (Robert Louis) ES,782,KG,MM,12,5,0,0,0,0,0.0,0.0,17.0
+Stevenson (Robert Louis) ES,782,1,GE,68,9,4,9,3,2,3.0,16.0,114.0
+Stevenson (Robert Louis) ES,782,1,MM,6,0,0,0,0,0,0.0,0.0,6.0
+Stevenson (Robert Louis) ES,782,2,GE,87,5,8,1,0,1,2.0,8.0,112.0
+Stevenson (Robert Louis) ES,782,2,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Stevenson (Robert Louis) ES,782,3,GE,88,5,3,1,1,0,0.0,5.0,103.0
+Stevenson (Robert Louis) ES,782,3,MM,3,0,0,0,0,0,0.0,0.0,3.0
+Stevenson (Robert Louis) ES,782,4,GE,86,2,3,0,2,1,1.0,2.0,97.0
+Stevenson (Robert Louis) ES,782,4,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Stevenson (Robert Louis) ES,782,5,GE,65,2,2,2,0,0,1.0,2.0,74.0
+Stevenson (Robert Louis) ES,782,5,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Stockton (Commodore) TK,915,TK,GE,28,7,3,3,8,1,8.0,26.0,84.0
+Sunnyside ES,842,KG,GE,120,89,65,49,58,31,44.0,518.0,974.0
+Sunnyside ES,842,KG,MS,0,1,0,0,0,0,0.0,0.0,1.0
+Sunnyside ES,842,1,GE,75,5,1,6,3,3,2.0,10.0,105.0
+Sunnyside ES,842,1,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Sunnyside ES,842,2,GE,67,2,4,4,3,0,0.0,4.0,84.0
+Sunnyside ES,842,2,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Sunnyside ES,842,3,GE,68,3,4,1,2,4,1.0,8.0,91.0
+Sunnyside ES,842,3,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Sunnyside ES,842,4,GE,65,2,2,1,0,1,0.0,1.0,72.0
+Sunnyside ES,842,4,MS,2,0,0,0,0,0,0.0,0.0,2.0
+Sunnyside ES,842,5,GE,64,1,0,2,0,0,2.0,1.0,70.0
+Sunset ES,750,KG,GE,169,173,111,105,90,86,73.0,685.0,1492.0
+Sunset ES,750,KG,SA,0,1,1,0,0,0,0.0,0.0,2.0
+Sunset ES,750,1,GE,86,12,7,3,7,5,3.0,16.0,139.0
+Sunset ES,750,1,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Sunset ES,750,2,GE,82,10,3,2,2,4,1.0,11.0,115.0
+Sunset ES,750,2,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Sunset ES,750,3,GE,77,9,2,0,5,2,1.0,6.0,102.0
+Sunset ES,750,3,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Sunset ES,750,4,GE,71,7,4,1,0,1,0.0,2.0,86.0
+Sunset ES,750,4,SA,2,0,0,0,0,0,0.0,0.0,2.0
+Sunset ES,750,5,GE,72,3,2,0,0,0,1.0,3.0,81.0
+Sunset ES,750,5,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Sutro ES,848,KG,CB,13,3,7,2,4,6,2.0,21.0,58.0
+Sutro ES,848,KG,GE,6,25,19,26,35,24,27.0,599.0,761.0
+Sutro ES,848,1,CB,20,0,1,2,0,1,0.0,1.0,25.0
+Sutro ES,848,1,GE,24,0,1,1,1,1,0.0,12.0,40.0
+Sutro ES,848,2,CB,20,0,0,1,0,0,0.0,1.0,22.0
+Sutro ES,848,2,GE,19,0,0,0,0,0,1.0,11.0,31.0
+Sutro ES,848,3,CB,22,0,2,0,0,0,0.0,0.0,24.0
+Sutro ES,848,3,GE,21,3,0,0,1,0,1.0,6.0,32.0
+Sutro ES,848,4,CB,18,1,1,1,0,0,0.0,0.0,21.0
+Sutro ES,848,4,GE,24,0,0,1,3,2,1.0,0.0,31.0
+Sutro ES,848,5,CB,19,1,2,0,0,0,0.0,0.0,22.0
+Sutro ES,848,5,GE,33,2,0,0,1,0,1.0,3.0,40.0
+Taylor (Edward R) ES,513,KG,CB,36,13,10,10,5,5,2.0,8.0,89.0
+Taylor (Edward R) ES,513,KG,GE,45,33,17,15,6,4,4.0,255.0,379.0
+Taylor (Edward R) ES,513,KG,SB,18,4,3,2,1,0,1.0,4.0,33.0
+Taylor (Edward R) ES,513,1,CB,41,1,0,1,0,0,0.0,1.0,44.0
+Taylor (Edward R) ES,513,1,GE,44,0,1,0,0,0,1.0,7.0,53.0
+Taylor (Edward R) ES,513,1,SB,19,1,0,0,0,0,0.0,0.0,20.0
+Taylor (Edward R) ES,513,2,CB,43,1,2,0,0,0,0.0,0.0,46.0
+Taylor (Edward R) ES,513,2,GE,47,0,1,0,0,0,1.0,5.0,54.0
+Taylor (Edward R) ES,513,2,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Taylor (Edward R) ES,513,3,CB,43,2,0,0,0,0,0.0,0.0,45.0
+Taylor (Edward R) ES,513,3,GE,45,1,0,0,0,0,0.0,4.0,50.0
+Taylor (Edward R) ES,513,3,SB,22,0,0,0,0,0,0.0,0.0,22.0
+Taylor (Edward R) ES,513,4,CB,41,2,0,0,0,0,0.0,0.0,43.0
+Taylor (Edward R) ES,513,4,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Taylor (Edward R) ES,513,4,GE,43,1,0,0,0,1,0.0,0.0,45.0
+Taylor (Edward R) ES,513,4,SB,20,0,0,0,0,0,0.0,0.0,20.0
+Taylor (Edward R) ES,513,5,CB,42,2,1,0,0,0,0.0,0.0,45.0
+Taylor (Edward R) ES,513,5,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Taylor (Edward R) ES,513,5,GE,48,0,0,0,0,0,0.0,2.0,50.0
+Taylor (Edward R) ES,513,5,SB,20,0,0,0,0,0,0.0,0.0,20.0
+Tenderloin Community ES,859,KG,GE,36,10,6,10,4,5,3.0,146.0,220.0
+Tenderloin Community ES,859,1,GE,60,2,2,2,0,1,1.0,1.0,69.0
+Tenderloin Community ES,859,2,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Tenderloin Community ES,859,2,GE,50,1,1,0,0,0,0.0,2.0,54.0
+Tenderloin Community ES,859,3,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Tenderloin Community ES,859,3,GE,60,2,0,1,0,1,1.0,1.0,66.0
+Tenderloin Community ES,859,4,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Tenderloin Community ES,859,4,GE,58,1,0,0,0,0,0.0,0.0,59.0
+Tenderloin Community ES,859,5,GE,46,0,0,0,0,0,0.0,0.0,46.0
+The Academy - San Francisco @ McAte8e3r2 HS,9,GE,62,49,85,60,36,29,20,15.0,356.0,
+The Academy - San Francisco @ McAte8e3r2 HS,9,MM,3,2,0,0,1,1,0,0.0,7.0,
+The Academy - San Francisco @ McAte8e3r2 HS,10,GE,73,11,8,3,1,0,1,0.0,97.0,
+The Academy - San Francisco @ McAte8e3r2 HS,11,GE,88,6,1,0,0,1,0,0.0,96.0,
+The Academy - San Francisco @ McAte8e3r2 HS,11,MM,1,0,0,0,0,0,0,0.0,1.0,
+The Academy - San Francisco @ McAte8e3r2 HS,12,GE,89,0,1,1,0,0,0,0.0,91.0,
+Tule Elk Park TK,997,TK,GE,22,29,26,25,19,7,3.0,18.0,149.0
+Tule Elk Park TK,997,TK,MS,3,0,0,0,0,0,0.0,0.0,3.0
+Ulloa ES,862,KG,CB,41,39,48,24,24,17,16.0,18.0,227.0
+Ulloa ES,862,KG,GE,45,71,68,70,62,60,55.0,695.0,1126.0
+Ulloa ES,862,1,CB,26,6,4,2,1,0,1.0,1.0,41.0
+Ulloa ES,862,1,GE,64,10,9,7,3,7,3.0,13.0,116.0
+Ulloa ES,862,2,CB,27,0,0,1,0,0,1.0,0.0,29.0
+Ulloa ES,862,2,GE,73,6,3,3,5,4,1.0,9.0,104.0
+Ulloa ES,862,3,CB,22,3,1,0,0,0,0.0,0.0,26.0
+Ulloa ES,862,3,GE,58,4,1,3,0,1,0.0,6.0,73.0
+Ulloa ES,862,4,CB,24,0,0,0,0,0,0.0,0.0,24.0
+Ulloa ES,862,4,GE,63,3,2,2,1,0,1.0,2.0,74.0
+Ulloa ES,862,5,CB,20,1,1,0,1,0,0.0,0.0,23.0
+Ulloa ES,862,5,GE,66,0,3,0,1,2,0.0,2.0,74.0
+Visitacion Valley ES,867,KG,CB,13,3,2,3,3,1,0.0,9.0,34.0
+Visitacion Valley ES,867,KG,GE,19,12,8,6,11,5,5.0,153.0,219.0
+Visitacion Valley ES,867,1,CB,13,3,0,0,0,0,0.0,0.0,16.0
+Visitacion Valley ES,867,1,GE,40,0,1,1,0,0,0.0,3.0,45.0
+Visitacion Valley ES,867,2,CB,20,2,0,0,0,0,0.0,0.0,22.0
+Visitacion Valley ES,867,2,GE,40,0,1,0,0,0,0.0,1.0,42.0
+Visitacion Valley ES,867,3,CB,18,0,0,0,0,0,0.0,0.0,18.0
+Visitacion Valley ES,867,3,GE,37,1,0,0,0,0,0.0,1.0,39.0
+Visitacion Valley ES,867,4,CB,15,0,1,0,0,1,0.0,0.0,17.0
+Visitacion Valley ES,867,4,GE,51,1,1,0,0,0,0.0,0.0,53.0
+Visitacion Valley ES,867,5,CB,1,1,0,0,0,0,0.0,0.0,2.0
+Visitacion Valley ES,867,5,GE,60,1,0,0,0,0,0.0,0.0,61.0
+Visitacion Valley MS,868,6,GE,86,65,63,37,20,5,2.0,9.0,287.0
+Visitacion Valley MS,868,6,MM,0,0,1,0,0,0,0.0,0.0,1.0
+Visitacion Valley MS,868,6,MS,0,1,1,0,0,0,0.0,0.0,2.0
+Visitacion Valley MS,868,6,NX,1,0,1,0,0,0,0.0,0.0,2.0
+Visitacion Valley MS,868,7,GE,120,0,0,0,1,0,0.0,0.0,121.0
+Visitacion Valley MS,868,7,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Visitacion Valley MS,868,7,NX,9,0,0,0,0,0,0.0,0.0,9.0
+Visitacion Valley MS,868,8,GE,57,1,0,1,1,0,0.0,0.0,60.0
+Visitacion Valley MS,868,8,MS,1,0,0,0,0,0,0.0,0.0,1.0
+Visitacion Valley MS,868,8,NX,31,0,0,0,0,0,0.0,0.0,31.0
+Wallenberg (Raoul) HS,785,9,GE,114,158,281,216,113,34,11.0,8.0,935.0
+Wallenberg (Raoul) HS,785,9,MM,4,1,3,1,0,0,0.0,0.0,9.0
+Wallenberg (Raoul) HS,785,10,GE,145,13,10,3,0,1,0.0,0.0,172.0
+Wallenberg (Raoul) HS,785,10,MM,1,0,0,0,0,0,1.0,0.0,2.0
+Wallenberg (Raoul) HS,785,11,GE,154,8,6,1,0,1,0.0,0.0,170.0
+Wallenberg (Raoul) HS,785,11,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Wallenberg (Raoul) HS,785,12,GE,146,2,0,0,0,0,0.0,0.0,148.0
+Wallenberg (Raoul) HS,785,13,CA,11,5,2,0,0,0,0.0,0.0,18.0
+Washington (George) HS,571,9,ED,2,0,1,1,0,0,0.0,0.0,4.0
+Washington (George) HS,571,9,GE,617,895,426,153,70,16,13.0,4.0,2194.0
+Washington (George) HS,571,9,MM,6,8,5,1,0,0,1.0,0.0,21.0
+Washington (George) HS,571,9,MS,8,4,1,1,0,0,0.0,0.0,14.0
+Washington (George) HS,571,9,NX,8,10,4,7,2,2,1.0,2.0,36.0
+Washington (George) HS,571,10,ED,1,0,0,0,0,0,0.0,0.0,1.0
+Washington (George) HS,571,10,GE,472,29,4,2,2,0,0.0,0.0,509.0
+Washington (George) HS,571,10,MM,10,0,0,0,0,0,0.0,0.0,10.0
+Washington (George) HS,571,10,MS,5,0,0,0,0,0,0.0,0.0,5.0
+Washington (George) HS,571,10,NX,22,0,0,0,0,0,0.0,0.0,22.0
+Washington (George) HS,571,11,ED,3,0,0,0,0,0,0.0,0.0,3.0
+Washington (George) HS,571,11,GE,458,9,1,2,0,0,0.0,0.0,470.0
+Washington (George) HS,571,11,MM,2,0,0,0,0,0,0.0,0.0,2.0
+Washington (George) HS,571,11,MS,6,0,0,0,0,0,0.0,0.0,6.0
+Washington (George) HS,571,11,NX,36,0,0,0,0,0,0.0,0.0,36.0
+Washington (George) HS,571,11,SF,4,0,0,0,0,0,0.0,0.0,4.0
+Washington (George) HS,571,12,ED,3,0,0,0,0,0,0.0,0.0,3.0
+Washington (George) HS,571,12,GE,436,1,2,0,0,0,0.0,0.0,439.0
+Washington (George) HS,571,12,MM,5,0,0,0,0,0,0.0,0.0,5.0
+Washington (George) HS,571,12,MS,6,0,0,0,0,0,0.0,0.0,6.0
+Washington (George) HS,571,12,NX,55,0,0,0,0,0,0.0,0.0,55.0
+Webster (Daniel) ES,497,KG,GE,35,39,24,12,15,15,10.0,288.0,438.0
+Webster (Daniel) ES,497,KG,SE,65,22,14,18,13,15,15.0,208.0,370.0
+Webster (Daniel) ES,497,KG,SN,11,16,6,11,6,3,4.0,13.0,70.0
+Webster (Daniel) ES,497,1,GE,22,5,0,0,0,0,0.0,4.0,31.0
+Webster (Daniel) ES,497,1,SE,28,1,0,0,1,0,0.0,3.0,33.0
+Webster (Daniel) ES,497,1,SN,13,0,1,1,0,0,0.0,0.0,15.0
+Webster (Daniel) ES,497,2,GE,23,1,1,1,0,0,0.0,1.0,27.0
+Webster (Daniel) ES,497,2,SN,41,3,1,1,0,0,0.0,0.0,46.0
+Webster (Daniel) ES,497,3,GE,24,1,2,1,0,0,0.0,3.0,31.0
+Webster (Daniel) ES,497,3,SN,31,0,1,0,0,0,0.0,0.0,32.0
+Webster (Daniel) ES,497,4,GE,14,0,0,0,1,0,0.0,0.0,15.0
+Webster (Daniel) ES,497,4,SN,31,0,0,0,0,0,0.0,0.0,31.0
+Webster (Daniel) ES,497,5,GE,21,2,0,0,1,0,0.0,0.0,24.0
+Webster (Daniel) ES,497,5,SN,34,0,0,1,0,0,0.0,0.0,35.0
+West Portal ES,876,KG,CE,30,37,32,41,16,18,23.0,332.0,529.0
+West Portal ES,876,KG,CN,33,41,41,20,24,16,8.0,26.0,209.0
+West Portal ES,876,KG,GE,72,97,100,113,76,93,99.0,732.0,1382.0
+West Portal ES,876,1,CE,21,4,7,4,0,0,0.0,5.0,41.0
+West Portal ES,876,1,CN,22,2,1,0,0,0,0.0,0.0,25.0
+West Portal ES,876,1,GE,67,14,11,2,5,3,1.0,21.0,124.0
+West Portal ES,876,2,CN,36,2,1,0,0,0,0.0,0.0,39.0
+West Portal ES,876,2,GE,73,8,7,4,6,1,1.0,10.0,110.0
+West Portal ES,876,3,CN,33,1,0,0,1,0,0.0,0.0,35.0
+West Portal ES,876,3,GE,67,2,2,4,1,4,1.0,8.0,89.0
+West Portal ES,876,4,CN,33,1,0,0,0,0,0.0,0.0,34.0
+West Portal ES,876,4,GE,67,3,1,1,1,1,1.0,2.0,77.0
+West Portal ES,876,5,CN,32,2,0,0,0,0,0.0,0.0,34.0
+West Portal ES,876,5,GE,71,3,1,1,2,2,0.0,3.0,83.0
+Wo (Yick) ES,801,KG,GE,40,18,14,16,15,15,2.0,350.0,470.0
+Wo (Yick) ES,801,KG,SA,1,0,2,1,0,0,0.0,0.0,4.0
+Wo (Yick) ES,801,1,GE,37,1,0,0,1,0,1.0,7.0,47.0
+Wo (Yick) ES,801,1,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Wo (Yick) ES,801,2,GE,40,0,0,0,1,0,1.0,3.0,45.0
+Wo (Yick) ES,801,2,SA,1,0,0,0,0,0,0.0,0.0,1.0
+Wo (Yick) ES,801,3,GE,39,2,1,1,0,0,2.0,3.0,48.0
+Wo (Yick) ES,801,3,SA,3,0,0,0,0,0,0.0,0.0,3.0
+Wo (Yick) ES,801,4,GE,35,3,0,1,0,0,0.0,3.0,42.0
+Wo (Yick) ES,801,4,SA,2,0,0,0,0,0,0.0,0.0,2.0
+Wo (Yick) ES,801,5,GE,38,1,1,1,0,0,0.0,1.0,42.0
+Yu (Alice Fong) K-8,485,KG,CE,69,48,22,31,31,24,28.0,423.0,676.0
+Yu (Alice Fong) K-8,485,KG,CT,114,69,63,35,27,18,19.0,123.0,468.0
+Yu (Alice Fong) K-8,485,1,CE,48,2,1,0,3,1,0.0,5.0,60.0
+Yu (Alice Fong) K-8,485,1,CT,39,6,1,2,2,0,0.0,7.0,57.0
+Yu (Alice Fong) K-8,485,2,CN,69,3,0,0,0,0,0.0,0.0,72.0
+Yu (Alice Fong) K-8,485,3,CN,67,0,0,0,0,0,1.0,0.0,68.0
+Yu (Alice Fong) K-8,485,4,CN,67,1,0,0,0,0,0.0,0.0,68.0
+Yu (Alice Fong) K-8,485,5,CN,70,1,0,0,0,0,0.0,0.0,71.0
+Yu (Alice Fong) K-8,485,6,CN,75,10,11,6,4,1,3.0,3.0,113.0
+Yu (Alice Fong) K-8,485,7,CN,67,0,0,0,0,0,0.0,0.0,67.0
+Yu (Alice Fong) K-8,485,8,CN,66,0,0,0,0,0,0.0,0.0,66.0

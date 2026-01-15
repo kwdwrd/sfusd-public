@@ -1,0 +1,949 @@
+School,SchoolCode,Grade,Prg,Total,1st Choice,2nd Choice,3rd Choice,4th Choice,5th Choice,6th Choice,7th Choice,8th Choice+
+Alamo Es,413,K,GEN,828,91,84,71,51,52,43,43,393
+Alamo Es,413,K,MS,2,0,0,0,0,2,0,0,0
+Alamo Es,413,01,GEN,41,6,7,4,5,2,4,3,10
+Alamo Es,413,01,MS,1,0,0,1,0,0,0,0,0
+Alamo Es,413,02,GEN,22,4,5,2,1,3,0,1,6
+Alamo Es,413,03,GEN,23,5,2,3,1,3,2,1,6
+Alamo Es,413,03,MS,1,0,0,1,0,0,0,0,0
+Alamo Es,413,04,GEN,22,5,6,2,2,0,1,3,3
+Alamo Es,413,05,GEN,15,4,1,2,2,2,1,1,2
+Alamo Es,413,05,MS,1,0,1,0,0,0,0,0,0
+Alamo Es,413,TOTAL,ALL,956,115,106,86,62,64,51,52,420
+Alvarado Es,420,K,GEN,726,54,54,42,58,73,75,58,312
+Alvarado Es,420,K,IMMS,580,81,76,61,61,48,35,37,181
+Alvarado Es,420,K,MS,3,2,1,0,0,0,0,0,0
+Alvarado Es,420,01,GEN,43,7,9,5,8,6,1,0,7
+Alvarado Es,420,01,IMMS,27,14,3,1,2,2,2,2,1
+Alvarado Es,420,02,GEN,24,4,1,6,3,2,4,2,2
+Alvarado Es,420,02,IMMS,4,3,0,1,0,0,0,0,0
+Alvarado Es,420,03,GEN,18,0,3,2,2,4,0,1,6
+Alvarado Es,420,03,IMMS,2,1,1,0,0,0,0,0,0
+Alvarado Es,420,03,MS,1,0,0,0,1,0,0,0,0
+Alvarado Es,420,04,GEN,10,2,0,3,2,0,1,1,1
+Alvarado Es,420,04,IMMS,9,1,1,1,2,3,1,0,0
+Alvarado Es,420,05,GEN,1,0,0,1,0,0,0,0,0
+Alvarado Es,420,05,IMMS,2,2,0,0,0,0,0,0,0
+Alvarado Es,420,TOTAL,ALL,1450,171,149,123,139,138,119,101,510
+Argonne Es,435,K,GEN,894,103,87,69,71,58,48,67,391
+Argonne Es,435,01,GEN,37,14,4,4,1,2,2,2,8
+Argonne Es,435,02,GEN,25,5,6,1,3,3,0,2,5
+Argonne Es,435,03,GEN,23,0,3,4,1,1,2,1,11
+Argonne Es,435,04,GEN,15,2,2,2,1,3,1,1,3
+Argonne Es,435,05,GEN,10,1,2,1,1,2,1,0,2
+Argonne Es,435,TOTAL,ALL,1004,125,104,81,78,69,54,73,420
+Argonne Tk,845,TK,GEN,188,68,40,48,16,10,5,0,1
+Argonne Tk,845,TOTAL,ALL,188,68,40,48,16,10,5,0,1
+Bryant Es,456,K,GEN,99,16,6,7,7,8,5,5,45
+Bryant Es,456,K,SPN,89,27,15,22,10,9,2,2,2
+Bryant Es,456,01,GEN,1,1,0,0,0,0,0,0,0
+Bryant Es,456,01,SPN,2,1,0,0,1,0,0,0,0
+Bryant Es,456,02,GEN,1,0,0,0,0,0,0,0,1
+Bryant Es,456,02,SPN,1,0,0,1,0,0,0,0,0
+Bryant Es,456,03,GEN,3,0,1,0,0,0,0,0,2
+Bryant Es,456,03,SPN,1,1,0,0,0,0,0,0,0
+Bryant Es,456,04,SPN,2,0,0,0,0,1,1,0,0
+Bryant Es,456,05,SPN,1,1,0,0,0,0,0,0,0
+Bryant Es,456,TOTAL,ALL,200,47,22,30,18,18,8,7,50
+Carver Es,625,K,GEN,64,11,8,2,2,4,1,0,36
+Carver Es,625,TOTAL,ALL,64,11,8,2,2,4,1,0,36
+Chavez Es,603,K,GEN,95,8,12,12,6,3,6,2,46
+Chavez Es,603,K,DT,2,2,0,0,0,0,0,0,0
+Chavez Es,603,K,SPN,106,22,25,23,12,12,3,3,6
+Chavez Es,603,01,SPN,5,2,1,1,1,0,0,0,0
+Chavez Es,603,02,GEN,1,0,0,0,0,0,0,0,1
+Chavez Es,603,02,SPN,5,1,0,2,1,0,1,0,0
+Chavez Es,603,03,SPN,4,0,1,1,1,1,0,0,0
+Chavez Es,603,04,SPN,7,1,2,1,1,1,1,0,0
+Chavez Es,603,05,GEN,1,0,0,0,1,0,0,0,0
+Chavez Es,603,05,SPN,1,0,1,0,0,0,0,0,0
+Chavez Es,603,TOTAL,ALL,227,36,42,40,23,17,11,5,53
+Chin Es,872,K,GEN,304,22,39,19,34,12,13,11,154
+Chin Es,872,K,CHN,135,47,22,24,8,13,7,2,12
+Chin Es,872,01,GEN,8,3,3,1,0,0,0,0,1
+Chin Es,872,01,CHN,8,3,2,1,0,1,0,0,1
+Chin Es,872,02,GEN,12,3,3,1,1,2,1,0,1
+Chin Es,872,02,CHN,11,3,1,4,0,2,0,0,1
+Chin Es,872,03,GEN,11,3,2,0,1,1,3,0,1
+Chin Es,872,03,CHN,7,1,1,3,0,2,0,0,0
+Chin Es,872,04,GEN,12,2,5,1,2,1,0,0,1
+Chin Es,872,04,CHN,7,3,1,2,0,0,0,1,0
+Chin Es,872,05,GEN,10,3,1,4,1,1,0,0,0
+Chin Es,872,TOTAL,ALL,525,93,80,60,47,35,24,14,172
+Chinese Ed Ctr Es,476,K,NEWC,1,0,0,0,0,0,0,0,1
+Chinese Ed Ctr Es,476,03,NEWC,1,0,1,0,0,0,0,0,0
+Chinese Ed Ctr Es,476,TOTAL,ALL,2,0,1,0,0,0,0,0,1
+Chinese Immersion Es,509,K,IMMC,461,79,61,41,39,30,20,19,172
+Chinese Immersion Es,509,01,IMMC,25,9,4,5,2,1,2,2,0
+Chinese Immersion Es,509,03,IMMC,1,1,0,0,0,0,0,0,0
+Chinese Immersion Es,509,04,IMMC,1,0,0,0,0,0,0,0,1
+Chinese Immersion Es,509,TOTAL,ALL,488,89,65,46,41,31,22,21,173
+Clarendon Es,478,K,GEN,1421,187,212,176,175,135,114,105,317
+Clarendon Es,478,K,JPN,647,99,115,80,51,65,49,28,160
+Clarendon Es,478,K,MM,4,0,1,1,0,0,1,1,0
+Clarendon Es,478,01,GEN,93,18,28,14,12,7,6,4,4
+Clarendon Es,478,01,JPN,27,10,3,1,5,3,3,0,2
+Clarendon Es,478,02,GEN,51,14,10,10,6,4,1,1,5
+Clarendon Es,478,02,JPN,9,2,2,0,3,0,2,0,0
+Clarendon Es,478,03,GEN,40,7,9,6,9,3,2,1,3
+Clarendon Es,478,03,JPN,8,4,1,1,0,0,0,0,2
+Clarendon Es,478,04,GEN,28,4,8,4,6,3,0,0,3
+Clarendon Es,478,04,JPN,3,2,1,0,0,0,0,0,0
+Clarendon Es,478,05,GEN,16,1,3,4,4,3,0,0,1
+Clarendon Es,478,05,JPN,3,2,1,0,0,0,0,0,0
+Clarendon Es,478,TOTAL,ALL,2350,350,394,297,271,223,178,140,497
+Cleveland Es,481,K,GEN,102,8,16,15,11,4,6,1,41
+Cleveland Es,481,K,SPN,78,32,14,11,8,6,2,2,3
+Cleveland Es,481,01,GEN,1,0,0,0,0,1,0,0,0
+Cleveland Es,481,01,SPN,7,2,0,2,3,0,0,0,0
+Cleveland Es,481,02,GEN,2,0,0,1,1,0,0,0,0
+Cleveland Es,481,02,SPN,1,0,0,1,0,0,0,0,0
+Cleveland Es,481,03,GEN,2,1,0,1,0,0,0,0,0
+Cleveland Es,481,03,SPN,3,0,1,2,0,0,0,0,0
+Cleveland Es,481,04,SPN,1,0,1,0,0,0,0,0,0
+Cleveland Es,481,05,GEN,3,0,0,1,2,0,0,0,0
+Cleveland Es,481,TOTAL,ALL,200,43,32,34,25,11,8,3,44
+Cobb Es,525,K,GEN,105,12,8,8,1,2,4,2,68
+Cobb Es,525,01,GEN,1,1,0,0,0,0,0,0,0
+Cobb Es,525,TOTAL,ALL,106,13,8,8,1,2,4,2,68
+Drew Es,507,K,GEN,94,20,12,13,4,5,4,1,35
+Drew Es,507,K,MM,3,0,2,0,1,0,0,0,0
+Drew Es,507,01,GEN,2,1,0,1,0,0,0,0,0
+Drew Es,507,02,GEN,1,1,0,0,0,0,0,0,0
+Drew Es,507,03,GEN,1,1,0,0,0,0,0,0,0
+Drew Es,507,04,GEN,1,0,1,0,0,0,0,0,0
+Drew Es,507,05,GEN,2,1,1,0,0,0,0,0,0
+Drew Es,507,TOTAL,ALL,104,24,16,14,5,5,4,1,35
+Drew Tk,849,TK,GEN,31,7,6,4,3,2,0,4,5
+Drew Tk,849,TOTAL,ALL,31,7,6,4,3,2,0,4,5
+El Dorado Es,521,K,GEN,57,8,5,7,2,3,1,1,30
+El Dorado Es,521,03,GEN,1,1,0,0,0,0,0,0,0
+El Dorado Es,521,04,GEN,1,0,0,1,0,0,0,0,0
+El Dorado Es,521,05,GEN,2,0,2,0,0,0,0,0,0
+El Dorado Es,521,05,MM,1,1,0,0,0,0,0,0,0
+El Dorado Es,521,TOTAL,ALL,62,10,7,8,2,3,1,1,30
+Fairmount Es,537,K,IMMC,1,1,0,0,0,0,0,0,0
+Fairmount Es,537,K,IMMS,504,98,76,72,46,33,19,14,146
+Fairmount Es,537,K,MS,5,3,1,1,0,0,0,0,0
+Fairmount Es,537,01,IMMS,20,5,6,2,1,0,2,0,4
+Fairmount Es,537,02,IMMS,7,3,1,2,0,0,1,0,0
+Fairmount Es,537,03,IMMS,15,3,2,2,6,1,0,1,0
+Fairmount Es,537,04,IMMS,9,2,3,1,0,3,0,0,0
+Fairmount Es,537,05,IMMS,2,1,1,0,0,0,0,0,0
+Fairmount Es,537,TOTAL,ALL,563,116,90,80,53,37,22,15,150
+Feinstein Es,539,K,GEN,743,56,48,54,53,49,36,43,404
+Feinstein Es,539,01,GEN,29,5,2,3,1,1,0,2,15
+Feinstein Es,539,02,GEN,20,4,3,0,0,1,1,0,11
+Feinstein Es,539,03,GEN,20,2,0,3,1,2,2,1,9
+Feinstein Es,539,04,GEN,13,3,1,1,2,1,1,0,4
+Feinstein Es,539,05,GEN,8,0,1,2,1,1,1,1,1
+Feinstein Es,539,TOTAL,ALL,833,70,55,63,58,55,41,47,444
+Flynn Es,680,K,GEN,144,15,19,12,7,7,5,4,75
+Flynn Es,680,K,IMMS,225,29,27,21,22,20,12,6,88
+Flynn Es,680,01,GEN,1,0,0,0,0,1,0,0,0
+Flynn Es,680,01,IMMS,5,1,0,0,0,2,1,0,1
+Flynn Es,680,02,GEN,1,0,0,0,0,1,0,0,0
+Flynn Es,680,02,IMMS,4,0,0,0,2,2,0,0,0
+Flynn Es,680,03,GEN,1,0,0,1,0,0,0,0,0
+Flynn Es,680,03,IMMS,3,0,2,0,1,0,0,0,0
+Flynn Es,680,04,GEN,3,1,0,0,1,1,0,0,0
+Flynn Es,680,04,IMMS,10,0,2,5,2,1,0,0,0
+Flynn Es,680,TOTAL,ALL,397,46,50,39,35,35,18,10,164
+Garfield Es,562,K,GEN,194,3,12,21,13,7,6,5,127
+Garfield Es,562,K,IMMC,116,11,4,11,10,8,4,6,62
+Garfield Es,562,K,MM,2,1,0,1,0,0,0,0,0
+Garfield Es,562,01,GEN,2,1,1,0,0,0,0,0,0
+Garfield Es,562,01,IMMC,5,2,0,1,1,0,0,1,0
+Garfield Es,562,01,MM,1,1,0,0,0,0,0,0,0
+Garfield Es,562,02,GEN,3,0,1,0,0,0,0,0,2
+Garfield Es,562,02,IMMC,1,0,0,0,1,0,0,0,0
+Garfield Es,562,02,MM,1,0,0,0,1,0,0,0,0
+Garfield Es,562,03,GEN,4,1,0,0,0,0,0,0,3
+Garfield Es,562,04,GEN,2,1,0,0,0,0,0,0,1
+Garfield Es,562,04,CHN,1,0,0,0,0,0,0,1,0
+Garfield Es,562,05,GEN,2,0,0,0,1,0,0,0,1
+Garfield Es,562,05,CHN,3,1,1,0,0,0,1,0,0
+Garfield Es,562,TOTAL,ALL,337,22,19,34,27,15,11,13,196
+Glen Park Es,575,K,GEN,383,31,33,26,29,20,23,20,201
+Glen Park Es,575,K,MS,2,1,1,0,0,0,0,0,0
+Glen Park Es,575,K,SPN,49,8,7,11,8,6,2,1,6
+Glen Park Es,575,01,GEN,14,3,1,0,2,2,0,1,5
+Glen Park Es,575,01,SPN,2,0,1,0,0,0,0,0,1
+Glen Park Es,575,02,GEN,2,0,0,1,0,0,0,0,1
+Glen Park Es,575,03,GEN,6,0,0,2,0,0,1,0,3
+Glen Park Es,575,04,GEN,4,0,4,0,0,0,0,0,0
+Glen Park Es,575,05,GEN,1,0,0,0,1,0,0,0,0
+Glen Park Es,575,TOTAL,ALL,463,43,47,40,40,28,26,22,217
+Grattan Es,589,K,GEN,1202,182,147,141,105,108,90,87,342
+Grattan Es,589,K,SA,12,3,5,2,2,0,0,0,0
+Grattan Es,589,01,GEN,65,14,6,14,11,4,4,3,9
+Grattan Es,589,01,SA,1,0,1,0,0,0,0,0,0
+Grattan Es,589,02,GEN,35,6,5,2,4,5,3,6,4
+Grattan Es,589,03,GEN,25,9,2,2,2,4,2,1,3
+Grattan Es,589,03,SA,1,0,1,0,0,0,0,0,0
+Grattan Es,589,04,GEN,19,3,3,2,2,1,3,1,4
+Grattan Es,589,05,GEN,8,0,1,1,1,0,2,1,2
+Grattan Es,589,TOTAL,ALL,1368,217,171,164,127,122,104,99,364
+Guadalupe Es,593,K,GEN,133,33,19,13,7,4,6,1,50
+Guadalupe Es,593,K,SPN,79,23,18,18,8,4,1,2,5
+Guadalupe Es,593,01,GEN,2,1,1,0,0,0,0,0,0
+Guadalupe Es,593,01,SPN,1,0,1,0,0,0,0,0,0
+Guadalupe Es,593,02,GEN,3,1,1,1,0,0,0,0,0
+Guadalupe Es,593,02,SPN,1,0,1,0,0,0,0,0,0
+Guadalupe Es,593,03,SPN,4,1,3,0,0,0,0,0,0
+Guadalupe Es,593,04,SPN,1,0,0,0,1,0,0,0,0
+Guadalupe Es,593,05,GEN,2,0,1,1,0,0,0,0,0
+Guadalupe Es,593,TOTAL,ALL,226,59,45,33,16,8,7,3,55
+Harte Es,453,K,GEN,46,5,4,6,3,0,0,0,28
+Harte Es,453,K,IMMS,36,4,2,2,1,0,3,0,24
+Harte Es,453,01,IMMS,1,0,0,0,0,0,0,0,1
+Harte Es,453,03,GEN,1,0,1,0,0,0,0,0,0
+Harte Es,453,TOTAL,ALL,84,9,7,8,4,0,3,0,53
+Havard Tk,865,TK,GEN,33,5,6,2,7,1,1,1,10
+Havard Tk,865,TOTAL,ALL,33,5,6,2,7,1,1,1,10
+Hillcrest Es,614,K,GEN,143,11,26,14,13,8,13,7,51
+Hillcrest Es,614,K,CHN,45,6,8,10,2,5,4,0,10
+Hillcrest Es,614,K,MM,6,3,1,1,0,1,0,0,0
+Hillcrest Es,614,K,SPN,52,9,10,13,8,3,3,1,5
+Hillcrest Es,614,01,GEN,2,0,1,0,0,0,1,0,0
+Hillcrest Es,614,01,CHN,3,0,0,1,0,1,1,0,0
+Hillcrest Es,614,01,SPN,3,0,1,1,1,0,0,0,0
+Hillcrest Es,614,02,GEN,3,1,0,1,0,0,1,0,0
+Hillcrest Es,614,02,CHN,2,0,0,0,0,1,0,1,0
+Hillcrest Es,614,02,SPN,1,0,0,0,0,1,0,0,0
+Hillcrest Es,614,03,GEN,1,0,0,0,1,0,0,0,0
+Hillcrest Es,614,03,CHN,4,0,1,3,0,0,0,0,0
+Hillcrest Es,614,03,SPN,3,1,0,0,1,1,0,0,0
+Hillcrest Es,614,04,GEN,1,0,0,0,0,0,1,0,0
+Hillcrest Es,614,04,CHN,1,0,0,0,0,1,0,0,0
+Hillcrest Es,614,04,SPN,1,0,0,1,0,0,0,0,0
+Hillcrest Es,614,05,GEN,4,2,0,2,0,0,0,0,0
+Hillcrest Es,614,TOTAL,ALL,275,33,48,47,26,22,24,9,66
+Jefferson Es,644,K,GEN,863,53,49,56,50,60,73,48,474
+Jefferson Es,644,K,MM,6,1,2,1,0,1,1,0,0
+Jefferson Es,644,01,GEN,43,2,2,3,6,2,6,11,11
+Jefferson Es,644,02,GEN,29,3,4,5,2,5,2,1,7
+Jefferson Es,644,03,GEN,25,0,3,3,8,1,2,1,7
+Jefferson Es,644,04,GEN,20,2,3,4,4,1,1,1,4
+Jefferson Es,644,05,GEN,14,1,3,3,1,2,1,0,3
+Jefferson Es,644,TOTAL,ALL,1000,62,66,75,71,72,86,62,506
+Key Es,544,K,GEN,530,57,41,47,32,31,26,23,273
+Key Es,544,K,MM,11,5,2,3,0,1,0,0,0
+Key Es,544,01,GEN,16,1,2,1,3,0,2,0,7
+Key Es,544,02,GEN,18,3,2,1,4,2,0,2,4
+Key Es,544,03,GEN,20,2,0,4,2,4,1,1,6
+Key Es,544,03,MM,1,0,1,0,0,0,0,0,0
+Key Es,544,04,GEN,18,0,6,2,2,1,2,0,5
+Key Es,544,05,GEN,10,2,2,2,2,1,0,1,0
+Key Es,544,TOTAL,ALL,624,70,56,60,45,40,31,27,295
+Lafayette Es,664,K,GEN,677,63,49,48,53,41,29,45,349
+Lafayette Es,664,K,DA,7,6,1,0,0,0,0,0,0
+Lafayette Es,664,01,GEN,21,4,0,1,2,3,4,2,5
+Lafayette Es,664,02,GEN,15,3,0,3,1,0,3,1,4
+Lafayette Es,664,03,GEN,25,7,2,1,3,0,3,2,7
+Lafayette Es,664,04,GEN,15,3,1,3,1,0,1,3,3
+Lafayette Es,664,05,GEN,10,1,0,1,0,3,1,3,1
+Lafayette Es,664,TOTAL,ALL,770,87,53,57,60,47,41,56,369
+Lakeshore Es,670,K,GEN,331,39,11,24,24,17,19,10,187
+Lakeshore Es,670,K,MM,10,3,3,3,1,0,0,0,0
+Lakeshore Es,670,01,GEN,9,0,1,3,0,1,0,0,4
+Lakeshore Es,670,02,GEN,4,0,0,0,0,1,0,1,2
+Lakeshore Es,670,02,MM,1,1,0,0,0,0,0,0,0
+Lakeshore Es,670,03,GEN,7,0,0,0,0,1,0,1,5
+Lakeshore Es,670,03,MM,1,1,0,0,0,0,0,0,0
+Lakeshore Es,670,04,GEN,3,0,0,0,2,0,0,0,1
+Lakeshore Es,670,05,GEN,2,0,1,0,0,1,0,0,0
+Lakeshore Es,670,TOTAL,ALL,368,44,16,30,27,21,19,12,199
+Lau Es,490,K,GEN,188,13,37,8,21,11,13,7,78
+Lau Es,490,K,CHN,126,47,8,31,9,13,8,4,6
+Lau Es,490,01,GEN,1,0,0,0,1,0,0,0,0
+Lau Es,490,01,CHN,3,1,1,1,0,0,0,0,0
+Lau Es,490,02,GEN,2,0,1,0,1,0,0,0,0
+Lau Es,490,02,CHN,5,2,2,1,0,0,0,0,0
+Lau Es,490,03,GEN,8,1,2,1,3,0,0,0,1
+Lau Es,490,03,CHN,6,3,1,1,1,0,0,0,0
+Lau Es,490,04,GEN,8,0,4,0,4,0,0,0,0
+Lau Es,490,04,CHN,8,5,0,3,0,0,0,0,0
+Lau Es,490,05,GEN,2,0,1,1,0,0,0,0,0
+Lau Es,490,05,CHN,8,1,4,2,1,0,0,0,0
+Lau Es,490,TOTAL,ALL,365,73,61,49,41,24,21,11,85
+Lilienthal K-8,479,K,GEN,995,153,148,76,74,78,62,59,345
+Lilienthal K-8,479,K,IMMK,206,35,16,10,9,7,15,10,104
+Lilienthal K-8,479,01,GEN,47,10,4,5,8,7,3,6,4
+Lilienthal K-8,479,01,IMMK,6,2,1,0,2,0,0,0,1
+Lilienthal K-8,479,02,GEN,28,8,5,3,2,3,2,1,4
+Lilienthal K-8,479,03,GEN,27,7,7,4,1,1,2,1,4
+Lilienthal K-8,479,04,GEN,26,11,4,3,2,4,0,2,0
+Lilienthal K-8,479,05,GEN,23,9,9,4,1,0,0,0,0
+Lilienthal K-8,479,05,IMMK,1,1,0,0,0,0,0,0,0
+Lilienthal K-8,479,06,GEN,184,35,27,34,29,13,11,14,21
+Lilienthal K-8,479,07,GEN,12,4,1,2,0,2,0,0,3
+Lilienthal K-8,479,08,GEN,3,0,0,2,0,0,1,0,0
+Lilienthal K-8,479,TOTAL,ALL,1558,275,222,143,128,115,96,93,486
+Longfellow Es,691,K,GEN,147,36,24,9,5,1,5,3,64
+Longfellow Es,691,K,SPN,50,22,8,5,6,4,2,0,3
+Longfellow Es,691,01,GEN,3,1,0,1,1,0,0,0,0
+Longfellow Es,691,02,GEN,2,1,0,0,0,0,0,0,1
+Longfellow Es,691,02,SPN,2,2,0,0,0,0,0,0,0
+Longfellow Es,691,03,GEN,3,3,0,0,0,0,0,0,0
+Longfellow Es,691,03,SPN,2,2,0,0,0,0,0,0,0
+Longfellow Es,691,04,GEN,1,1,0,0,0,0,0,0,0
+Longfellow Es,691,05,GEN,3,3,0,0,0,0,0,0,0
+Longfellow Es,691,TOTAL,ALL,213,71,32,15,12,5,7,3,68
+Malcolm X Es,830,K,GEN,40,4,5,1,1,1,1,0,27
+Malcolm X Es,830,02,GEN,1,0,1,0,0,0,0,0,0
+Malcolm X Es,830,03,GEN,1,0,1,0,0,0,0,0,0
+Malcolm X Es,830,05,GEN,1,0,1,0,0,0,0,0,0
+Malcolm X Es,830,TOTAL,ALL,43,4,8,1,1,1,1,0,27
+Marshall Es,714,K,IMMS,268,53,42,27,18,14,16,6,92
+Marshall Es,714,01,IMMS,8,2,1,3,0,0,0,1,1
+Marshall Es,714,02,IMMS,6,4,1,0,1,0,0,0,0
+Marshall Es,714,03,IMMS,6,3,1,1,0,1,0,0,0
+Marshall Es,714,04,IMMS,7,0,0,1,5,1,0,0,0
+Marshall Es,714,TOTAL,ALL,295,62,45,32,24,16,16,7,93
+McCoppin Es,549,K,GEN,197,4,4,16,7,11,5,7,143
+McCoppin Es,549,K,CHN,15,1,1,2,1,2,2,2,4
+McCoppin Es,549,01,GEN,6,0,1,0,2,1,0,0,2
+McCoppin Es,549,02,GEN,3,1,0,0,0,0,1,0,1
+McCoppin Es,549,03,GEN,3,0,0,0,0,0,0,0,3
+McCoppin Es,549,03,CHN,1,0,0,0,1,0,0,0,0
+McCoppin Es,549,04,GEN,1,0,0,0,0,1,0,0,0
+McCoppin Es,549,05,GEN,2,0,0,0,1,0,0,0,1
+McCoppin Es,549,05,CHN,2,0,2,0,0,0,0,0,0
+McCoppin Es,549,TOTAL,ALL,230,6,8,18,12,15,8,9,154
+McKinley Es,718,K,GEN,871,89,73,74,70,68,80,64,353
+McKinley Es,718,01,GEN,48,8,2,9,6,5,6,4,8
+McKinley Es,718,02,GEN,19,3,1,2,2,7,2,0,2
+McKinley Es,718,03,GEN,15,1,1,3,2,2,0,2,4
+McKinley Es,718,04,GEN,11,3,0,2,1,2,2,0,1
+McKinley Es,718,05,GEN,1,0,0,0,1,0,0,0,0
+McKinley Es,718,TOTAL,ALL,965,104,77,90,82,84,90,70,368
+McLaren Tk,704,TK,GEN,62,14,14,9,8,1,4,2,10
+McLaren Tk,704,TOTAL,ALL,62,14,14,9,8,1,4,2,10
+Milk Es,505,K,GEN,301,14,22,10,8,17,18,12,200
+Milk Es,505,01,GEN,9,1,0,1,2,0,0,1,4
+Milk Es,505,02,GEN,10,1,1,1,0,0,1,2,4
+Milk Es,505,03,GEN,4,0,0,0,1,0,0,0,3
+Milk Es,505,04,GEN,6,1,0,1,0,0,1,0,3
+Milk Es,505,TOTAL,ALL,330,17,23,13,11,17,20,15,214
+Miraloma Es,722,K,GEN,875,102,65,82,68,69,73,59,357
+Miraloma Es,722,K,MM,7,0,4,2,0,0,1,0,0
+Miraloma Es,722,01,GEN,54,5,13,8,7,6,2,3,10
+Miraloma Es,722,02,GEN,28,5,5,4,0,3,1,3,7
+Miraloma Es,722,03,GEN,16,1,2,0,3,4,0,2,4
+Miraloma Es,722,04,GEN,12,3,1,1,1,2,1,1,2
+Miraloma Es,722,05,GEN,2,0,0,0,0,0,0,2,0
+Miraloma Es,722,05,MM,1,0,1,0,0,0,0,0,0
+Miraloma Es,722,TOTAL,ALL,995,116,91,97,79,84,78,70,380
+Mission Ed Ctr Es,724,K,NEWS,7,4,0,0,0,1,0,0,2
+Mission Ed Ctr Es,724,02,NEWS,2,1,0,0,0,1,0,0,0
+Mission Ed Ctr Es,724,TOTAL,ALL,9,5,0,0,0,2,0,0,2
+Monroe Es,729,K,GEN,205,19,41,22,16,13,11,8,75
+Monroe Es,729,K,CHN,64,28,8,9,7,3,1,5,3
+Monroe Es,729,K,IMMS,275,62,35,36,19,13,7,12,91
+Monroe Es,729,01,GEN,5,0,2,2,1,0,0,0,0
+Monroe Es,729,01,CHN,8,3,2,1,0,1,0,1,0
+Monroe Es,729,01,IMMS,12,8,1,2,1,0,0,0,0
+Monroe Es,729,02,GEN,12,5,4,0,1,0,1,0,1
+Monroe Es,729,02,CHN,8,3,2,1,0,1,0,1,0
+Monroe Es,729,02,IMMS,6,1,4,0,1,0,0,0,0
+Monroe Es,729,03,GEN,11,3,3,2,1,1,1,0,0
+Monroe Es,729,03,CHN,6,2,3,1,0,0,0,0,0
+Monroe Es,729,03,IMMS,9,2,2,2,2,0,0,1,0
+Monroe Es,729,04,GEN,9,5,3,1,0,0,0,0,0
+Monroe Es,729,04,CHN,2,1,1,0,0,0,0,0,0
+Monroe Es,729,04,IMMS,4,2,1,0,1,0,0,0,0
+Monroe Es,729,05,GEN,6,2,1,3,0,0,0,0,0
+Monroe Es,729,05,CHN,4,2,2,0,0,0,0,0,0
+Monroe Es,729,TOTAL,ALL,646,148,115,82,50,32,21,28,170
+Montessori Es,814,K,GEN,329,29,19,20,22,23,16,15,185
+Montessori Es,814,01,GEN,8,3,0,3,0,0,0,0,2
+Montessori Es,814,02,GEN,6,1,0,0,2,0,2,0,1
+Montessori Es,814,03,GEN,4,1,0,0,1,0,0,0,2
+Montessori Es,814,04,GEN,2,0,0,1,0,0,0,1,0
+Montessori Es,814,TOTAL,ALL,349,34,19,24,25,23,18,16,190
+Moscone Es,723,K,GEN,164,24,30,14,13,5,7,3,68
+Moscone Es,723,K,CHN,22,10,2,4,1,0,0,0,5
+Moscone Es,723,K,SPN,125,50,30,22,10,3,3,3,4
+Moscone Es,723,01,GEN,1,0,0,0,1,0,0,0,0
+Moscone Es,723,01,SPN,9,5,2,1,0,0,0,1,0
+Moscone Es,723,02,GEN,2,1,0,0,0,0,0,0,1
+Moscone Es,723,02,CHN,1,0,0,1,0,0,0,0,0
+Moscone Es,723,02,SPN,4,2,1,1,0,0,0,0,0
+Moscone Es,723,03,GEN,3,2,0,0,0,0,1,0,0
+Moscone Es,723,03,CHN,1,0,0,0,0,1,0,0,0
+Moscone Es,723,03,SPN,3,1,1,1,0,0,0,0,0
+Moscone Es,723,04,SPN,3,1,0,0,0,1,0,1,0
+Moscone Es,723,TOTAL,ALL,338,96,66,44,25,10,11,8,78
+Muir Es,650,K,GEN,84,12,13,8,3,2,3,0,43
+Muir Es,650,K,SPN,20,4,6,3,3,2,0,0,2
+Muir Es,650,01,SPN,1,0,0,0,0,1,0,0,0
+Muir Es,650,02,SPN,1,0,1,0,0,0,0,0,0
+Muir Es,650,03,GEN,3,0,0,0,0,0,1,0,2
+Muir Es,650,03,SPN,1,0,0,0,0,1,0,0,0
+Muir Es,650,TOTAL,ALL,110,16,20,11,6,6,4,0,47
+New Traditions Es,735,K,GEN,674,58,49,62,47,46,44,48,320
+New Traditions Es,735,01,GEN,22,1,6,3,0,1,1,2,8
+New Traditions Es,735,02,GEN,17,2,3,2,2,1,2,2,3
+New Traditions Es,735,03,GEN,10,1,2,1,0,0,0,1,5
+New Traditions Es,735,04,GEN,8,1,1,1,1,0,1,0,3
+New Traditions Es,735,05,GEN,4,2,0,1,0,0,0,0,1
+New Traditions Es,735,TOTAL,ALL,735,65,61,70,50,48,48,53,340
+Noriega Tk,752,TK,GEN,198,71,66,24,12,7,7,4,7
+Noriega Tk,752,TOTAL,ALL,198,71,66,24,12,7,7,4,7
+Ortega Es,746,K,GEN,187,5,13,6,8,15,8,7,125
+Ortega Es,746,K,IMMM,224,34,35,13,19,14,10,5,94
+Ortega Es,746,01,GEN,4,0,0,0,1,1,0,0,2
+Ortega Es,746,01,IMMM,13,4,3,1,0,1,0,1,3
+Ortega Es,746,02,GEN,3,0,2,0,0,0,0,0,1
+Ortega Es,746,02,IMMM,1,0,0,0,1,0,0,0,0
+Ortega Es,746,03,GEN,4,0,2,0,0,0,1,0,1
+Ortega Es,746,03,IMMM,3,1,1,0,1,0,0,0,0
+Ortega Es,746,04,GEN,2,0,1,0,0,0,1,0,0
+Ortega Es,746,04,IMMM,4,3,0,0,0,0,1,0,0
+Ortega Es,746,05,GEN,1,1,0,0,0,0,0,0,0
+Ortega Es,746,TOTAL,ALL,446,48,57,20,30,31,21,13,226
+Parker Es,638,K,GEN,142,8,9,5,20,10,19,4,67
+Parker Es,638,K,CHN,79,14,8,27,7,12,4,6,1
+Parker Es,638,01,GEN,1,0,0,0,0,0,0,0,1
+Parker Es,638,01,CHN,5,2,0,1,1,0,0,1,0
+Parker Es,638,02,GEN,6,0,1,1,1,0,2,0,1
+Parker Es,638,02,CHN,8,4,1,1,0,1,0,1,0
+Parker Es,638,03,GEN,8,2,2,0,1,1,2,0,0
+Parker Es,638,03,CHN,7,4,1,2,0,0,0,0,0
+Parker Es,638,04,GEN,8,0,0,0,1,0,6,1,0
+Parker Es,638,04,CHN,8,1,0,2,0,5,0,0,0
+Parker Es,638,05,GEN,7,2,1,0,1,3,0,0,0
+Parker Es,638,TOTAL,ALL,279,37,23,39,32,32,33,13,70
+Parks Es,786,K,GEN,135,17,12,9,6,3,5,3,80
+Parks Es,786,K,JPN,144,31,7,6,6,8,5,6,75
+Parks Es,786,K,MM,1,0,0,0,1,0,0,0,0
+Parks Es,786,01,GEN,2,1,0,0,0,0,0,0,1
+Parks Es,786,01,JPN,2,1,0,0,0,1,0,0,0
+Parks Es,786,02,GEN,2,0,0,0,0,0,1,0,1
+Parks Es,786,03,JPN,2,1,0,0,0,1,0,0,0
+Parks Es,786,03,MM,1,0,0,1,0,0,0,0,0
+Parks Es,786,04,MM,1,0,1,0,0,0,0,0,0
+Parks Es,786,05,GEN,2,0,0,0,0,0,2,0,0
+Parks Es,786,TOTAL,ALL,292,51,20,16,13,13,13,9,157
+Peabody Es,569,K,GEN,820,73,70,74,89,67,58,49,340
+Peabody Es,569,K,MM,12,3,6,0,0,1,1,1,0
+Peabody Es,569,01,GEN,31,5,7,6,3,2,0,2,6
+Peabody Es,569,02,GEN,19,5,2,1,0,3,0,0,8
+Peabody Es,569,03,GEN,12,0,2,0,2,1,2,0,5
+Peabody Es,569,03,MM,2,0,1,1,0,0,0,0,0
+Peabody Es,569,04,GEN,13,1,2,2,1,1,1,1,4
+Peabody Es,569,04,MM,1,1,0,0,0,0,0,0,0
+Peabody Es,569,05,GEN,4,0,3,0,0,1,0,0,0
+Peabody Es,569,TOTAL,ALL,914,88,93,84,95,76,62,53,363
+Presidio Tk,875,TK,GEN,156,44,27,38,26,11,4,2,4
+Presidio Tk,875,TOTAL,ALL,156,44,27,38,26,11,4,2,4
+Redding Es,790,K,GEN,153,25,23,21,9,4,5,4,62
+Redding Es,790,01,GEN,1,0,0,0,0,0,0,0,1
+Redding Es,790,02,GEN,2,0,0,0,1,0,0,0,1
+Redding Es,790,04,GEN,1,0,0,1,0,0,0,0,0
+Redding Es,790,TOTAL,ALL,157,25,23,22,10,4,5,4,64
+Redding Tk,890,TK,GEN,87,10,23,13,7,10,15,3,6
+Redding Tk,890,TOTAL,ALL,87,10,23,13,7,10,15,3,6
+Revere K-8,760,K,GEN,96,8,13,6,3,4,6,3,53
+Revere K-8,760,K,IMMS,150,23,13,15,6,5,9,4,75
+Revere K-8,760,K,MM,5,1,2,2,0,0,0,0,0
+Revere K-8,760,01,GEN,2,1,0,0,0,0,0,0,1
+Revere K-8,760,01,IMMS,1,0,0,0,0,1,0,0,0
+Revere K-8,760,02,GEN,3,0,0,2,0,0,1,0,0
+Revere K-8,760,02,IMMS,1,1,0,0,0,0,0,0,0
+Revere K-8,760,03,GEN,1,1,0,0,0,0,0,0,0
+Revere K-8,760,03,IMMS,2,1,0,0,1,0,0,0,0
+Revere K-8,760,04,IMMS,1,1,0,0,0,0,0,0,0
+Revere K-8,760,06,GEN,31,3,6,8,4,4,2,0,4
+Revere K-8,760,06,IMMS,7,2,1,1,1,0,0,1,1
+Revere K-8,760,07,GEN,2,1,0,1,0,0,0,0,0
+Revere K-8,760,TOTAL,ALL,302,43,35,35,15,14,18,8,134
+Rodriguez Tk,895,TK,GEN,127,45,30,14,10,8,5,4,11
+Rodriguez Tk,895,TOTAL,ALL,127,45,30,14,10,8,5,4,11
+Rooftop K-8,796,K,GEN,1241,123,124,146,160,115,110,83,380
+Rooftop K-8,796,01,GEN,73,19,13,13,5,11,6,1,5
+Rooftop K-8,796,02,GEN,39,7,9,5,7,3,4,1,3
+Rooftop K-8,796,03,GEN,39,12,7,7,1,2,3,2,5
+Rooftop K-8,796,04,GEN,24,10,7,2,2,3,0,0,0
+Rooftop K-8,796,05,GEN,21,10,1,3,4,1,0,0,2
+Rooftop K-8,796,06,GEN,306,42,57,50,38,52,37,12,18
+Rooftop K-8,796,07,GEN,16,3,4,3,1,1,2,1,1
+Rooftop K-8,796,08,GEN,5,1,1,1,0,0,1,0,1
+Rooftop K-8,796,TOTAL,ALL,1764,227,223,230,218,188,163,100,415
+S F Community K-8,493,K,GEN,217,29,20,11,17,19,9,7,105
+S F Community K-8,493,01,GEN,4,0,1,0,2,0,1,0,0
+S F Community K-8,493,02,GEN,7,3,0,0,1,1,1,0,1
+S F Community K-8,493,03,GEN,8,4,2,0,2,0,0,0,0
+S F Community K-8,493,04,GEN,4,3,0,0,0,0,0,0,1
+S F Community K-8,493,05,GEN,2,0,0,1,1,0,0,0,0
+S F Community K-8,493,06,GEN,83,15,21,17,3,7,9,2,9
+S F Community K-8,493,07,GEN,8,7,0,1,0,0,0,0,0
+S F Community K-8,493,08,GEN,1,0,0,1,0,0,0,0,0
+S F Community K-8,493,TOTAL,ALL,334,61,44,31,26,27,20,9,116
+Sanchez Es,816,K,GEN,124,15,6,5,5,7,4,6,76
+Sanchez Es,816,K,MS,5,3,1,1,0,0,0,0,0
+Sanchez Es,816,K,SPN,62,17,10,15,4,4,2,4,6
+Sanchez Es,816,01,GEN,2,0,0,0,0,1,0,0,1
+Sanchez Es,816,01,SPN,1,0,1,0,0,0,0,0,0
+Sanchez Es,816,02,GEN,5,2,1,0,0,1,1,0,0
+Sanchez Es,816,02,SPN,4,1,3,0,0,0,0,0,0
+Sanchez Es,816,03,GEN,1,1,0,0,0,0,0,0,0
+Sanchez Es,816,03,MS,1,0,1,0,0,0,0,0,0
+Sanchez Es,816,03,SPN,1,1,0,0,0,0,0,0,0
+Sanchez Es,816,04,GEN,2,0,1,0,0,0,0,0,1
+Sanchez Es,816,04,SPN,3,1,1,0,1,0,0,0,0
+Sanchez Es,816,TOTAL,ALL,211,41,25,21,10,13,7,10,84
+Serra Annex Tk,879,TK,GEN,125,46,26,20,7,8,7,6,5
+Serra Annex Tk,879,TOTAL,ALL,125,46,26,20,7,8,7,6,5
+Serra Es,656,K,GEN,112,15,8,5,6,5,2,4,67
+Serra Es,656,K,SPN,49,14,8,6,11,5,3,1,1
+Serra Es,656,01,GEN,1,0,0,0,0,0,0,0,1
+Serra Es,656,02,SPN,2,1,0,1,0,0,0,0,0
+Serra Es,656,03,GEN,2,0,0,0,0,0,0,0,2
+Serra Es,656,04,GEN,1,0,0,0,0,0,0,1,0
+Serra Es,656,04,SPN,1,0,1,0,0,0,0,0,0
+Serra Es,656,TOTAL,ALL,168,30,17,12,17,10,5,6,71
+Sheridan Es,820,K,GEN,102,14,7,4,3,7,0,9,58
+Sheridan Es,820,03,GEN,3,3,0,0,0,0,0,0,0
+Sheridan Es,820,05,GEN,1,0,1,0,0,0,0,0,0
+Sheridan Es,820,TOTAL,ALL,106,17,8,4,3,7,0,9,58
+Sherman Es,823,K,GEN,751,113,76,63,50,46,23,30,350
+Sherman Es,823,K,MM,7,2,2,1,2,0,0,0,0
+Sherman Es,823,01,GEN,25,8,4,5,1,1,0,0,6
+Sherman Es,823,02,GEN,14,0,3,4,2,0,3,1,1
+Sherman Es,823,03,GEN,17,5,1,4,0,1,0,3,3
+Sherman Es,823,03,MM,1,1,0,0,0,0,0,0,0
+Sherman Es,823,04,GEN,9,1,2,1,1,1,1,2,0
+Sherman Es,823,05,GEN,8,2,2,0,0,1,0,2,1
+Sherman Es,823,TOTAL,ALL,832,132,90,78,56,50,27,38,361
+Sloat Es,488,K,GEN,716,74,54,52,46,54,41,49,346
+Sloat Es,488,01,GEN,31,4,5,3,2,3,4,1,9
+Sloat Es,488,02,GEN,18,2,0,2,2,2,2,3,5
+Sloat Es,488,03,GEN,21,3,4,1,4,1,2,1,5
+Sloat Es,488,04,GEN,11,2,3,1,0,2,0,1,2
+Sloat Es,488,05,GEN,6,2,1,2,0,0,0,0,1
+Sloat Es,488,TOTAL,ALL,803,87,67,61,54,62,49,55,368
+Spring Valley Es,834,K,GEN,193,3,30,21,15,9,7,5,103
+Spring Valley Es,834,K,CHN,48,8,4,6,4,7,3,3,13
+Spring Valley Es,834,K,SPN,34,21,9,0,0,2,1,0,1
+Spring Valley Es,834,01,GEN,1,1,0,0,0,0,0,0,0
+Spring Valley Es,834,01,CHN,1,0,0,0,0,1,0,0,0
+Spring Valley Es,834,02,GEN,3,1,1,0,0,0,1,0,0
+Spring Valley Es,834,02,CHN,2,0,1,0,0,1,0,0,0
+Spring Valley Es,834,03,GEN,2,0,0,0,2,0,0,0,0
+Spring Valley Es,834,03,CHN,1,0,0,0,1,0,0,0,0
+Spring Valley Es,834,04,GEN,1,0,0,0,0,0,1,0,0
+Spring Valley Es,834,04,CHN,1,0,0,0,0,1,0,0,0
+Spring Valley Es,834,05,GEN,1,0,1,0,0,0,0,0,0
+Spring Valley Es,834,TOTAL,ALL,288,34,46,27,22,21,13,8,117
+Starr King Es,838,K,GEN,93,9,4,3,5,2,1,1,68
+Starr King Es,838,K,IMMM,190,53,16,7,8,5,5,9,87
+Starr King Es,838,01,GEN,2,0,0,1,0,0,0,0,1
+Starr King Es,838,01,IMMM,4,1,0,0,0,0,1,1,1
+Starr King Es,838,02,IMMM,1,1,0,0,0,0,0,0,0
+Starr King Es,838,03,GEN,2,1,0,0,0,0,0,1,0
+Starr King Es,838,04,GEN,1,0,0,0,1,0,0,0,0
+Starr King Es,838,TOTAL,ALL,293,65,20,11,14,7,7,12,157
+Stevenson Es,782,K,GEN,631,35,38,62,54,37,40,40,325
+Stevenson Es,782,K,MM,7,5,0,1,0,0,0,0,1
+Stevenson Es,782,K,MS,2,0,2,0,0,0,0,0,0
+Stevenson Es,782,01,GEN,34,3,4,11,1,4,2,0,9
+Stevenson Es,782,02,GEN,27,6,6,3,4,2,2,2,2
+Stevenson Es,782,03,GEN,29,7,8,6,1,1,1,0,5
+Stevenson Es,782,04,GEN,28,7,2,10,3,3,2,0,1
+Stevenson Es,782,05,GEN,17,2,3,4,1,2,4,0,1
+Stevenson Es,782,TOTAL,ALL,775,65,63,97,64,49,51,42,344
+Stockton Tk,874,TK,GEN,116,64,13,7,13,7,2,4,6
+Stockton Tk,874,TOTAL,ALL,116,64,13,7,13,7,2,4,6
+Sunnyside Es,842,K,GEN,528,53,43,41,47,37,40,31,236
+Sunnyside Es,842,K,MS,2,0,1,1,0,0,0,0,0
+Sunnyside Es,842,01,GEN,17,1,2,0,3,4,2,0,5
+Sunnyside Es,842,02,GEN,11,2,1,1,1,1,0,2,3
+Sunnyside Es,842,02,MS,1,0,0,1,0,0,0,0,0
+Sunnyside Es,842,03,GEN,9,0,1,1,1,2,0,1,3
+Sunnyside Es,842,03,MS,1,0,0,0,0,1,0,0,0
+Sunnyside Es,842,04,GEN,6,0,0,1,1,1,0,1,2
+Sunnyside Es,842,05,GEN,1,0,1,0,0,0,0,0,0
+Sunnyside Es,842,TOTAL,ALL,576,56,49,46,53,46,42,35,249
+Sunset Es,750,K,GEN,868,101,107,76,81,57,60,35,351
+Sunset Es,750,K,SA,11,6,3,1,0,1,0,0,0
+Sunset Es,750,01,GEN,41,4,4,4,8,3,2,5,11
+Sunset Es,750,02,GEN,39,15,3,6,6,2,4,1,2
+Sunset Es,750,02,SA,1,1,0,0,0,0,0,0,0
+Sunset Es,750,03,GEN,33,10,5,2,4,4,4,0,4
+Sunset Es,750,03,SA,1,1,0,0,0,0,0,0,0
+Sunset Es,750,04,GEN,28,8,4,3,6,4,2,0,1
+Sunset Es,750,05,GEN,23,6,3,5,3,0,3,0,3
+Sunset Es,750,TOTAL,ALL,1045,152,129,97,108,71,75,41,372
+Sutro Es,848,K,GEN,434,12,22,28,18,19,21,15,299
+Sutro Es,848,K,CHN,59,9,8,6,9,7,4,0,16
+Sutro Es,848,01,GEN,13,0,2,2,1,2,3,0,3
+Sutro Es,848,01,CHN,6,1,2,0,0,2,1,0,0
+Sutro Es,848,02,GEN,5,0,0,0,1,0,0,1,3
+Sutro Es,848,02,CHN,1,0,0,0,0,0,0,0,1
+Sutro Es,848,03,GEN,8,1,0,0,1,1,1,1,3
+Sutro Es,848,03,CHN,2,0,0,1,0,0,0,0,1
+Sutro Es,848,04,GEN,5,1,0,0,0,1,1,1,1
+Sutro Es,848,05,GEN,5,2,1,1,1,0,0,0,0
+Sutro Es,848,05,CHN,2,2,0,0,0,0,0,0,0
+Sutro Es,848,TOTAL,ALL,540,28,35,38,31,32,31,18,327
+Taylor Es,513,K,GEN,297,58,45,24,24,17,9,6,114
+Taylor Es,513,K,CHN,117,41,19,21,9,6,5,3,13
+Taylor Es,513,K,SPN,48,28,8,6,1,3,0,2,0
+Taylor Es,513,01,GEN,13,7,3,0,2,0,0,0,1
+Taylor Es,513,01,CHN,9,3,1,3,1,1,0,0,0
+Taylor Es,513,01,SPN,4,1,1,1,0,1,0,0,0
+Taylor Es,513,02,GEN,10,4,1,0,2,0,0,1,2
+Taylor Es,513,02,CHN,9,5,0,2,0,1,1,0,0
+Taylor Es,513,02,SPN,1,0,0,0,0,1,0,0,0
+Taylor Es,513,03,GEN,20,11,5,0,1,1,1,0,1
+Taylor Es,513,03,CHN,8,5,2,1,0,0,0,0,0
+Taylor Es,513,03,SPN,3,1,0,0,0,1,1,0,0
+Taylor Es,513,04,GEN,8,6,1,0,1,0,0,0,0
+Taylor Es,513,04,CHN,2,1,0,1,0,0,0,0,0
+Taylor Es,513,04,SPN,1,0,0,1,0,0,0,0,0
+Taylor Es,513,05,GEN,6,3,1,1,1,0,0,0,0
+Taylor Es,513,TOTAL,ALL,556,174,87,61,42,32,17,12,131
+Tenderloin Es,859,K,GEN,137,43,27,12,11,7,2,2,33
+Tenderloin Es,859,01,GEN,1,1,0,0,0,0,0,0,0
+Tenderloin Es,859,02,GEN,2,0,1,0,0,0,0,0,1
+Tenderloin Es,859,03,GEN,1,0,0,0,0,1,0,0,0
+Tenderloin Es,859,04,GEN,1,1,0,0,0,0,0,0,0
+Tenderloin Es,859,TOTAL,ALL,142,45,28,12,11,8,2,2,34
+Tule Elk Park Tk,860,TK,GEN,134,33,25,30,18,17,3,2,6
+Tule Elk Park Tk,860,TOTAL,ALL,134,33,25,30,18,17,3,2,6
+Ulloa Es,862,K,GEN,613,39,54,46,58,53,47,41,275
+Ulloa Es,862,K,CHN,173,38,32,33,25,9,13,6,17
+Ulloa Es,862,01,GEN,35,3,6,3,4,6,4,2,7
+Ulloa Es,862,01,CHN,19,6,1,4,4,1,2,1,0
+Ulloa Es,862,02,GEN,31,5,7,7,3,1,3,1,4
+Ulloa Es,862,02,CHN,15,5,3,1,2,0,0,0,4
+Ulloa Es,862,03,GEN,24,4,3,6,3,1,2,1,4
+Ulloa Es,862,03,CHN,5,1,2,1,0,1,0,0,0
+Ulloa Es,862,04,GEN,13,1,4,1,3,2,0,1,1
+Ulloa Es,862,04,CHN,2,2,0,0,0,0,0,0,0
+Ulloa Es,862,05,GEN,18,7,5,0,1,0,1,1,3
+Ulloa Es,862,TOTAL,ALL,948,111,117,102,103,74,72,54,315
+Ulloa Tk,881,TK,GEN,161,57,54,19,17,4,1,6,3
+Ulloa Tk,881,TOTAL,ALL,161,57,54,19,17,4,1,6,3
+Visitacion Valley Es,867,K,GEN,87,11,19,9,7,3,3,0,35
+Visitacion Valley Es,867,K,CHN,31,16,1,6,2,1,1,1,3
+Visitacion Valley Es,867,01,GEN,2,2,0,0,0,0,0,0,0
+Visitacion Valley Es,867,01,CHN,4,0,2,1,0,0,0,1,0
+Visitacion Valley Es,867,02,CHN,3,1,2,0,0,0,0,0,0
+Visitacion Valley Es,867,03,CHN,4,1,1,1,1,0,0,0,0
+Visitacion Valley Es,867,04,GEN,2,0,1,0,0,0,1,0,0
+Visitacion Valley Es,867,04,CHN,2,1,0,0,0,1,0,0,0
+Visitacion Valley Es,867,05,GEN,2,0,1,0,1,0,0,0,0
+Visitacion Valley Es,867,05,CHN,2,1,0,0,1,0,0,0,0
+Visitacion Valley Es,867,TOTAL,ALL,139,33,27,17,12,5,5,2,38
+Webster Es,497,K,GEN,117,4,17,6,4,4,6,2,74
+Webster Es,497,K,IMMS,193,37,15,14,16,10,6,7,88
+Webster Es,497,01,IMMS,3,3,0,0,0,0,0,0,0
+Webster Es,497,02,GEN,2,0,1,0,0,0,0,0,1
+Webster Es,497,02,IMMS,1,0,0,1,0,0,0,0,0
+Webster Es,497,03,GEN,1,0,0,0,0,0,1,0,0
+Webster Es,497,03,IMMS,1,0,0,1,0,0,0,0,0
+Webster Es,497,04,GEN,1,0,0,0,0,0,0,0,1
+Webster Es,497,04,IMMS,1,0,0,0,0,0,0,1,0
+Webster Es,497,TOTAL,ALL,320,44,33,22,20,14,13,10,164
+West Portal Es,876,K,GEN,1048,53,85,80,96,108,88,85,453
+West Portal Es,876,K,IMMC,546,61,99,94,40,35,23,24,170
+West Portal Es,876,01,GEN,53,4,9,7,9,8,8,3,5
+West Portal Es,876,01,IMMC,40,12,8,13,4,2,0,0,1
+West Portal Es,876,02,GEN,36,9,6,4,6,2,0,4,5
+West Portal Es,876,02,IMMC,16,4,4,5,1,0,0,1,1
+West Portal Es,876,03,GEN,35,4,8,6,4,8,2,2,1
+West Portal Es,876,03,IMMC,6,3,0,2,0,1,0,0,0
+West Portal Es,876,04,GEN,15,6,2,0,1,0,4,0,2
+West Portal Es,876,04,IMMC,4,2,0,0,0,2,0,0,0
+West Portal Es,876,05,GEN,14,5,1,0,3,2,0,2,1
+West Portal Es,876,TOTAL,ALL,1813,163,222,211,164,168,125,121,639
+Wo Es,801,K,GEN,304,38,25,22,15,21,9,9,165
+Wo Es,801,K,SA,7,4,0,2,1,0,0,0,0
+Wo Es,801,01,GEN,6,1,3,0,1,0,1,0,0
+Wo Es,801,02,GEN,5,1,0,0,1,0,0,0,3
+Wo Es,801,02,SA,2,0,2,0,0,0,0,0,0
+Wo Es,801,03,GEN,4,0,1,1,1,0,0,0,1
+Wo Es,801,04,GEN,5,1,1,2,0,0,0,0,1
+Wo Es,801,05,GEN,3,1,0,1,0,0,0,0,1
+Wo Es,801,TOTAL,ALL,336,46,32,28,19,21,10,9,171
+Acad Arts & Science,832,09,GEN,339,53,69,70,59,38,23,15,12
+Acad Arts & Science,832,10,GEN,6,1,2,1,2,0,0,0,0
+Acad Arts & Science,832,11,GEN,3,1,0,2,0,0,0,0,0
+Acad Arts & Science,832,12,GEN,2,2,0,0,0,0,0,0,0
+Acad Arts & Science,832,TOTAL,ALL,350,57,71,73,61,38,23,15,12
+Asawa Sota Hs,815,09,GEN,454,195,108,55,33,35,12,11,5
+Asawa Sota Hs,815,09,MM,8,3,1,1,1,2,0,0,0
+Asawa Sota Hs,815,10,GEN,4,3,0,1,0,0,0,0,0
+Asawa Sota Hs,815,11,GEN,1,1,0,0,0,0,0,0,0
+Asawa Sota Hs,815,12,GEN,1,0,0,0,0,0,1,0,0
+Asawa Sota Hs,815,12,CA,1,1,0,0,0,0,0,0,0
+Asawa Sota Hs,815,13,CA,17,13,4,0,0,0,0,0,0
+Asawa Sota Hs,815,TOTAL,ALL,486,216,113,57,34,37,13,11,5
+Balboa Hs,439,09,GEN,2019,480,563,465,283,152,42,18,16
+Balboa Hs,439,09,ED,4,3,1,0,0,0,0,0,0
+Balboa Hs,439,09,MM,16,9,4,2,1,0,0,0,0
+Balboa Hs,439,09,MS,7,2,3,2,0,0,0,0,0
+Balboa Hs,439,09,NEWX,6,4,0,1,1,0,0,0,0
+Balboa Hs,439,10,GEN,35,25,7,2,1,0,0,0,0
+Balboa Hs,439,10,MM,1,1,0,0,0,0,0,0,0
+Balboa Hs,439,10,NEWX,2,1,0,1,0,0,0,0,0
+Balboa Hs,439,11,GEN,18,12,1,3,2,0,0,0,0
+Balboa Hs,439,11,NEWX,2,0,0,2,0,0,0,0,0
+Balboa Hs,439,12,GEN,10,6,1,1,2,0,0,0,0
+Balboa Hs,439,12,NEWX,1,1,0,0,0,0,0,0,0
+Balboa Hs,439,13,CA,4,2,1,1,0,0,0,0,0
+Balboa Hs,439,TOTAL,ALL,2125,546,581,480,290,152,42,18,16
+Burton Hs,764,09,GEN,411,61,107,74,55,42,26,14,32
+Burton Hs,764,09,MM,7,3,2,2,0,0,0,0,0
+Burton Hs,764,09,MS,5,1,0,2,1,1,0,0,0
+Burton Hs,764,10,GEN,2,1,1,0,0,0,0,0,0
+Burton Hs,764,11,GEN,1,1,0,0,0,0,0,0,0
+Burton Hs,764,12,GEN,1,1,0,0,0,0,0,0,0
+Burton Hs,764,12,CA,1,0,0,1,0,0,0,0,0
+Burton Hs,764,TOTAL,ALL,428,68,110,79,56,43,26,14,32
+Galileo Hs,559,09,GEN,1643,310,358,406,290,183,58,28,10
+Galileo Hs,559,09,ED,1,0,0,1,0,0,0,0,0
+Galileo Hs,559,09,IMMC,36,7,10,4,5,3,5,2,0
+Galileo Hs,559,09,MM,13,6,1,4,2,0,0,0,0
+Galileo Hs,559,09,MS,4,1,1,0,1,0,1,0,0
+Galileo Hs,559,09,NEWX,35,10,7,11,3,2,2,0,0
+Galileo Hs,559,10,GEN,11,3,3,2,1,0,1,1,0
+Galileo Hs,559,11,GEN,7,0,3,2,2,0,0,0,0
+Galileo Hs,559,12,GEN,8,4,3,1,0,0,0,0,0
+Galileo Hs,559,TOTAL,ALL,1758,341,386,431,304,188,67,31,10
+Int'L Studies Acad,624,06,GEN,4,0,0,1,2,0,0,1,0
+Int'L Studies Acad,624,09,GEN,95,6,17,15,6,14,13,5,19
+Int'L Studies Acad,624,09,MM,1,0,0,1,0,0,0,0,0
+Int'L Studies Acad,624,11,GEN,1,0,1,0,0,0,0,0,0
+Int'L Studies Acad,624,12,GEN,1,0,0,1,0,0,0,0,0
+Int'L Studies Acad,624,TOTAL,ALL,102,6,18,18,8,14,13,6,19
+Jordan Hs,757,09,GEN,229,31,56,49,32,19,11,7,24
+Jordan Hs,757,09,MM,3,1,1,0,0,1,0,0,0
+Jordan Hs,757,09,MS,9,3,5,1,0,0,0,0,0
+Jordan Hs,757,10,GEN,4,2,2,0,0,0,0,0,0
+Jordan Hs,757,11,GEN,2,0,2,0,0,0,0,0,0
+Jordan Hs,757,12,GEN,1,0,0,0,0,0,0,0,1
+Jordan Hs,757,TOTAL,ALL,248,37,66,50,32,20,11,7,25
+Lincoln Hs,405,09,GEN,2920,659,1148,711,283,85,21,7,6
+Lincoln Hs,405,09,IMMC,87,16,28,24,13,3,2,1,0
+Lincoln Hs,405,09,MM,23,8,7,7,1,0,0,0,0
+Lincoln Hs,405,09,MS,9,3,3,2,0,1,0,0,0
+Lincoln Hs,405,09,NEWC,22,4,5,7,3,1,2,0,0
+Lincoln Hs,405,09,NEWX,27,1,8,13,2,1,1,1,0
+Lincoln Hs,405,10,GEN,41,24,14,1,0,1,1,0,0
+Lincoln Hs,405,10,IMMC,1,0,0,0,0,1,0,0,0
+Lincoln Hs,405,10,NEWC,2,1,0,1,0,0,0,0,0
+Lincoln Hs,405,10,NEWX,1,0,0,0,1,0,0,0,0
+Lincoln Hs,405,11,GEN,32,17,12,3,0,0,0,0,0
+Lincoln Hs,405,11,NEWX,1,0,1,0,0,0,0,0,0
+Lincoln Hs,405,12,GEN,10,4,3,2,1,0,0,0,0
+Lincoln Hs,405,12,NEWX,1,0,0,1,0,0,0,0,0
+Lincoln Hs,405,TOTAL,ALL,3177,737,1229,772,304,93,27,9,6
+Lowell Hs,697,09,GEN,1901,1633,157,66,29,10,2,3,1
+Lowell Hs,697,09,MM,10,4,6,0,0,0,0,0,0
+Lowell Hs,697,09,MS,10,2,6,0,1,0,1,0,0
+Lowell Hs,697,13,CA,7,5,1,1,0,0,0,0,0
+Lowell Hs,697,TOTAL,ALL,1928,1644,170,67,30,10,3,3,1
+Marshall Hs,853,09,GEN,161,22,13,29,19,24,9,14,31
+Marshall Hs,853,09,MM,4,0,1,1,1,1,0,0,0
+Marshall Hs,853,09,MS,1,0,0,0,1,0,0,0,0
+Marshall Hs,853,09,NEWX,10,2,2,2,1,3,0,0,0
+Marshall Hs,853,10,GEN,1,1,0,0,0,0,0,0,0
+Marshall Hs,853,10,NEWX,1,0,1,0,0,0,0,0,0
+Marshall Hs,853,11,GEN,1,0,0,1,0,0,0,0,0
+Marshall Hs,853,11,NEWX,1,0,1,0,0,0,0,0,0
+Marshall Hs,853,12,CA,1,0,1,0,0,0,0,0,0
+Marshall Hs,853,13,CA,5,2,1,1,1,0,0,0,0
+Marshall Hs,853,TOTAL,ALL,186,27,20,34,23,28,9,14,31
+Mission Hs,725,09,GEN,676,111,122,136,119,86,47,25,30
+Mission Hs,725,09,MM,11,4,2,3,1,0,0,1,0
+Mission Hs,725,09,MS,11,6,1,3,1,0,0,0,0
+Mission Hs,725,09,NEWX,38,15,12,3,4,3,0,1,0
+Mission Hs,725,10,GEN,5,3,1,0,0,0,1,0,0
+Mission Hs,725,10,NEWX,1,1,0,0,0,0,0,0,0
+Mission Hs,725,11,GEN,7,3,2,1,0,1,0,0,0
+Mission Hs,725,11,NEWX,3,2,0,0,1,0,0,0,0
+Mission Hs,725,12,GEN,2,0,0,1,0,0,0,1,0
+Mission Hs,725,13,CA,7,4,2,1,0,0,0,0,0
+Mission Hs,725,TOTAL,ALL,761,149,142,148,126,90,48,28,30
+O'Connell Hs,651,09,GEN,229,35,40,36,34,18,14,11,41
+O'Connell Hs,651,09,MM,5,1,1,1,1,0,0,0,1
+O'Connell Hs,651,10,GEN,5,5,0,0,0,0,0,0,0
+O'Connell Hs,651,12,GEN,1,0,0,0,0,0,0,0,1
+O'Connell Hs,651,13,CA,2,0,1,1,0,0,0,0,0
+O'Connell Hs,651,TOTAL,ALL,242,41,42,38,35,18,14,11,43
+S F International Hs,621,09,GEN,50,13,11,6,7,5,0,0,8
+S F International Hs,621,09,NEWX,25,12,6,4,3,0,0,0,0
+S F International Hs,621,TOTAL,ALL,75,25,17,10,10,5,0,0,8
+Wallenberg Hs,785,09,GEN,923,100,177,217,195,130,61,23,20
+Wallenberg Hs,785,10,GEN,5,0,0,5,0,0,0,0,0
+Wallenberg Hs,785,11,GEN,9,2,3,0,3,0,1,0,0
+Wallenberg Hs,785,12,GEN,4,1,1,1,1,0,0,0,0
+Wallenberg Hs,785,13,CA,8,3,3,2,0,0,0,0,0
+Wallenberg Hs,785,TOTAL,ALL,949,106,184,225,199,130,62,23,20
+Washington Hs,571,09,GEN,2480,454,812,690,343,107,39,21,14
+Washington Hs,571,09,ED,1,1,0,0,0,0,0,0,0
+Washington Hs,571,09,MM,21,8,7,2,3,0,1,0,0
+Washington Hs,571,09,MS,10,7,1,2,0,0,0,0,0
+Washington Hs,571,09,NEWX,37,15,9,3,3,4,0,3,0
+Washington Hs,571,10,GEN,30,17,8,2,1,2,0,0,0
+Washington Hs,571,10,NEWX,2,1,1,0,0,0,0,0,0
+Washington Hs,571,11,GEN,21,12,5,1,1,2,0,0,0
+Washington Hs,571,11,NEWX,1,1,0,0,0,0,0,0,0
+Washington Hs,571,12,GEN,11,4,5,1,0,1,0,0,0
+Washington Hs,571,TOTAL,ALL,2614,520,848,701,351,116,40,24,14
+Aptos Ms,431,06,GEN,1119,422,286,215,78,59,32,15,12
+Aptos Ms,431,06,IMMM,67,52,5,3,6,1,0,0,0
+Aptos Ms,431,06,MM,24,11,4,5,2,1,1,0,0
+Aptos Ms,431,06,SA,6,3,1,2,0,0,0,0,0
+Aptos Ms,431,07,GEN,66,31,17,6,6,1,4,0,1
+Aptos Ms,431,07,IMMM,1,0,0,0,0,0,1,0,0
+Aptos Ms,431,07,MS,1,0,1,0,0,0,0,0,0
+Aptos Ms,431,08,GEN,18,5,8,4,0,0,1,0,0
+Aptos Ms,431,08,MS,1,0,0,1,0,0,0,0,0
+Aptos Ms,431,TOTAL,ALL,1303,524,322,236,92,62,39,15,13
+Buena Vista/Mann K-8,618,K,IMMS,515,123,81,80,45,22,17,22,125
+Buena Vista/Mann K-8,618,K,MM,4,3,0,0,0,0,0,0,1
+Buena Vista/Mann K-8,618,01,IMMS,18,7,5,1,2,0,1,2,0
+Buena Vista/Mann K-8,618,02,IMMS,7,3,2,1,1,0,0,0,0
+Buena Vista/Mann K-8,618,03,IMMS,10,5,2,1,1,1,0,0,0
+Buena Vista/Mann K-8,618,04,IMMS,9,6,2,1,0,0,0,0,0
+Buena Vista/Mann K-8,618,05,IMMS,4,3,1,0,0,0,0,0,0
+Buena Vista/Mann K-8,618,06,IMMS,135,36,36,35,14,6,3,2,3
+Buena Vista/Mann K-8,618,TOTAL,ALL,702,186,129,119,63,29,21,26,129
+Carmichael K-8,449,K,GEN,113,34,9,7,5,2,3,2,51
+Carmichael K-8,449,K,FIL,28,9,3,0,0,0,1,0,15
+Carmichael K-8,449,01,GEN,1,0,1,0,0,0,0,0,0
+Carmichael K-8,449,02,GEN,2,0,1,0,0,0,0,1,0
+Carmichael K-8,449,03,GEN,1,1,0,0,0,0,0,0,0
+Carmichael K-8,449,04,GEN,2,1,1,0,0,0,0,0,0
+Carmichael K-8,449,05,GEN,1,0,1,0,0,0,0,0,0
+Carmichael K-8,449,05,FIL,1,1,0,0,0,0,0,0,0
+Carmichael K-8,449,06,GEN,21,5,4,7,1,1,1,1,1
+Carmichael K-8,449,07,GEN,7,3,3,0,1,0,0,0,0
+Carmichael K-8,449,TOTAL,ALL,177,54,23,14,7,3,5,4,67
+Denman Ms,632,06,GEN,421,163,100,61,40,23,11,9,14
+Denman Ms,632,06,MM,11,4,3,2,0,2,0,0,0
+Denman Ms,632,06,MS,15,7,5,1,2,0,0,0,0
+Denman Ms,632,07,GEN,30,10,8,6,1,1,1,1,2
+Denman Ms,632,07,MM,1,1,0,0,0,0,0,0,0
+Denman Ms,632,07,MS,2,0,2,0,0,0,0,0,0
+Denman Ms,632,08,GEN,8,4,2,0,1,1,0,0,0
+Denman Ms,632,08,MS,2,2,0,0,0,0,0,0,0
+Denman Ms,632,TOTAL,ALL,490,191,120,70,44,27,12,10,16
+Everett Ms,529,06,GEN,388,118,99,60,43,25,12,12,19
+Everett Ms,529,06,IMMS,136,59,26,32,10,6,2,0,1
+Everett Ms,529,06,MM,20,5,7,5,0,1,1,1,0
+Everett Ms,529,06,MS,11,3,3,3,0,1,1,0,0
+Everett Ms,529,06,NEWX,6,4,1,1,0,0,0,0,0
+Everett Ms,529,07,GEN,20,6,4,4,0,1,1,1,3
+Everett Ms,529,07,IMMS,1,0,1,0,0,0,0,0,0
+Everett Ms,529,07,MS,2,2,0,0,0,0,0,0,0
+Everett Ms,529,07,NEWX,1,1,0,0,0,0,0,0,0
+Everett Ms,529,08,GEN,3,1,1,0,0,1,0,0,0
+Everett Ms,529,08,MS,1,0,0,1,0,0,0,0,0
+Everett Ms,529,08,NEWX,1,0,0,0,1,0,0,0,0
+Everett Ms,529,TOTAL,ALL,590,199,142,106,54,35,17,14,23
+Francisco Ms,546,06,GEN,327,137,64,46,37,14,7,8,14
+Francisco Ms,546,06,MM,7,4,1,1,1,0,0,0,0
+Francisco Ms,546,06,NEWX,10,8,2,0,0,0,0,0,0
+Francisco Ms,546,06,SA,2,1,0,1,0,0,0,0,0
+Francisco Ms,546,07,GEN,11,3,2,1,2,0,0,1,2
+Francisco Ms,546,07,MS,1,0,0,0,1,0,0,0,0
+Francisco Ms,546,07,SA,1,0,0,0,1,0,0,0,0
+Francisco Ms,546,08,GEN,6,0,2,2,0,1,1,0,0
+Francisco Ms,546,08,MS,2,0,1,0,1,0,0,0,0
+Francisco Ms,546,TOTAL,ALL,367,153,72,51,43,15,8,9,16
+Giannini Ms,404,05,GEN,1,1,0,0,0,0,0,0,0
+Giannini Ms,404,06,GEN,1268,556,332,189,90,43,26,14,18
+Giannini Ms,404,06,MM,13,7,1,4,0,0,0,1,0
+Giannini Ms,404,06,MS,15,10,2,2,0,1,0,0,0
+Giannini Ms,404,07,GEN,62,25,18,13,4,1,1,0,0
+Giannini Ms,404,07,MS,1,1,0,0,0,0,0,0,0
+Giannini Ms,404,08,GEN,24,14,7,2,1,0,0,0,0
+Giannini Ms,404,08,MS,1,0,1,0,0,0,0,0,0
+Giannini Ms,404,TOTAL,ALL,1385,614,361,210,95,45,27,15,18
+Hoover Ms,607,05,GEN,1,0,0,0,1,0,0,0,0
+Hoover Ms,607,06,GEN,1008,265,266,246,111,52,23,32,13
+Hoover Ms,607,06,IMMC,71,37,14,16,1,3,0,0,0
+Hoover Ms,607,06,IMMS,119,41,32,19,15,6,5,0,1
+Hoover Ms,607,06,MM,10,1,7,2,0,0,0,0,0
+Hoover Ms,607,06,MS,3,2,1,0,0,0,0,0,0
+Hoover Ms,607,07,GEN,49,8,14,14,8,4,0,0,1
+Hoover Ms,607,07,MM,1,0,1,0,0,0,0,0,0
+Hoover Ms,607,08,GEN,24,10,3,6,3,2,0,0,0
+Hoover Ms,607,08,IMMC,1,1,0,0,0,0,0,0,0
+Hoover Ms,607,08,IMMS,1,1,0,0,0,0,0,0,0
+Hoover Ms,607,TOTAL,ALL,1288,366,338,303,139,67,28,32,15
+King Jr Ms,710,06,GEN,195,102,35,25,19,6,2,2,4
+King Jr Ms,710,06,MM,10,3,2,3,0,0,0,1,1
+King Jr Ms,710,07,GEN,3,1,0,1,0,0,0,0,1
+King Jr Ms,710,08,GEN,2,1,1,0,0,0,0,0,0
+King Jr Ms,710,TOTAL,ALL,210,107,38,29,19,6,2,3,6
+Lawton K-8,676,K,GEN,1089,136,117,119,108,89,50,58,412
+Lawton K-8,676,K,MS,2,0,0,0,2,0,0,0,0
+Lawton K-8,676,01,GEN,56,12,12,4,5,2,8,6,7
+Lawton K-8,676,02,GEN,46,14,12,5,5,3,3,1,3
+Lawton K-8,676,03,GEN,44,17,8,6,3,2,2,2,4
+Lawton K-8,676,03,MS,1,1,0,0,0,0,0,0,0
+Lawton K-8,676,04,GEN,32,11,5,5,3,0,4,3,1
+Lawton K-8,676,05,GEN,32,19,6,3,1,2,0,0,1
+Lawton K-8,676,05,MS,1,1,0,0,0,0,0,0,0
+Lawton K-8,676,06,GEN,332,39,84,65,70,24,25,12,13
+Lawton K-8,676,06,MS,1,0,0,0,0,1,0,0,0
+Lawton K-8,676,07,GEN,25,13,7,1,0,1,1,1,1
+Lawton K-8,676,08,GEN,8,1,5,0,2,0,0,0,0
+Lawton K-8,676,TOTAL,ALL,1669,264,256,208,199,124,93,83,442
+Lick Ms,634,06,GEN,392,98,110,54,49,40,13,9,19
+Lick Ms,634,06,IMMS,174,78,40,31,16,7,0,2,0
+Lick Ms,634,06,MM,14,4,6,0,2,1,0,0,1
+Lick Ms,634,06,MS,2,0,1,0,1,0,0,0,0
+Lick Ms,634,07,GEN,16,3,3,1,2,0,1,1,5
+Lick Ms,634,07,IMMS,1,1,0,0,0,0,0,0,0
+Lick Ms,634,08,GEN,5,2,1,0,2,0,0,0,0
+Lick Ms,634,TOTAL,ALL,604,186,161,86,72,48,14,12,25
+Marina Ms,708,06,GEN,471,127,119,93,50,23,19,12,28
+Marina Ms,708,06,MM,12,0,5,4,1,2,0,0,0
+Marina Ms,708,06,MS,7,1,2,2,2,0,0,0,0
+Marina Ms,708,06,NEWX,6,3,1,1,1,0,0,0,0
+Marina Ms,708,07,GEN,20,4,1,6,0,6,2,0,1
+Marina Ms,708,07,MS,2,0,0,2,0,0,0,0,0
+Marina Ms,708,08,GEN,7,3,0,1,0,1,0,1,1
+Marina Ms,708,08,MS,1,0,0,0,0,1,0,0,0
+Marina Ms,708,08,NEWX,1,1,0,0,0,0,0,0,0
+Marina Ms,708,TOTAL,ALL,527,139,128,109,54,33,21,13,30
+Presidio Ms,778,05,GEN,1,0,0,1,0,0,0,0,0
+Presidio Ms,778,06,GEN,1208,479,318,180,98,54,36,20,23
+Presidio Ms,778,06,JPN,63,27,27,6,1,1,0,0,1
+Presidio Ms,778,06,MM,19,3,6,3,6,0,1,0,0
+Presidio Ms,778,06,MS,5,1,1,1,1,0,1,0,0
+Presidio Ms,778,07,GEN,62,18,15,11,9,7,1,1,0
+Presidio Ms,778,07,JPN,1,1,0,0,0,0,0,0,0
+Presidio Ms,778,08,GEN,21,9,1,3,5,3,0,0,0
+Presidio Ms,778,TOTAL,ALL,1380,538,368,205,120,65,39,21,24
+Roosevelt Ms,797,06,GEN,867,249,292,138,86,54,21,10,17
+Roosevelt Ms,797,06,IMMC,37,22,6,7,1,0,1,0,0
+Roosevelt Ms,797,06,MM,18,9,1,4,1,0,1,1,1
+Roosevelt Ms,797,06,MS,5,1,2,1,1,0,0,0,0
+Roosevelt Ms,797,07,GEN,41,10,9,4,6,3,5,4,0
+Roosevelt Ms,797,08,GEN,12,1,4,3,0,2,1,1,0
+Roosevelt Ms,797,TOTAL,ALL,980,292,314,157,95,59,29,16,18
+Visitacion Valley Ms,868,06,GEN,104,39,18,17,14,4,2,1,9
+Visitacion Valley Ms,868,06,MM,6,2,0,2,2,0,0,0,0
+Visitacion Valley Ms,868,06,MS,2,1,0,1,0,0,0,0,0
+Visitacion Valley Ms,868,06,NEWX,2,1,1,0,0,0,0,0,0
+Visitacion Valley Ms,868,08,GEN,1,1,0,0,0,0,0,0,0
+Visitacion Valley Ms,868,TOTAL,ALL,115,44,19,20,16,4,2,1,9
+Yu K-8,485,K,IMMC,895,223,114,80,56,44,45,32,301
+Yu K-8,485,01,IMMC,51,27,11,2,0,2,1,0,8
+Yu K-8,485,02,IMMC,12,8,1,1,0,2,0,0,0
+Yu K-8,485,03,IMMC,12,7,1,1,2,1,0,0,0
+Yu K-8,485,04,IMMC,15,12,1,1,1,0,0,0,0
+Yu K-8,485,05,IMMC,8,8,0,0,0,0,0,0,0
+Yu K-8,485,06,IMMC,41,11,14,5,2,6,0,0,3
+Yu K-8,485,07,IMMC,1,0,1,0,0,0,0,0,0
+Yu K-8,485,TOTAL,ALL,1035,296,143,90,61,55,46,32,312
+Yu K-8,485,TOTAL,ALL,66275,14137,11479,9094,6271,4424,3098,2429,15343
