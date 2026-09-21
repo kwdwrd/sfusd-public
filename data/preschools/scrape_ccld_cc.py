@@ -232,6 +232,8 @@ def fetch_detail_via_api(facility_id) -> dict:
     facility_name = None
     facility_comment = None
     recent_capacity = None
+    street_address = None
+    zip_code = None
 
     # Facility name
     for name_key in ('FacilityName', 'FACILITYNAME', 'facilityName', 'facility'):
@@ -243,6 +245,16 @@ def fetch_detail_via_api(facility_id) -> dict:
     for ckey in ('COMMENTS', 'Comments', 'comments', 'FacilityComment', 'facilityComment'):
         if ckey in fd and fd[ckey]:
             facility_comment = str(fd[ckey]).strip()
+            break
+
+    # Street address and ZIP
+    for addr_key in ('STREETADDRESS', 'StreetAddress', 'streetAddress', 'Street', 'ADDRESS'):
+        if addr_key in fd and fd[addr_key]:
+            street_address = str(fd[addr_key]).strip()
+            break
+    for zip_key in ('ZIPCODE', 'ZipCode', 'zipCode', 'Zip', 'ZIP'):
+        if zip_key in fd and fd[zip_key]:
+            zip_code = str(fd[zip_key]).strip()
             break
 
     # Visit summaries / recent capacity
@@ -432,7 +444,7 @@ def fetch_detail_via_api(facility_id) -> dict:
                 'report_text_snippet': (rep_content[:500] + '...') if rep_content and len(rep_content) > 500 else rep_content
             })
 
-    return {"facility_name": facility_name, "facility_comment": facility_comment, "recent_capacity": recent_capacity, "detail_url": base, "reports": reports} 
+    return {"facility_name": facility_name, "facility_comment": facility_comment, "recent_capacity": recent_capacity, "street_address": street_address, "zip_code": zip_code, "city": "SAN FRANCISCO", "detail_url": base, "reports": reports}
 
 
 def read_ids_from_csv(path):
@@ -480,7 +492,7 @@ def write_ids_csv(id_map_or_set, out_path):
 def run_all(zipcodes: List[str], out: Path, headless: bool = True, ids_only: bool = False, from_csv: Optional[str] = None, ids_out: Path = Path('data/ccld-ids.csv')):
     out.parent.mkdir(parents=True, exist_ok=True)
     ids_out.parent.mkdir(parents=True, exist_ok=True)
-    header = ["zipcodes", "facility_name", "facility_id", "facility_comment", "recent_capacity", "detail_url", "report_count"]
+    header = ["zipcodes", "facility_name", "facility_id", "facility_comment", "recent_capacity", "street_address", "zip_code", "city", "detail_url", "report_count"]
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=headless)
@@ -531,6 +543,9 @@ def run_all(zipcodes: List[str], out: Path, headless: bool = True, ids_only: boo
                     fid,
                     detail.get('facility_comment') or '',
                     detail.get('recent_capacity') or '',
+                    detail.get('street_address') or '',
+                    detail.get('zip_code') or '',
+                    detail.get('city') or '',
                     detail.get('detail_url') or '',
                     len(detail.get('reports', [])) if detail else 0
                 ])

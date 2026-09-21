@@ -258,6 +258,7 @@ def scan_reports(reports_dir: Path, out_csv: Path) -> dict:
     return capacities
 
 
+# THIS IS A REALLY STUPID APPROACH
 def merge_into_details(details_csv: Path, capacities_map: dict, out_csv: Optional[Path] = None, write_updated: bool = False, force: bool = False):
     """Merge first-found capacities into details CSV where recent_capacity is empty.
 
