@@ -1,4 +1,302 @@
 ay,school_id,program_code,program_name
+26-27,441,BA,Bay Street Transition Training Center
+26-27,441,CA,SDC - Transition Program (CAT)
+26-27,442,CA,SDC - Transition Program (CAT)
+26-27,413,GE,General Education
+26-27,413,SA,SDC - Extensive Support w Autism Focus
+26-27,420,GE,General Education
+26-27,420,MS,SDC - Extensive Support
+26-27,420,SE,Spanish Immersion (Non-Native)
+26-27,420,SN,Spanish Immersion (Spanish Speakers)
+26-27,431,GE,General Education
+26-27,431,MM,SDC - Mild to Moderate
+26-27,431,MN,Mandarin Immersion (Mandarin Speakers)
+26-27,431,SA,SDC - Extensive Support w Autism Focus
+26-27,903,GE644,Jefferson ES TK Feeder - General Education
+26-27,435,AF,SDC – Mild/Mod Autism Focus
+26-27,435,GE,General Education
+26-27,815,CA,SDC - Transition Program (CAT)
+26-27,815,GE,General Education
+26-27,815,MM,SDC - Mild to Moderate
+26-27,439,CA,SDC - Transition Program (CAT)
+26-27,439,GE,General Education
+26-27,439,MM,SDC - Mild to Moderate
+26-27,439,MS,SDC - Extensive Support
+26-27,858,GE,General Education
+26-27,858,MM,SDC - Mild to Moderate
+26-27,456,GE,General Education
+26-27,456,SB,Spanish Biliteracy
+26-27,618,MM,SDC - Mild to Moderate
+26-27,618,SE,Spanish Immersion (Non-Native)
+26-27,618,SN,Spanish Immersion (Spanish Speakers)
+26-27,764,CA,SDC - Transition Program (CAT)
+26-27,764,GE,General Education
+26-27,764,MM,SDC - Mild to Moderate
+26-27,764,MS,SDC - Extensive Support
+26-27,449,FB,Filipino FLES
+26-27,449,GE,General Education
+26-27,625,GE,General Education
+26-27,603,GE,General Education
+26-27,603,SB,Spanish Biliteracy
+26-27,872,GE,General Education
+26-27,509,CE,Cantonese Immersion (All English)
+26-27,509,CN,Cantonese Immersion (Cantonese Speakers)
+26-27,478,GE,General Education
+26-27,478,JB,Japanese Bilingual Bicultural Program
+26-27,478,JE,Japanese Bilingual Bicultural Program - English Cohor
+26-27,478,JN,Japanese Bilingual Bicultural Program - Japanese Coh
+26-27,478,MM,SDC - Mild to Moderate
+26-27,481,GE,General Education
+26-27,481,SB,Spanish Biliteracy
+26-27,525,GE,General Education
+26-27,632,AF,SDC – Mild/Mod Autism Focus
+26-27,632,GE,General Education
+26-27,632,MM,SDC - Mild to Moderate
+26-27,632,MS,SDC - Extensive Support
+26-27,507,GE,General Education
+26-27,521,AF,SDC – Mild/Mod Autism Focus
+26-27,521,GE,General Education
+26-27,529,AF,SDC – Mild/Mod Autism Focus
+26-27,529,GE,General Education
+26-27,529,MM,SDC - Mild to Moderate
+26-27,529,NX,Newcomer Program
+26-27,539,GE,General Education
+26-27,680,GE,General Education
+26-27,680,SE,Spanish Immersion (Non-Native)
+26-27,680,SN,Spanish Immersion (Spanish Speakers)
+26-27,546,ED,SDC - SOAR
+26-27,546,GE,General Education
+26-27,546,MM,SDC - Mild to Moderate
+26-27,546,NX,Newcomer Program
+26-27,546,SA,SDC - Extensive Support w Autism Focus
+26-27,559,AF,SDC – Mild/Mod Autism Focus
+26-27,559,CA,SDC - Transition Program (CAT)
+26-27,559,ED,SDC - SOAR
+26-27,559,GE,General Education
+26-27,559,MM,SDC - Mild to Moderate
+26-27,559,MS,SDC - Extensive Support
+26-27,559,NX,Newcomer Program
+26-27,562,AF,SDC – Mild/Mod Autism Focus
+26-27,562,CE,Cantonese Immersion (All English)
+26-27,562,CN,Cantonese Immersion (Cantonese Speakers)
+26-27,562,GE,General Education
+26-27,404,AF,SDC – Mild/Mod Autism Focus
+26-27,404,GE,General Education
+26-27,404,MM,SDC - Mild to Moderate
+26-27,404,MS,SDC - Extensive Support
+26-27,404,SA,SDC - Extensive Support w Autism Focus
+26-27,575,GE,General Education
+26-27,575,SA,SDC - Extensive Support w Autism Focus
+26-27,575,SB,Spanish Biliteracy
+26-27,589,GE,General Education
+26-27,589,SA,SDC - Extensive Support w Autism Focus
+26-27,593,GE,General Education
+26-27,593,SB,Spanish Biliteracy
+26-27,453,GE,General Education
+26-27,453,SE,Spanish Immersion (Non-Native)
+26-27,453,SN,Spanish Immersion (Spanish Speakers)
+26-27,614,GE,General Education
+26-27,614,MM,SDC - Mild to Moderate
+26-27,614,SB,Spanish Biliteracy
+26-27,607,AF,SDC – Mild/Mod Autism Focus
+26-27,607,CN,Cantonese Immersion (Cantonese Speakers)
+26-27,607,ED,SDC - SOAR
+26-27,607,GE,General Education
+26-27,607,MM,SDC - Mild to Moderate
+26-27,607,SN,Spanish Immersion (Spanish Speakers)
+26-27,537,MS,SDC - Extensive Support
+26-27,537,SE,Spanish Immersion (Non-Native)
+26-27,537,SN,Spanish Immersion (Spanish Speakers)
+26-27,466,GE,General Education
+26-27,644,AF,SDC – Mild/Mod Autism Focus
+26-27,644,GE,General Education
+26-27,757,AF,SDC – Mild/Mod Autism Focus
+26-27,757,GE,General Education
+26-27,544,GE,General Education
+26-27,544,MS,SDC - Extensive Support
+26-27,838,GE,General Education
+26-27,838,ME,Mandarin Immersion (Non-Native)
+26-27,838,MN,Mandarin Immersion (Mandarin Speakers)
+26-27,838,SA,SDC - Extensive Support w Autism Focus
+26-27,710,GE,General Education
+26-27,710,MM,SDC - Mild to Moderate
+26-27,664,AO,SDC - Auditory/Oral
+26-27,664,GE,General Education
+26-27,670,AF,SDC – Mild/Mod Autism Focus
+26-27,670,GE,General Education
+26-27,490,CB,Cantonese Biliteracy
+26-27,490,GE,General Education
+26-27,676,GE,General Education
+26-27,676,MS,SDC - Extensive Support
+26-27,634,GE,General Education
+26-27,634,MM,SDC - Mild to Moderate
+26-27,634,SN,Spanish Immersion (Spanish Speakers)
+26-27,479,GE,General Education
+26-27,479,KE,Korean Immersion (Non-Native)
+26-27,479,KN,Korean Immersion (Korean Speakers)
+26-27,405,AF,SDC – Mild/Mod Autism Focus
+26-27,405,ED,SDC - SOAR
+26-27,405,GE,General Education
+26-27,405,MM,SDC - Mild to Moderate
+26-27,405,MS,SDC - Extensive Support
+26-27,405,SA,SDC - Extensive Support w Autism Focus
+26-27,691,FB,Filipino FLES
+26-27,691,GE,General Education
+26-27,691,MM,SDC - Mild to Moderate
+26-27,691,SB,Spanish Biliteracy
+26-27,697,AF,SDC – Mild/Mod Autism Focus
+26-27,697,CA,SDC - Transition Program (CAT)
+26-27,697,GE,General Education
+26-27,697,MM,SDC - Mild to Moderate
+26-27,697,MS,SDC - Extensive Support
+26-27,697,SA,SDC - Extensive Support w Autism Focus
+26-27,830,GE,General Education
+26-27,708,AF,SDC – Mild/Mod Autism Focus
+26-27,708,GE,General Education
+26-27,708,MM,SDC - Mild to Moderate
+26-27,853,CA,SDC - Transition Program (CAT)
+26-27,853,ED,SDC - SOAR
+26-27,853,GE,General Education
+26-27,853,MM,SDC - Mild to Moderate
+26-27,853,NX,Newcomer Program
+26-27,714,SE,Spanish Immersion (Non-Native)
+26-27,714,SN,Spanish Immersion (Spanish Speakers)
+26-27,549,GE,General Education
+26-27,718,AF,SDC – Mild/Mod Autism Focus
+26-27,718,GE,General Education
+26-27,950,GE481,Cleveland ES TK Feeder - General Education
+26-27,950,GE513,Taylor (Edward R) ES TK Feeder - General Education
+26-27,950,SE618,Buena Vista Horace Mann K-8 TK Feeder - Spanish Im
+26-27,950,SN618,Buena Vista Horace Mann K-8 TK Feeder - Spanish Im
+26-27,505,GE,General Education
+26-27,722,AF,SDC – Mild/Mod Autism Focus
+26-27,722,GE,General Education
+26-27,724,SE420,Alvarado ES TK Feeder - Spanish Immersion (Non-Nat
+26-27,724,SE537,Huerta (Dolores) ES TK Feeder - Spanish Immersion (
+26-27,724,SE714,Marshall ES TK Feeder - Spanish Immersion (Non-Nat
+26-27,724,SN420,Alvarado ES TK Feeder - Spanish Immersion (Spanish
+26-27,724,SN537,Huerta (Dolores) ES TK Feeder - Spanish Immersion (
+26-27,724,SN714,Marshall ES TK Feeder - Spanish Immersion (Spanish
+26-27,725,CA,SDC - Transition Program (CAT)
+26-27,725,ED,SDC - SOAR
+26-27,725,GE,General Education
+26-27,725,MM,SDC - Mild to Moderate
+26-27,725,MS,SDC - Extensive Support
+26-27,725,NX,Newcomer Program
+26-27,725,SA,SDC - Extensive Support w Autism Focus
+26-27,729,CB,Cantonese Biliteracy
+26-27,729,GE,General Education
+26-27,729,SE,Spanish Immersion (Non-Native)
+26-27,729,SN,Spanish Immersion (Spanish Speakers)
+26-27,723,CB,Cantonese Biliteracy
+26-27,723,GE,General Education
+26-27,723,SB,Spanish Biliteracy
+26-27,650,GE,General Education
+26-27,650,SB,Spanish Biliteracy
+26-27,735,GE,General Education
+26-27,928,GE750,Sunset ES TK Feeder - General Education
+26-27,928,GE862,Ulloa ES TK Feeder - General Education
+26-27,651,CA,SDC - Transition Program (CAT)
+26-27,651,GE,General Education
+26-27,651,MM,SDC - Mild to Moderate
+26-27,746,GE,General Education
+26-27,746,ME,Mandarin Immersion (Non-Native)
+26-27,746,MN,Mandarin Immersion (Mandarin Speakers)
+26-27,638,GE,General Education
+26-27,786,AF,SDC – Mild/Mod Autism Focus
+26-27,786,GE,General Education
+26-27,786,JB,Japanese Bilingual Bicultural Program
+26-27,786,JE,Japanese Bilingual Bicultural Program - English Cohor
+26-27,569,GE,General Education
+26-27,569,MM,SDC - Mild to Moderate
+26-27,778,AF,SDC – Mild/Mod Autism Focus
+26-27,778,AO,SDC - Auditory/Oral
+26-27,778,GE,General Education
+26-27,778,JB,Japanese Bilingual Bicultural Program
+26-27,778,MM,SDC - Mild to Moderate
+26-27,778,MS,SDC - Extensive Support
+26-27,778,TC,SDC - Total Communication
+26-27,790,GE,General Education
+26-27,790,SA,SDC - Extensive Support w Autism Focus
+26-27,760,GE,General Education
+26-27,760,MM,SDC - Mild to Moderate
+26-27,760,SE,Spanish Immersion (Non-Native)
+26-27,760,SN,Spanish Immersion (Spanish Speakers)
+26-27,965,SE497,Webster (Daniel) ES TK Feeder - Spanish Immersion (
+26-27,965,SN497,Webster (Daniel) ES TK Feeder - Spanish Immersion (
+26-27,796,GE,General Education
+26-27,797,AF,SDC – Mild/Mod Autism Focus
+26-27,797,CN,Cantonese Immersion (Cantonese Speakers)
+26-27,797,GE,General Education
+26-27,797,MM,SDC - Mild to Moderate
+26-27,797,SA,SDC - Extensive Support w Autism Focus
+26-27,987,GE488,Sloat (Commodore) ES TK Feeder - General Education
+26-27,987,GE842,Sunnyside ES TK Feeder - General Education
+26-27,816,GE,General Education
+26-27,816,MM,SDC - Mild to Moderate
+26-27,816,SB,Spanish Biliteracy
+26-27,955,GE575,Glen Park ES TK Feeder - General Education
+26-27,955,GE729,Monroe ES TK Feeder - General Education
+26-27,656,GE,General Education
+26-27,656,SB,Spanish Biliteracy
+26-27,493,GE,General Education
+26-27,621,CA,SDC - Transition Program (CAT)
+26-27,621,GX,General Education Newcomer
+26-27,621,MM,SDC - Mild to Moderate
+26-27,621,NC,Chinese Newcomer
+26-27,621,NS,Spanish Newcomer
+26-27,621,NX,Newcomer Program
+26-27,814,GE,General Education
+26-27,820,GE,General Education
+26-27,823,AF,SDC – Mild/Mod Autism Focus
+26-27,823,GE,General Education
+26-27,488,GE,General Education
+26-27,834,GE,General Education
+26-27,834,MM,SDC - Mild to Moderate
+26-27,782,GE,General Education
+26-27,782,MM,SDC - Mild to Moderate
+26-27,915,GE872,Chin (John Yehall) ES TK Feeder - General Education
+26-27,842,GE,General Education
+26-27,842,MS,SDC - Extensive Support
+26-27,750,GE,General Education
+26-27,750,SA,SDC - Extensive Support w Autism Focus
+26-27,848,CB,Cantonese Biliteracy
+26-27,848,GE,General Education
+26-27,513,AF,SDC – Mild/Mod Autism Focus
+26-27,513,CB,Cantonese Biliteracy
+26-27,513,GE,General Education
+26-27,513,SB,Spanish Biliteracy
+26-27,859,AF,SDC – Mild/Mod Autism Focus
+26-27,859,GE,General Education
+26-27,997,GE479,Lilienthal (Claire) K-8 TK Feeder - General Education
+26-27,997,GE569,Peabody (George) ES TK Feeder - General Education
+26-27,997,GE735,New Traditions ES TK Feeder - General Education
+26-27,997,GE801,Wo (Yick) ES TK Feeder - General Education
+26-27,862,CB,Cantonese Biliteracy
+26-27,862,GE,General Education
+26-27,867,GE,General Education
+26-27,868,GE,General Education
+26-27,868,MM,SDC - Mild to Moderate
+26-27,868,NX,Newcomer Program
+26-27,785,CA,SDC - Transition Program (CAT)
+26-27,785,GE,General Education
+26-27,785,MM,SDC - Mild to Moderate
+26-27,571,AF,SDC – Mild/Mod Autism Focus
+26-27,571,ED,SDC - SOAR
+26-27,571,GE,General Education
+26-27,571,MM,SDC - Mild to Moderate
+26-27,571,MS,SDC - Extensive Support
+26-27,497,GE,General Education
+26-27,497,SE,Spanish Immersion (Non-Native)
+26-27,497,SN,Spanish Immersion (Spanish Speakers)
+26-27,876,CE,Cantonese Immersion (All English)
+26-27,876,CN,Cantonese Immersion (Cantonese Speakers)
+26-27,876,GE,General Education
+26-27,801,GE,General Education
+26-27,801,SA,SDC - Extensive Support w Autism Focus
+26-27,485,CE,Cantonese Immersion (All English)
+26-27,485,CN,Cantonese Immersion (Cantonese Speakers)
+26-27,485,CT,Cantonese Immersion (All others)
 25-26,441,BA,Bay Street Transition Program
 25-26,441,CA,SDC Transition Program (CAT)
 25-26,442,CA,SDC Transition Program (CAT)
@@ -1509,6 +1807,272 @@ Enhanced"
 21-22,697,MS,SDC - Moderate to Severe
 21-22,725,MS,SDC - Moderate to Severe
 21-22,571,MS,SDC - Moderate to Severe
+20-21,420,GE,Gen Ed
+20-21,903,GE,Gen Ed
+20-21,449,GE,Gen Ed
+20-21,525,GE,Gen Ed
+20-21,507,GE,Gen Ed
+20-21,680,GE,Gen Ed
+20-21,453,GE,Gen Ed
+20-21,830,GE,Gen Ed
+20-21,950,GE,Gen Ed
+20-21,928,GE,Gen Ed
+20-21,975,GE,Gen Ed
+20-21,790,GE,Gen Ed
+20-21,965,GE,Gen Ed
+20-21,955,GE,Gen Ed
+20-21,820,GE,Gen Ed
+20-21,915,GE,Gen Ed
+20-21,997,GE,Gen Ed
+20-21,782,MM,Mild to Moderate
+20-21,997,MS,Moderate to Severe
+20-21,872,CB,Chinese Biliteracy
+20-21,614,CB,Chinese Biliteracy
+20-21,490,CB,Chinese Biliteracy
+20-21,729,CB,Chinese Biliteracy
+20-21,723,CB,Chinese Biliteracy
+20-21,638,CB,Chinese Biliteracy
+20-21,834,CB,Chinese Biliteracy
+20-21,848,CB,Chinese Biliteracy
+20-21,513,CB,Chinese Biliteracy
+20-21,862,CB,Chinese Biliteracy
+20-21,867,CB,Chinese Biliteracy
+20-21,509,CN,Chinese Immersion (Cantonese)
+20-21,562,CN,Chinese Immersion (Cantonese)
+20-21,876,CN,Chinese Immersion (Cantonese)
+20-21,485,CT,Chinese Immersion (Non-English)
+20-21,509,CE,Chinese Immersion (Non-Native)
+20-21,562,CE,Chinese Immersion (Non-Native)
+20-21,876,CE,Chinese Immersion (Non-Native)
+20-21,485,CE,Chinese Immersion (English)
+20-21,449,FB,Filipino Bilingual
+20-21,691,FB,Filipino Bilingual
+20-21,413,GE,Gen Ed
+20-21,435,GE,Gen Ed
+20-21,456,GE,Gen Ed
+20-21,625,GE,Gen Ed
+20-21,603,GE,Gen Ed
+20-21,872,GE,Gen Ed
+20-21,478,GE,Gen Ed
+20-21,481,GE,Gen Ed
+20-21,521,GE,Gen Ed
+20-21,539,GE,Gen Ed
+20-21,562,GE,Gen Ed
+20-21,575,GE,Gen Ed
+20-21,589,GE,Gen Ed
+20-21,593,GE,Gen Ed
+20-21,614,GE,Gen Ed
+20-21,644,GE,Gen Ed
+20-21,544,GE,Gen Ed
+20-21,838,GE,Gen Ed
+20-21,664,GE,Gen Ed
+20-21,670,GE,Gen Ed
+20-21,490,GE,Gen Ed
+20-21,676,GE,Gen Ed
+20-21,479,GE,Gen Ed
+20-21,691,GE,Gen Ed
+20-21,549,GE,Gen Ed
+20-21,718,GE,Gen Ed
+20-21,505,GE,Gen Ed
+20-21,722,GE,Gen Ed
+20-21,729,GE,Gen Ed
+20-21,723,GE,Gen Ed
+20-21,650,GE,Gen Ed
+20-21,735,GE,Gen Ed
+20-21,746,GE,Gen Ed
+20-21,638,GE,Gen Ed
+20-21,786,GE,Gen Ed
+20-21,569,GE,Gen Ed
+20-21,760,GE,Gen Ed
+20-21,796,GE,Gen Ed
+20-21,816,GE,Gen Ed
+20-21,656,GE,Gen Ed
+20-21,493,GE,Gen Ed
+20-21,814,GE,Gen Ed
+20-21,823,GE,Gen Ed
+20-21,488,GE,Gen Ed
+20-21,834,GE,Gen Ed
+20-21,782,GE,Gen Ed
+20-21,842,GE,Gen Ed
+20-21,750,GE,Gen Ed
+20-21,848,GE,Gen Ed
+20-21,513,GE,Gen Ed
+20-21,859,GE,Gen Ed
+20-21,862,GE,Gen Ed
+20-21,867,GE,Gen Ed
+20-21,497,GE,Gen Ed
+20-21,876,GE,Gen Ed
+20-21,801,GE,Gen Ed
+20-21,478,JE,Japanese Bilingual Bicultural - English
+20-21,786,JE,Japanese Bilingual Bicultural - English
+20-21,478,JN,Japanese Bilingual Bicultural - Japanese
+20-21,786,JN,Japanese Bilingual Bicultural - Japanese
+20-21,479,KN,Korean Immersion (Korean)
+20-21,479,KE,Korean Immersion (Non-Native)
+20-21,838,MN,Mandarin Immersion (Mandarin)
+20-21,746,MN,Mandarin Immersion (Mandarin)
+20-21,838,ME,Mandarin Immersion (Non-Native)
+20-21,746,ME,Mandarin Immersion (Non-Native)
+20-21,618,MM,Mild to Moderate
+20-21,478,MM,Mild to Moderate
+20-21,614,MM,Mild to Moderate
+20-21,691,MM,Mild to Moderate
+20-21,786,MM,Mild to Moderate
+20-21,569,MM,Mild to Moderate
+20-21,760,MM,Mild to Moderate
+20-21,816,MM,Mild to Moderate
+20-21,435,MM,Mild/Mod Autism Focus
+20-21,562,MM,Mild/Mod Autism Focus
+20-21,644,MM,Mild/Mod Autism Focus
+20-21,670,MM,Mild/Mod Autism Focus
+20-21,722,MM,Mild/Mod Autism Focus
+20-21,823,MM,Mild/Mod Autism Focus
+20-21,513,MM,Mild/Mod Autism Focus
+20-21,420,MS,Moderate to Severe
+20-21,537,MS,Moderate to Severe
+20-21,544,MS,Moderate to Severe
+20-21,676,MS,Moderate to Severe
+20-21,842,MS,Moderate to Severe
+20-21,413,SA,Severely Autistic
+20-21,575,SA,Severely Autistic
+20-21,589,SA,Severely Autistic
+20-21,838,SA,Severely Autistic
+20-21,750,SA,Severely Autistic
+20-21,801,SA,Severely Autistic
+20-21,456,SB,Spanish Biliteracy
+20-21,603,SB,Spanish Biliteracy
+20-21,481,SB,Spanish Biliteracy
+20-21,575,SB,Spanish Biliteracy
+20-21,593,SB,Spanish Biliteracy
+20-21,614,SB,Spanish Biliteracy
+20-21,691,SB,Spanish Biliteracy
+20-21,723,SB,Spanish Biliteracy
+20-21,650,SB,Spanish Biliteracy
+20-21,816,SB,Spanish Biliteracy
+20-21,656,SB,Spanish Biliteracy
+20-21,834,SB,Spanish Biliteracy
+20-21,513,SB,Spanish Biliteracy
+20-21,420,SE,Spanish Immersion (Non-Native)
+20-21,618,SE,Spanish Immersion (Non-Native)
+20-21,680,SE,Spanish Immersion (Non-Native)
+20-21,453,SE,Spanish Immersion (Non-Native)
+20-21,537,SE,Spanish Immersion (Non-Native)
+20-21,714,SE,Spanish Immersion (Non-Native)
+20-21,729,SE,Spanish Immersion (Non-Native)
+20-21,760,SE,Spanish Immersion (Non-Native)
+20-21,497,SE,Spanish Immersion (Non-Native)
+20-21,420,SN,Spanish Immersion (Spanish)
+20-21,618,SN,Spanish Immersion (Spanish)
+20-21,680,SN,Spanish Immersion (Spanish)
+20-21,453,SN,Spanish Immersion (Spanish)
+20-21,537,SN,Spanish Immersion (Spanish)
+20-21,714,SN,Spanish Immersion (Spanish)
+20-21,729,SN,Spanish Immersion (Spanish)
+20-21,760,SN,Spanish Immersion (Spanish)
+20-21,497,SN,Spanish Immersion (Spanish)
+20-21,724,NS,Spanish Newcomer
+20-21,607,CN,Chinese Immersion (Cantonese)
+20-21,708,CN,Chinese Immersion (Cantonese)
+20-21,797,CN,Chinese Immersion (Cantonese)
+20-21,485,CN,Chinese Immersion (Cantonese)
+20-21,632,ED,SDC - SOAR
+20-21,546,ED,SDC - SOAR
+20-21,634,ED,SDC - SOAR
+20-21,431,GE,Gen Ed
+20-21,858,GE,Gen Ed
+20-21,632,GE,Gen Ed
+20-21,529,GE,Gen Ed
+20-21,546,GE,Gen Ed
+20-21,404,GE,Gen Ed
+20-21,607,GE,Gen Ed
+20-21,710,GE,Gen Ed
+20-21,634,GE,Gen Ed
+20-21,708,GE,Gen Ed
+20-21,778,GE,Gen Ed
+20-21,797,GE,Gen Ed
+20-21,868,GE,Gen Ed
+20-21,778,JB,Japanese Bilingual
+20-21,431,MN,Mandarin Immersion (Mandarin)
+20-21,431,MM,Mild to Moderate
+20-21,632,MM,Mild to Moderate
+20-21,529,MM,Mild to Moderate
+20-21,546,MM,Mild to Moderate
+20-21,404,MM,Mild to Moderate
+20-21,607,MM,Mild to Moderate
+20-21,710,MM,Mild to Moderate
+20-21,634,MM,Mild to Moderate
+20-21,708,MM,Mild to Moderate
+20-21,778,MM,Mild to Moderate
+20-21,797,MM,Mild to Moderate
+20-21,868,MM,Mild to Moderate
+20-21,632,MM,Mild/Mod Autism Focus
+20-21,529,MM,Mild/Mod Autism Focus
+20-21,404,MM,Mild/Mod Autism Focus
+20-21,708,MM,Mild/Mod Autism Focus
+20-21,797,MM,Mild/Mod Autism Focus
+20-21,632,MS,Moderate to Severe
+20-21,404,MS,Moderate to Severe
+20-21,778,MS,Moderate to Severe
+20-21,868,MS,Moderate to Severe
+20-21,529,NX,Newcomer
+20-21,546,NX,Newcomer
+20-21,708,NX,Newcomer
+20-21,868,NX,Newcomer
+20-21,431,SA,Severely Autistic
+20-21,546,SA,Severely Autistic
+20-21,404,SA,Severely Autistic
+20-21,529,SN,Spanish Immersion (Spanish)
+20-21,607,SN,Spanish Immersion (Spanish)
+20-21,634,SN,Spanish Immersion (Spanish)
+20-21,559,ED,SDC - SOAR
+20-21,405,ED,SDC - SOAR
+20-21,853,ED,SDC - SOAR
+20-21,725,ED,SDC - SOAR
+20-21,571,ED,SDC - SOAR
+20-21,621,GX,GE Newcomer
+20-21,815,GE,Gen Ed
+20-21,439,GE,Gen Ed
+20-21,764,GE,Gen Ed
+20-21,559,GE,Gen Ed
+20-21,757,GE,Gen Ed
+20-21,405,GE,Gen Ed
+20-21,697,GE,Gen Ed
+20-21,853,GE,Gen Ed
+20-21,725,GE,Gen Ed
+20-21,651,GE,Gen Ed
+20-21,832,GE,Gen Ed
+20-21,785,GE,Gen Ed
+20-21,571,GE,Gen Ed
+20-21,815,MM,Mild to Moderate
+20-21,439,MM,Mild to Moderate
+20-21,764,MM,Mild to Moderate
+20-21,559,MM,Mild to Moderate
+20-21,405,MM,Mild to Moderate
+20-21,697,MM,Mild to Moderate
+20-21,853,MM,Mild to Moderate
+20-21,725,MM,Mild to Moderate
+20-21,651,MM,Mild to Moderate
+20-21,832,MM,Mild to Moderate
+20-21,785,MM,Mild to Moderate
+20-21,571,MM,Mild to Moderate
+20-21,697,MM,Mild/Mod Autism Focus
+20-21,439,MS,Moderate to Severe
+20-21,764,MS,Moderate to Severe
+20-21,559,MS,Moderate to Severe
+20-21,757,MS,Moderate to Severe
+20-21,405,MS,Moderate to Severe
+20-21,697,MS,Moderate to Severe
+20-21,725,MS,Moderate to Severe
+20-21,571,MS,Moderate to Severe
+20-21,559,NX,Newcomer
+20-21,405,NX,Newcomer
+20-21,853,NX,Newcomer
+20-21,725,NX,Newcomer
+20-21,621,NX,Newcomer
+20-21,405,SA,Severely Autistic
+20-21,697,SA,Severely Autistic
+20-21,725,SA,Severely Autistic
+20-21,621,NS,Spanish Newcomer
 19-20,413,GE,General Education
 19-20,413,SA,Severely Autistic
 19-20,420,GE,General Education

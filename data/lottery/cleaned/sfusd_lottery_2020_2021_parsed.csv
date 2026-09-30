@@ -1,0 +1,287 @@
+Grade,Program,SchoolName,1st,2nd,3rd,4th,5th,6th-10th,11th-25th,26th+
+TK,Gen Ed,Alvarado ES,97,38,15,24,6,7,,
+TK,Gen Ed,Argonne EES,70,73,18,8,2,8,,
+TK,Gen Ed,Carmichael (Bessie) K-8,10,7,3,5,3,10,2,
+TK,Gen Ed,Cobb (Dr William L) ES,11,14,16,12,6,12,1,
+TK,Gen Ed,Drew (Dr Charles) College Preparatory Academy ES,6,3,,,1,6,3,
+TK,Gen Ed,Flynn (Leonard R) ES,23,28,14,9,3,5,3,
+TK,Gen Ed,Harte (Bret) ES,6,,2,1,3,3,2,
+TK,Gen Ed,Malcolm X Academy ES,4,1,2,,1,3,1,
+TK,Gen Ed,McLaren (John) EES,8,4,1,2,2,7,3,
+TK,Gen Ed,Noriega EES,78,31,24,5,4,15,1,
+TK,Gen Ed,Presidio EES,48,45,41,11,7,5,2,
+TK,Gen Ed,Redding ES,13,9,17,5,10,12,1,
+TK,Gen Ed,Rodriguez (Zaida T) EES,7,13,14,9,6,10,4,
+TK,Gen Ed,Serra (Junipero) Annex EES,20,19,24,11,4,10,2,
+TK,Gen Ed,Sheridan ES,11,14,12,5,8,8,5,
+TK,Gen Ed,Stockton (Commodore) EES,32,5,7,5,5,6,4,
+TK,Gen Ed,Tule Elk Park EES,32,23,20,23,11,4,2,
+TK,Mild to Moderate,Stevenson (Robert Louis) ES,9,,,,,,,
+TK,Moderate to Severe,Tule Elk Park EES,1,,,,,,,
+Kindergarten,Chinese Biliteracy,Chin (John Yehall) ES,37,29,25,11,10,5,6,
+Kindergarten,Chinese Biliteracy,Hillcrest ES,,1,3,1,5,8,1,
+Kindergarten,Chinese Biliteracy,Lau (Gordon J) ES,51,16,15,10,3,17,2,1
+Kindergarten,Chinese Biliteracy,Monroe ES,31,9,12,6,3,17,4,
+Kindergarten,Chinese Biliteracy,Moscone (George R) ES,11,4,1,1,1,5,4,
+Kindergarten,Chinese Biliteracy,Parker (Jean) ES,7,13,24,7,12,7,7,1
+Kindergarten,Chinese Biliteracy,Spring Valley Science ES,7,3,10,2,3,6,5,
+Kindergarten,Chinese Biliteracy,Sutro ES,13,6,5,2,2,6,5,1
+Kindergarten,Chinese Biliteracy,Taylor (Edward R) ES,36,15,9,5,4,15,7,
+Kindergarten,Chinese Biliteracy,Ulloa ES,58,41,30,22,28,25,6,
+Kindergarten,Chinese Biliteracy,Visitacion Valley ES,11,4,,2,3,5,4,
+Kindergarten,Chinese Immersion (Cantonese),Chinese Immersion School at DeAvila ES,30,25,8,4,8,23,4,
+Kindergarten,Chinese Immersion (Cantonese),Garfield ES,1,,3,6,1,6,,
+Kindergarten,Chinese Immersion (Cantonese),West Portal ES,26,25,31,27,16,31,8,
+Kindergarten,Chinese Immersion (Non-English),Yu (Alice Fong) K-8,89,57,45,26,20,64,23,2
+Kindergarten,Chinese Immersion (Non-Native),Chinese Immersion School at DeAvila ES,53,27,35,30,23,86,83,9
+Kindergarten,Chinese Immersion (Non-Native),Garfield ES,9,6,5,6,4,4,15,11
+Kindergarten,Chinese Immersion (Non-Native),West Portal ES,33,44,40,30,20,61,59,11
+Kindergarten,Chinese Immersion (English),Yu (Alice Fong) K-8,77,51,26,20,21,94,92,7
+Kindergarten,Filipino Bilingual,Carmichael (Bessie) K-8,6,3,2,1,,3,,3
+Kindergarten,Filipino Bilingual,Longfellow ES,13,4,4,,,1,2,3
+Kindergarten,Gen Ed,Alamo ES,92,83,63,63,49,200,170,14
+Kindergarten,Gen Ed,Alvarado ES,63,89,77,54,52,203,132,14
+Kindergarten,Gen Ed,Argonne ES,57,70,92,60,59,213,175,14
+Kindergarten,Gen Ed,Bryant ES,13,10,4,7,5,9,14,13
+Kindergarten,Gen Ed,Carmichael (Bessie) K-8,43,10,12,6,1,11,5,18
+Kindergarten,Gen Ed,Carver (Dr George W) ES,5,2,3,1,1,3,,14
+Kindergarten,Gen Ed,Chavez (Cesar) ES,4,17,8,6,8,13,14,16
+Kindergarten,Gen Ed,Chin (John Yehall) ES,31,47,14,26,26,32,34,29
+Kindergarten,Gen Ed,Clarendon ES,84,132,121,93,97,376,175,1
+Kindergarten,Gen Ed,Cleveland ES,8,10,10,6,4,6,2,15
+Kindergarten,Gen Ed,Cobb (Dr William L) ES,12,11,3,5,8,20,23,19
+Kindergarten,Gen Ed,Drew (Dr Charles) College Preparatory Academy ES,9,7,6,5,1,3,3,14
+Kindergarten,Gen Ed,El Dorado ES,6,8,3,,1,2,4,12
+Kindergarten,Gen Ed,Feinstein (Dianne) ES,59,29,32,39,50,203,206,14
+Kindergarten,Gen Ed,Flynn (Leonard R) ES,22,23,26,17,12,44,35,22
+Kindergarten,Gen Ed,Garfield ES,6,17,10,12,12,29,36,28
+Kindergarten,Gen Ed,Glen Park ES,29,38,44,50,29,117,103,30
+Kindergarten,Gen Ed,Grattan ES,89,68,75,89,92,311,192,7
+Kindergarten,Gen Ed,Guadalupe ES,24,11,8,3,3,8,6,14
+Kindergarten,Gen Ed,Harte (Bret) ES,14,8,3,4,1,5,2,13
+Kindergarten,Gen Ed,Hillcrest ES,13,8,10,14,4,14,15,23
+Kindergarten,Gen Ed,Jefferson ES,79,38,61,82,68,332,184,9
+Kindergarten,Gen Ed,Key (Francis Scott) ES,74,54,49,61,49,168,148,22
+Kindergarten,Gen Ed,King (Thomas Starr) ES,3,8,6,7,6,21,35,22
+Kindergarten,Gen Ed,Lafayette ES,91,32,49,46,54,180,162,16
+Kindergarten,Gen Ed,Lakeshore ES,40,29,28,16,20,72,100,34
+Kindergarten,Gen Ed,Lau (Gordon J) ES,19,32,17,28,14,38,27,31
+Kindergarten,Gen Ed,Lawton K-8,140,132,133,111,108,268,160,10
+Kindergarten,Gen Ed,Lilienthal (Claire) K-8,210,161,93,72,61,156,128,10
+Kindergarten,Gen Ed,Longfellow ES,31,20,10,7,4,9,10,20
+Kindergarten,Gen Ed,Malcolm X Academy ES,18,,,2,,,1,12
+Kindergarten,Gen Ed,McCoppin (Frank) ES,21,29,29,35,22,159,140,25
+Kindergarten,Gen Ed,McKinley ES,65,57,63,52,71,202,157,12
+Kindergarten,Gen Ed,Milk (Harvey) Civil Right ES,36,15,25,24,14,120,92,33
+Kindergarten,Gen Ed,Miraloma ES,77,66,72,63,59,206,175,14
+Kindergarten,Gen Ed,Monroe ES,18,52,28,25,5,40,39,18
+Kindergarten,Gen Ed,Moscone (George R) ES,13,15,7,9,9,19,35,23
+Kindergarten,Gen Ed,Muir (John) ES,5,9,9,3,12,32,34,24
+Kindergarten,Gen Ed,New Traditions ES,87,57,61,68,55,210,128,12
+Kindergarten,Gen Ed,Ortega (Jose) ES,24,38,18,18,17,73,90,31
+Kindergarten,Gen Ed,Parker (Jean) ES,5,9,9,16,10,36,4,22
+Kindergarten,Gen Ed,Parks (Rosa) ES,17,19,13,10,3,32,60,31
+Kindergarten,Gen Ed,Peabody (George) ES,115,139,114,88,57,202,149,9
+Kindergarten,Gen Ed,Redding ES,33,12,14,9,6,23,11,27
+Kindergarten,Gen Ed,Revere (Paul) K-8,8,13,,5,3,10,11,15
+Kindergarten,Gen Ed,Rooftop K-8,92,73,79,73,83,283,198,10
+Kindergarten,Gen Ed,Sanchez ES,6,4,9,6,4,18,30,17
+Kindergarten,Gen Ed,Serra (Junipero) ES,26,13,17,7,15,39,67,26
+Kindergarten,Gen Ed,SF Community K-8,34,23,12,24,13,57,51,23
+Kindergarten,Gen Ed,SF Public Montessori ES,44,30,28,37,29,92,105,32
+Kindergarten,Gen Ed,Sheridan ES,16,10,3,5,3,14,9,25
+Kindergarten,Gen Ed,Sherman ES,69,63,76,37,35,74,71,33
+Kindergarten,Gen Ed,Sloat (Commodore) ES,62,63,66,44,47,210,188,20
+Kindergarten,Gen Ed,Spring Valley Science ES,8,13,9,13,8,22,13,22
+Kindergarten,Gen Ed,Stevenson (Robert Louis) ES,41,61,79,75,74,198,154,16
+Kindergarten,Gen Ed,Sunnyside ES,117,65,59,60,53,109,103,34
+Kindergarten,Gen Ed,Sunset ES,151,156,138,117,73,235,129,10
+Kindergarten,Gen Ed,Sutro ES,12,25,25,24,22,111,160,27
+Kindergarten,Gen Ed,Taylor (Edward R) ES,37,40,14,9,11,18,25,21
+Kindergarten,Gen Ed,Tenderloin Community ES,28,8,6,2,,3,3,16
+Kindergarten,Gen Ed,Ulloa ES,56,80,74,77,72,225,151,26
+Kindergarten,Gen Ed,Visitacion Valley ES,16,16,3,5,2,10,5,19
+Kindergarten,Gen Ed,Webster (Daniel) ES,30,37,12,21,10,67,48,21
+Kindergarten,Gen Ed,West Portal ES,63,87,104,96,97,327,218,8
+Kindergarten,Gen Ed,Wo (Yick) ES,42,22,28,20,17,43,33,27
+Kindergarten,Japanese Bilingual Bicultural - English,Clarendon ES,61,53,38,48,34,105,55,3
+Kindergarten,Japanese Bilingual Bicultural - English,Parks (Rosa) ES,24,5,7,7,4,23,45,16
+Kindergarten,Japanese Bilingual Bicultural - Japanese,Clarendon ES,15,3,4,3,1,,,
+Kindergarten,Japanese Bilingual Bicultural - Japanese,Parks (Rosa) ES,2,4,3,2,,1,2,
+Kindergarten,Korean Immersion (Korean),Lilienthal (Claire) K-8,22,2,,1,1,1,,
+Kindergarten,Korean Immersion (Non-Native),Lilienthal (Claire) K-8,35,39,11,17,12,31,36,5
+Kindergarten,Mandarin Immersion (Mandarin),King (Thomas Starr) ES,19,16,6,1,5,14,11,3
+Kindergarten,Mandarin Immersion (Mandarin),Ortega (Jose) ES,48,12,8,7,7,12,10,
+Kindergarten,Mandarin Immersion (Non-Native),King (Thomas Starr) ES,21,3,9,8,5,21,26,12
+Kindergarten,Mandarin Immersion (Non-Native),Ortega (Jose) ES,23,22,12,12,10,38,33,12
+Kindergarten,Mild to Moderate,Buena Vista Horace Mann K-8,3,1,,,,,,
+Kindergarten,Mild to Moderate,Clarendon ES,7,4,2,2,,,,
+Kindergarten,Mild to Moderate,Hillcrest ES,6,2,2,3,,,,
+Kindergarten,Mild to Moderate,Longfellow ES,2,3,1,,1,,,
+Kindergarten,Mild to Moderate,Parks (Rosa) ES,3,1,,,1,,,
+Kindergarten,Mild to Moderate,Peabody (George) ES,4,4,4,2,,,,
+Kindergarten,Mild to Moderate,Revere (Paul) K-8,,,4,,,,,
+Kindergarten,Mild to Moderate,Sanchez ES,2,3,,,,,,
+Kindergarten,Mild to Moderate,Stevenson (Robert Louis) ES,5,6,4,1,,1,,
+Kindergarten,Mild/Mod Autism Focus,Argonne ES,3,7,,1,1,,,
+Kindergarten,Mild/Mod Autism Focus,Garfield ES,5,1,3,,,,,
+Kindergarten,Mild/Mod Autism Focus,Jefferson ES,6,3,6,,1,,,
+Kindergarten,Mild/Mod Autism Focus,Lakeshore ES,2,4,2,3,,,,
+Kindergarten,Mild/Mod Autism Focus,Miraloma ES,6,1,3,1,1,,,
+Kindergarten,Mild/Mod Autism Focus,Sherman ES,,4,1,1,,1,,
+Kindergarten,Mild/Mod Autism Focus,Taylor (Edward R) ES,3,,,,,,,
+Kindergarten,Moderate to Severe,Alvarado ES,3,,,1,,,,
+Kindergarten,Moderate to Severe,Huerta (Dolores) ES,1,2,,,,,,
+Kindergarten,Moderate to Severe,Key (Francis Scott) ES,2,,1,,,,,
+Kindergarten,Moderate to Severe,Lawton K-8,1,3,1,,,,,
+Kindergarten,Moderate to Severe,Sunnyside ES,3,1,2,,,,,
+Kindergarten,Severely Autistic,Alamo ES,2,3,1,1,1,,,
+Kindergarten,Severely Autistic,Glen Park ES,3,1,,1,,,,
+Kindergarten,Severely Autistic,Grattan ES,2,1,3,3,,,,
+Kindergarten,Severely Autistic,King (Thomas Starr) ES,2,3,1,,,1,,
+Kindergarten,Severely Autistic,Sunset ES,1,3,1,,,,,
+Kindergarten,Severely Autistic,Wo (Yick) ES,2,,3,,1,,,
+Kindergarten,Spanish Biliteracy,Bryant ES,29,18,16,9,5,4,,
+Kindergarten,Spanish Biliteracy,Chavez (Cesar) ES,28,19,18,11,4,4,2,
+Kindergarten,Spanish Biliteracy,Cleveland ES,24,18,6,5,5,1,,
+Kindergarten,Spanish Biliteracy,Glen Park ES,11,8,9,5,4,3,1,
+Kindergarten,Spanish Biliteracy,Guadalupe ES,9,11,9,4,,1,1,
+Kindergarten,Spanish Biliteracy,Hillcrest ES,7,5,14,4,1,4,,
+Kindergarten,Spanish Biliteracy,Longfellow ES,18,5,3,1,2,4,,
+Kindergarten,Spanish Biliteracy,Moscone (George R) ES,21,24,14,7,2,6,,
+Kindergarten,Spanish Biliteracy,Muir (John) ES,7,3,1,6,,2,1,
+Kindergarten,Spanish Biliteracy,Sanchez ES,15,15,11,8,8,8,2,
+Kindergarten,Spanish Biliteracy,Serra (Junipero) ES,13,11,4,7,5,6,,
+Kindergarten,Spanish Biliteracy,Spring Valley Science ES,13,5,3,3,,1,2,
+Kindergarten,Spanish Biliteracy,Taylor (Edward R) ES,14,8,4,3,1,2,1,
+Kindergarten,Spanish Immersion (Non-Native),Alvarado ES,108,62,43,28,33,93,61,15
+Kindergarten,Spanish Immersion (Non-Native),Buena Vista Horace Mann K-8,40,42,30,12,15,42,31,18
+Kindergarten,Spanish Immersion (Non-Native),Flynn (Leonard R) ES,18,28,21,20,10,31,30,9
+Kindergarten,Spanish Immersion (Non-Native),Harte (Bret) ES,4,,,2,,2,2,5
+Kindergarten,Spanish Immersion (Non-Native),Huerta (Dolores) ES,47,26,27,21,17,63,34,24
+Kindergarten,Spanish Immersion (Non-Native),Marshall ES,15,19,13,11,8,14,13,21
+Kindergarten,Spanish Immersion (Non-Native),Monroe ES,17,21,13,11,8,25,33,8
+Kindergarten,Spanish Immersion (Non-Native),Revere (Paul) K-8,7,5,3,5,4,9,7,7
+Kindergarten,Spanish Immersion (Non-Native),Webster (Daniel) ES,40,29,24,16,16,45,27,10
+Kindergarten,Spanish Immersion (Spanish),Alvarado ES,52,22,8,10,7,13,2,
+Kindergarten,Spanish Immersion (Spanish),Buena Vista Horace Mann K-8,45,17,15,8,10,13,6,
+Kindergarten,Spanish Immersion (Spanish),Flynn (Leonard R) ES,14,12,12,11,8,12,3,1
+Kindergarten,Spanish Immersion (Spanish),Harte (Bret) ES,4,1,,1,,2,,
+Kindergarten,Spanish Immersion (Spanish),Huerta (Dolores) ES,25,18,21,5,4,11,5,
+Kindergarten,Spanish Immersion (Spanish),Marshall ES,16,13,19,8,5,8,3,
+Kindergarten,Spanish Immersion (Spanish),Monroe ES,28,15,9,5,7,7,7,1
+Kindergarten,Spanish Immersion (Spanish),Revere (Paul) K-8,8,6,4,1,,5,3,
+Kindergarten,Spanish Immersion (Spanish),Webster (Daniel) ES,18,15,12,4,7,8,5,1
+Kindergarten,Spanish Newcomer,Mission Education Center ES,2,,,,,,,
+6th Grade,Chinese Immersion (Cantonese),Hoover (Herbert) MS,69,18,18,8,7,5,,
+6th Grade,Chinese Immersion (Cantonese),Marina MS,21,15,14,7,4,8,,
+6th Grade,Chinese Immersion (Cantonese),Roosevelt MS,66,33,14,4,5,6,,
+6th Grade,Chinese Immersion (Cantonese),Yu (Alice Fong) K-8,4,8,10,16,3,7,,
+6th Grade,SDC - SOAR,Denman (James) MS,1,2,,,,,,
+6th Grade,SDC - SOAR,Francisco MS,2,1,,,,,,
+6th Grade,SDC - SOAR,Lick (James) MS,1,,2,,,,,
+6th Grade,Gen Ed,Aptos MS,259,286,191,104,46,58,,
+6th Grade,Gen Ed,Brown Jr. (Willie) MS,39,23,16,9,3,5,5,
+6th Grade,Gen Ed,Carmichael (Bessie) K-8,18,12,5,3,1,2,3,
+6th Grade,Gen Ed,Denman (James) MS,268,90,47,36,12,33,7,
+6th Grade,Gen Ed,Everett MS,114,65,62,36,18,25,3,
+6th Grade,Gen Ed,Francisco MS,135,103,54,28,12,35,8,
+6th Grade,Gen Ed,Giannini (A.P.) MS,582,293,241,78,49,31,1,
+6th Grade,Gen Ed,Hoover (Herbert) MS,227,263,190,121,62,51,1,
+6th Grade,Gen Ed,King Jr (Dr Martin L) MS,97,39,31,9,14,4,5,
+6th Grade,Gen Ed,Lawton K-8,50,113,78,81,52,61,4,
+6th Grade,Gen Ed,Lick (James) MS,58,76,49,25,23,29,3,
+6th Grade,Gen Ed,Lilienthal (Claire) K-8,37,48,44,22,27,34,1,
+6th Grade,Gen Ed,Marina MS,148,118,74,62,32,71,2,
+6th Grade,Gen Ed,Presidio MS,352,258,212,104,49,58,2,
+6th Grade,Gen Ed,Revere (Paul) K-8,7,7,3,1,3,6,2,
+6th Grade,Gen Ed,Rooftop K-8,27,42,34,34,32,52,4,
+6th Grade,Gen Ed,Roosevelt MS,293,330,177,89,55,46,2,
+6th Grade,Gen Ed,SF Community K-8,15,15,14,3,6,9,4,
+6th Grade,Gen Ed,Visitacion Valley MS,55,45,20,6,2,3,7,
+6th Grade,Japanese Bilingual,Presidio MS,33,19,6,1,,1,,
+6th Grade,Korean Immersion (Korean),Lilienthal (Claire) K-8,,,1,,,,,
+6th Grade,Mandarin Immersion (Mandarin),Aptos MS,58,6,12,3,,1,,
+6th Grade,Mild to Moderate,Aptos MS,6,3,1,1,,,,
+6th Grade,Mild to Moderate,Denman (James) MS,1,3,1,1,1,,,
+6th Grade,Mild to Moderate,Everett MS,1,,3,,,,,
+6th Grade,Mild to Moderate,Francisco MS,1,2,,,,,,
+6th Grade,Mild to Moderate,Giannini (A.P.) MS,17,4,,1,,,,
+6th Grade,Mild to Moderate,Hoover (Herbert) MS,1,3,1,2,,,,
+6th Grade,Mild to Moderate,King Jr (Dr Martin L) MS,2,1,1,,,,,
+6th Grade,Mild to Moderate,Lick (James) MS,1,,2,1,,,,
+6th Grade,Mild to Moderate,Marina MS,3,2,3,,,,,
+6th Grade,Mild to Moderate,Presidio MS,2,1,4,,,,,
+6th Grade,Mild to Moderate,Roosevelt MS,6,5,2,,,,,
+6th Grade,Mild to Moderate,Visitacion Valley MS,,1,,,,,,
+6th Grade,Mild/Mod Autism Focus,Denman (James) MS,2,1,,,,,,
+6th Grade,Mild/Mod Autism Focus,Everett MS,,1,,,,,,
+6th Grade,Mild/Mod Autism Focus,Giannini (A.P.) MS,5,2,1,,,,,
+6th Grade,Mild/Mod Autism Focus,Marina MS,1,,,1,,,,
+6th Grade,Mild/Mod Autism Focus,Roosevelt MS,1,,,,,,,
+6th Grade,Moderate to Severe,Denman (James) MS,2,,2,1,,,,
+6th Grade,Moderate to Severe,Giannini (A.P.) MS,5,1,,,,,,
+6th Grade,Moderate to Severe,Lawton K-8,1,,,,,,,
+6th Grade,Moderate to Severe,Presidio MS,,3,2,,,,,
+6th Grade,Moderate to Severe,Visitacion Valley MS,,1,,,,,,
+6th Grade,Newcomer,Everett MS,8,3,,,,,,
+6th Grade,Newcomer,Francisco MS,11,5,1,,2,,,
+6th Grade,Newcomer,Marina MS,,,1,,,,,
+6th Grade,Newcomer,Visitacion Valley MS,4,1,1,,,,,
+6th Grade,Severely Autistic,Aptos MS,2,3,,,,,,
+6th Grade,Severely Autistic,Francisco MS,1,,2,,,,,
+6th Grade,Severely Autistic,Giannini (A.P.) MS,9,1,,,,,,
+6th Grade,Spanish Immersion (Spanish),Buena Vista Horace Mann K-8,49,40,19,7,3,6,,
+6th Grade,Spanish Immersion (Spanish),Everett MS,52,35,22,11,1,8,1,
+6th Grade,Spanish Immersion (Spanish),Hoover (Herbert) MS,55,23,16,8,1,2,,
+6th Grade,Spanish Immersion (Spanish),Lick (James) MS,61,40,22,2,4,10,1,
+6th Grade,Spanish Immersion (Spanish),Revere (Paul) K-8,1,2,2,,,,,
+9th Grade,SDC - SOAR,Galileo HS,5,,,,,,,
+9th Grade,SDC - SOAR,Lincoln (Abraham) HS,,1,1,,,,,
+9th Grade,SDC - SOAR,Marshall (Thurgood) HS,1,1,,1,,,,
+9th Grade,SDC - SOAR,Mission HS,,1,,,,,,
+9th Grade,SDC - SOAR,Washington (George) HS,,3,1,,,,,
+9th Grade,GE Newcomer,SF International HS,2,2,3,2,1,2,,
+9th Grade,Gen Ed,Asawa (Ruth) SOTA HS,161,33,7,4,1,,,
+9th Grade,Gen Ed,Balboa HS,288,374,424,314,217,160,1,
+9th Grade,Gen Ed,Burton (Phillip and Sala) HS,128,148,144,82,74,96,1,
+9th Grade,Gen Ed,Galileo HS,364,344,398,464,244,96,,
+9th Grade,Gen Ed,Jordan (June) HS,57,49,59,21,14,40,4,
+9th Grade,Gen Ed,Lincoln (Abraham) HS,984,1577,668,216,51,24,,
+9th Grade,Gen Ed,Lowell HS,841,83,22,5,1,1,,
+9th Grade,Gen Ed,Marshall (Thurgood) HS,21,29,35,26,15,34,11,
+9th Grade,Gen Ed,Mission HS,134,168,153,159,113,125,7,
+9th Grade,Gen Ed,O'Connell (John) HS,85,73,88,55,47,63,2,
+9th Grade,Gen Ed,The Academy - SF @ McAteer HS,50,64,70,44,48,69,7,
+9th Grade,Gen Ed,Wallenberg (Raoul) HS,102,188,313,308,219,147,2,
+9th Grade,Gen Ed,Washington (George) HS,358,826,1043,358,144,49,2,
+9th Grade,Mild to Moderate,Asawa (Ruth) SOTA HS,4,2,1,1,,,,
+9th Grade,Mild to Moderate,Balboa HS,8,3,8,,,,,
+9th Grade,Mild to Moderate,Burton (Phillip and Sala) HS,2,3,2,2,,,,
+9th Grade,Mild to Moderate,Galileo HS,3,,2,2,,,,
+9th Grade,Mild to Moderate,Lincoln (Abraham) HS,4,11,4,,,,,
+9th Grade,Mild to Moderate,Lowell HS,11,3,3,,,,,
+9th Grade,Mild to Moderate,Marshall (Thurgood) HS,1,1,1,,,,,
+9th Grade,Mild to Moderate,Mission HS,8,4,3,,,,,
+9th Grade,Mild to Moderate,O'Connell (John) HS,1,,1,2,,,,
+9th Grade,Mild to Moderate,The Academy - SF @ McAteer HS,1,1,1,,,,,
+9th Grade,Mild to Moderate,Wallenberg (Raoul) HS,3,6,3,,,,,
+9th Grade,Mild to Moderate,Washington (George) HS,4,8,3,1,,,,
+9th Grade,Mild/Mod Autism Focus,Lowell HS,4,2,,,,,,
+9th Grade,Moderate to Severe,Balboa HS,3,1,2,2,,,,
+9th Grade,Moderate to Severe,Burton (Phillip and Sala) HS,3,,2,,,,,
+9th Grade,Moderate to Severe,Galileo HS,,,,,1,,,
+9th Grade,Moderate to Severe,Jordan (June) HS,1,1,,,,,,
+9th Grade,Moderate to Severe,Lincoln (Abraham) HS,3,4,2,,,,,
+9th Grade,Moderate to Severe,Lowell HS,5,3,,1,,,,
+9th Grade,Moderate to Severe,Mission HS,2,1,1,2,,,,
+9th Grade,Moderate to Severe,Washington (George) HS,1,5,3,,,,,
+9th Grade,Newcomer,Galileo HS,15,7,7,1,1,1,,
+9th Grade,Newcomer,Lincoln (Abraham) HS,11,12,12,5,2,,,
+9th Grade,Newcomer,Marshall (Thurgood) HS,12,8,3,3,3,,,
+9th Grade,Newcomer,Mission HS,25,11,4,6,,1,,
+9th Grade,Newcomer,SF International HS,6,17,8,,1,,,
+9th Grade,Severely Autistic,Lincoln (Abraham) HS,1,,5,,,,,
+9th Grade,Severely Autistic,Lowell HS,2,1,,,,,,
+9th Grade,Severely Autistic,Mission HS,2,3,1,,,,,
+9th Grade,Spanish Newcomer,SF International HS,3,1,1,,,,,

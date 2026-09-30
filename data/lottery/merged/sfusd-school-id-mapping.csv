@@ -37,6 +37,7 @@ school_id,school_name
 614,Hillcrest ES
 607,Hoover (Herbert) MS
 537,Huerta (Dolores) ES
+466,Independence HS
 644,Jefferson ES
 757,Jordan (June) HS
 544,Key (Francis Scott) ES
@@ -96,7 +97,6 @@ school_id,school_name
 848,Sutro ES
 513,Taylor (Edward R) ES
 859,Tenderloin Community ES
-832,The Academy - SF @ McAteer HS
 997,Tule Elk Park EES
 862,Ulloa ES
 867,Visitacion Valley ES
@@ -107,9 +107,9 @@ school_id,school_name
 876,West Portal ES
 801,Wo (Yick) ES
 485,Yu (Alice Fong) K-8
+832,The Academy - SF @ McAteer HS
 476,Lee (Edwin and Anita) Newcomer ES
 975,Presidio EES
-466,Independence HS
 844,Alvarado Tk
 845,Argonne Tk
 883,Carmichael Tk
