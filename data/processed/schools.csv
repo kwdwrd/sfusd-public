@@ -1,0 +1,125 @@
+school_id,slug,school_name,cds_code,calpads_school_code,is_charter,school_level,grade_low,grade_high
+404,a-p-giannini-ms,A.P. Giannini MS,38684786059828,6059828,False,MS,6,8
+405,abraham-lincoln-hs,Abraham Lincoln HS,38684783833241,3833241,False,HS,9,12
+413,alamo-es,Alamo ES,38684786040695,6040695,False,ES,K,5
+420,alvarado-es,Alvarado ES,38684786040703,6040703,False,ES,K,5
+431,aptos-ms,Aptos MS,38684786062020,6062020,False,MS,6,8
+435,argonne-es,Argonne ES,38684786040737,6040737,False,ES,K,5
+439,balboa-hs,Balboa HS,38684783830288,3830288,False,HS,9,12
+441,access-sfusd-bay-street,Access SFUSD: Bay Street,,,False,SPED,,
+442,access-sfusd-the-arc,Access SFUSD: The Arc,,,False,SPED,,
+449,bessie-carmichael-k-8,Bessie Carmichael K-8,38684786040752,6040752,False,K8,K,8
+453,bret-harte-es,Bret Harte ES,38684786040760,6040760,False,ES,K,5
+456,bryant-es,Bryant ES,38684786040778,6040778,False,ES,K,5
+466,independence-hs,Independence HS,38684783830197,3830197,False,HS,9,12
+476,edwin-and-anita-lee-newcomer-es,Edwin and Anita Lee Newcomer ES,38684786089569,6089569,False,ES,2,5
+478,clarendon-es,Clarendon ES,38684786040828,6040828,False,ES,K,5
+479,claire-lilienthal-k-8,Claire Lilienthal K-8,38684786102479,6102479,False,K8,K,8
+481,cleveland-es,Cleveland ES,38684786040836,6040836,False,ES,K,5
+485,alice-fong-yu-k-8,Alice Fong Yu K-8,38684786113245,6113245,False,K8,K,8
+488,commodore-sloat-es,Commodore Sloat ES,38684786040851,6040851,False,ES,K,5
+490,gordon-j-lau-es,Gordon J Lau ES,38684786040877,6040877,False,ES,K,5
+493,sf-community-k-8,SF Community K-8,38684786093488,6093488,False,K8,K,8
+497,daniel-webster-es,Daniel Webster ES,38684786040893,6040893,False,ES,K,5
+505,harvey-milk-civil-right-es,Harvey Milk Civil Right ES,38684786040919,6040919,False,ES,K,5
+507,dr-charles-drew-college-preparatory-academy-es,Dr Charles Drew College Preparatory Academy ES,38684786104673,6104673,False,ES,K,5
+509,chinese-immersion-school-at-deavila-es,Chinese Immersion School at DeAvila ES,38684780120386,0120386,False,ES,K,5
+513,edward-r-taylor-es,Edward R Taylor ES,38684786040943,6040943,False,ES,K,5
+521,el-dorado-es,El Dorado ES,38684786040950,6040950,False,ES,K,5
+525,dr-william-l-cobb-es,Dr William L Cobb ES,38684786040968,6040968,False,ES,K,5
+529,everett-ms,Everett MS,38684786062038,6062038,False,MS,6,8
+537,dolores-huerta-es,Dolores Huerta ES,38684786040984,6040984,False,ES,K,5
+539,dianne-feinstein-es,Dianne Feinstein ES,38684780111427,0111427,False,ES,K,5
+544,francis-scott-key-es,Francis Scott Key ES,38684786041008,6041008,False,ES,K,5
+546,francisco-ms,Francisco MS,38684786059844,6059844,False,MS,6,8
+549,frank-mccoppin-es,Frank McCoppin ES,38684786041016,6041016,False,ES,K,5
+559,galileo-hs,Galileo HS,38684783831765,3831765,False,HS,9,12
+562,garfield-es,Garfield ES,38684786041040,6041040,False,ES,K,5
+569,george-peabody-es,George Peabody ES,38684786041065,6041065,False,ES,K,5
+571,george-washington-hs,George Washington HS,38684783839081,3839081,False,HS,9,12
+575,glen-park-es,Glen Park ES,38684786041073,6041073,False,ES,K,5
+589,grattan-es,Grattan ES,38684786041115,6041115,False,ES,K,5
+593,guadalupe-es,Guadalupe ES,38684786041123,6041123,False,ES,K,5
+603,cesar-chavez-es,Cesar Chavez ES,38684786041149,6041149,False,ES,K,5
+607,herbert-hoover-ms,Herbert Hoover MS,38684786059851,6059851,False,MS,6,8
+614,hillcrest-es,Hillcrest ES,38684786041156,6041156,False,ES,K,5
+618,buena-vista-horace-mann-k-8,Buena Vista Horace Mann K-8,38684786062046,6062046,False,K8,K,8
+621,sf-international-hs,SF International HS,38684780119875,0119875,False,HS,9,12
+624,int-l-studies-acad,Int'L Studies Acad,38684783830353,3830353,False,HS,9,12
+625,dr-george-w-carver-es,Dr George W Carver ES,38684786093496,6093496,False,ES,K,5
+632,james-denman-ms,James Denman MS,38684786059869,6059869,False,MS,6,8
+634,james-lick-ms,James Lick MS,38684786062053,6062053,False,MS,6,8
+638,jean-parker-es,Jean Parker ES,38684786041206,6041206,False,ES,K,5
+644,jefferson-es,Jefferson ES,38684786041230,6041230,False,ES,K,5
+650,john-muir-es,John Muir ES,38684786041255,6041255,False,ES,K,5
+651,john-o-connell-hs,John O'Connell HS,38684783834769,3834769,False,HS,9,12
+656,junipero-serra-es,Junipero Serra ES,38684786041289,6041289,False,ES,K,5
+664,lafayette-es,Lafayette ES,38684786041305,6041305,False,ES,K,5
+670,lakeshore-es,Lakeshore ES,38684786041321,6041321,False,ES,K,5
+676,lawton-k-8,Lawton K-8,38684786041339,6041339,False,K8,K,8
+680,leonard-r-flynn-es,Leonard R Flynn ES,38684786041347,6041347,False,ES,K,5
+691,longfellow-es,Longfellow ES,38684786041362,6041362,False,ES,K,5
+697,lowell-hs,Lowell HS,38684783833407,3833407,False,HS,9,12
+708,marina-ms,Marina MS,38684786062061,6062061,False,MS,6,8
+710,king-jr-dr-martin-l-ms,King Jr (Dr Martin L) MS,38684786059885,6059885,False,MS,6,8
+714,marshall-es,Marshall ES,38684786041412,6041412,False,ES,K,5
+718,mckinley-es,McKinley ES,38684786041420,6041420,False,ES,K,5
+722,miraloma-es,Miraloma ES,38684786041438,6041438,False,ES,K,5
+723,george-r-moscone-es,George R Moscone ES,38684786099154,6099154,False,ES,K,5
+724,mission-education-center-es,Mission Education Center ES,38684786089585,6089585,False,ES,K,5
+725,mission-hs,Mission HS,38684783834082,3834082,False,HS,9,12
+729,monroe-es,Monroe ES,38684786041446,6041446,False,ES,K,5
+735,new-traditions-es,New Traditions ES,38684786097919,6097919,False,ES,K,5
+746,jose-ortega-es,Jose Ortega ES,38684786041271,6041271,False,ES,K,5
+750,sunset-es,Sunset ES,38684786113997,6113997,False,ES,K,5
+757,june-jordan-hs,June Jordan HS,38684780102103,0102103,False,HS,9,12
+760,paul-revere-k-8,Paul Revere K-8,38684786041487,6041487,False,K8,K,8
+764,phillip-and-sala-burton-hs,Phillip and Sala Burton HS,38684783830254,3830254,False,HS,9,12
+778,presidio-ms,Presidio MS,38684786062079,6062079,False,MS,6,8
+782,robert-louis-stevenson-es,Robert Louis Stevenson ES,38684786041529,6041529,False,ES,K,5
+785,raoul-wallenberg-hs,Raoul Wallenberg HS,38684783830205,3830205,False,HS,9,12
+786,rosa-parks-es,Rosa Parks ES,38684786041503,6041503,False,ES,K,5
+790,redding-es,Redding ES,38684786041511,6041511,False,ES,K,5
+796,rooftop-k-8,Rooftop K-8,38684786089775,6089775,False,K8,K,8
+797,roosevelt-ms,Roosevelt MS,38684786059901,6059901,False,MS,6,8
+801,yick-wo-es,Yick Wo ES,38684786041131,6041131,False,ES,K,5
+814,sf-public-montessori-es,SF Public Montessori ES,38684780123117,0123117,False,ES,K,5
+815,ruth-asawa-sota-hs,Ruth Asawa SOTA HS,38684783830387,3830387,False,HS,9,12
+816,sanchez-es,Sanchez ES,38684786041545,6041545,False,ES,K,5
+820,sheridan-es,Sheridan ES,38684786041560,6041560,False,ES,K,5
+823,sherman-es,Sherman ES,38684786041578,6041578,False,ES,K,5
+830,malcolm-x-academy-es,Malcolm X Academy ES,38684786041586,6041586,False,ES,K,5
+832,the-academy-sf-mcateer-hs,The Academy - SF @ McAteer HS,38684780119958,0119958,False,HS,9,12
+834,spring-valley-science-es,Spring Valley Science ES,38684786041594,6041594,False,ES,K,5
+838,thomas-starr-king-es,Thomas Starr King ES,38684786041602,6041602,False,ES,K,5
+842,sunnyside-es,Sunnyside ES,38684786041610,6041610,False,ES,K,5
+848,sutro-es,Sutro ES,38684786041644,6041644,False,ES,K,5
+853,thurgood-marshall-hs,Thurgood Marshall HS,38684783830403,3830403,False,HS,9,12
+858,brown-jr-willie-ms,Brown Jr. (Willie) MS,38684780132241,0132241,False,MS,6,8
+859,tenderloin-community-es,Tenderloin Community ES,38684786115901,6115901,False,ES,K,5
+862,ulloa-es,Ulloa ES,38684786041685,6041685,False,ES,K,5
+867,visitacion-valley-es,Visitacion Valley ES,38684786041701,6041701,False,ES,K,5
+868,visitacion-valley-ms,Visitacion Valley MS,38684786059919,6059919,False,MS,6,8
+872,john-yehall-chin-es,John Yehall Chin ES,38684786113252,6113252,False,ES,K,5
+876,west-portal-es,West Portal ES,38684786041727,6041727,False,ES,K,5
+1000,city-arts-leadership-academy,City Arts & Leadership Academy,38684780107300,0107300,True,HS,9,12
+1001,creative-arts-charter,Creative Arts Charter,38684786112601,6112601,True,K8,K,8
+1002,five-keys-charter-sf-sheriff-s,Five Keys Charter (SF Sheriff's),38684780101774,0101774,True,HS,10,12
+1003,five-keys-independence-hs-sf-sheriff-s,Five Keys Independence HS (SF Sheriff's),38684780118141,0118141,True,HS,10,12
+1004,gateway-high,Gateway High,38684783830437,3830437,True,HS,9,12
+1005,gateway-middle,Gateway Middle,38684780123265,0123265,True,MS,6,8
+1006,kipp-bayview-academy,KIPP Bayview Academy,38684780101337,0101337,True,MS,5,8
+1007,kipp-bayview-elementary,KIPP Bayview Elementary,38771310137307,0137307,True,ES,K,4
+1008,kipp-san-francisco-bay-academy,KIPP San Francisco Bay Academy,38684780101352,0101352,True,MS,5,8
+1009,kipp-san-francisco-college-preparatory,KIPP San Francisco College Preparatory,38684780127530,0127530,True,HS,9,12
+1010,life-learning-academy-charter,Life Learning Academy Charter,38684783830429,3830429,True,HS,9,12
+1011,mission-preparatory,Mission Preparatory,38684780123505,0123505,True,K8,K,8
+1012,the-new-school-of-san-francisco,The New School of San Francisco,38769270132183,0132183,True,K8,K,8
+1013,thomas-edison-charter-academy,Thomas Edison Charter Academy,38684786040935,6040935,True,K8,K,8
+1014,theresa-s-mahler-children-center,Theresa S. Mahler Children Center,38684780117572,0117572,False,EES,P,P
+1015,john-mclaren-children-centers,John McLaren Children Centers,38684780117531,0117531,False,EES,P,P
+1016,noriega-children-center,Noriega Children Center,38684780117473,0117473,False,EES,P,P
+1017,presidio-early-ed,Presidio Early Ed.,38684780117499,0117499,False,EES,P,P
+1018,commodore-stockton-children-center,Commodore Stockton Children Center,38684780117465,0117465,False,EES,P,P
+1019,tule-elk-park-children-center,Tule Elk Park Children Center,38684780117523,0117523,False,EES,P,P
+1020,raphael-weill-children-center,Raphael Weill Children Center,38684780117515,0117515,False,EES,P,P
