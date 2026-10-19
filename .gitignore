@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Large raw downloads. These are public bulk files from CDE and other agencies,
+# re-downloadable from the source, and far too big for git (several exceed
+# GitHub's 100MB per-file limit). Analyses read them locally and commit the
+# small derived extracts instead.
+data/absenteeism/raw/
+data/sbac/raw/
+data/uc-prep-a-g/
+data/uc-acceptance/
+data/ccld-reports/
+data/preschools/data/ccld-reports/
+data/calpads/raw/
+# Statewide multi-year CDE enrollment files, ~70-100MB each. Note that the
+# two single-year files the lottery-tk-promotion analysis needs
+# (cdenroll2324-v2.txt, cdenroll2425.txt) ARE tracked.
+data/enrollment/raw/enr*.txt
+
+# Scrape caches and one 174MB assessor extract
+analyses/contracts/cache/
+analyses/private-school-taxes/Assessor_Historical_Secured_Property_Tax_Rolls_*.csv
+
+# Backups
+*.bak

@@ -1,0 +1,31 @@
+check,passed,detail
+Model A mean m,True,mean m_hat = 0.5008 (true 0.5)
+Model A mean sigma,True,mean sigma_hat = 0.3005 (true 0.3)
+Model A coverage m,True,95% CI coverage 0.935
+Model A coverage sigma,True,95% CI coverage 0.945
+Model B (ce) identified,True,20/20 fits identified
+Model B (ce) r,True,median r_hat = 0.997 (true 1.0); IQR 0.960-1.064
+Model B (ce) mu,True,median mu_hat = 0.491 (true 0.5)
+Model B (ce) coverage r,True,95% CI coverage 0.90 over 20 seeds
+Model B (fechner) identified,True,20/20 fits identified
+Model B (fechner) r,True,median r_hat = 0.992 (true 1.0); IQR 0.968-1.026
+Model B (fechner) mu,True,median mu_hat = 1.872 (true 2.0)
+Model B (fechner) coverage r,True,95% CI coverage 0.90 over 20 seeds
+Model B (contextual) identified,True,20/20 fits identified
+Model B (contextual) r,True,median r_hat = 1.016 (true 1.0); IQR 0.949-1.057
+Model B (contextual) mu,True,median mu_hat = 0.200 (true 0.2)
+Model B (contextual) coverage r,True,95% CI coverage 0.90 over 20 seeds
+Cross-fit runs,True,Model B r_hat = 0.939 vs. true mean/median 1.0 (mu_hat = 0.123)
+Model A single design -> quantile only,True,48% of people have r below r* = 1.000; m and sigma are not identified
+Model B single design -> not identified,True,"single design: (r, mu) lie on a ridge; fix mu exogenously to recover r"
+"Model B single design, mu fixed -> r estimable",True,r_hat = 1.079 (r* = 1; identified only because mu is fixed)
+s <= min(L) -> +inf,True,lottery weakly dominates
+s >= max(L) -> -inf,True,sure amount dominates
+Model A drops dominance rows,True,dropped 100
+Risk-neutral point,True,s = E[L] gives r* = 0
+CRRA continuous at rho = 1,True,CE over rho in 1 +/- 1e-4: 4.80e-05 spread
+CRRA u/u^-1 round trip near 1,True,u^-1(u(2)) = 2
+CRRA rejects zero outcomes,True,CRRA requires strictly positive outcomes; pass background wealth or use CARA
+"CARA large stakes, large r",True,CE = 1000.1386
+CRRA large stakes,True,CE = 1414142.9
+CE decreasing in r,True,"strictly decreasing on [-5, 5]"

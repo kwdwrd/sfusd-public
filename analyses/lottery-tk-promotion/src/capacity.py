@@ -2,14 +2,9 @@
 Kindergarten seat-capacity proxy, built from CDE school-level enrollment
 files, and admission-probability weighting for the distaste calculation.
 
-Why this exists: src/distaste.py's inclusive-value construction implicitly
-assumed choice probability = attendance probability (a family "gets"
-whichever school in its choice set it prefers, with certainty). That's the
-same probability-unweighted simplification flagged in main.tex's "cost of
-application" section, just reintroduced at district scale -- concretely, it
-produced a citywide inclusive value (1.67) higher than even the single best
-real school's theta (-1.32 for Clarendon ES), which isn't a real attainable
-outcome.
+Why this exists: lottery applications reveal how much families value
+*applying* to a school, not their odds of *attending* it. Valuing lottery
+participation therefore needs each school's admission probability.
 
 This module estimates a per-school admission probability P_k = min(1,
 capacity_k / demand_k), where capacity_k is a proxy for available K seats

@@ -19,6 +19,13 @@ PROMOTION_PATH = './Promotes from TK to K - Sheet1.csv'
 
 TREATMENT_YEAR = '25-26'
 
+# Main estimation window: the four pre-treatment, post-COVID application
+# cycles. These are the years families deciding on promotion (early 2025)
+# had seen, they exclude the post-decision 26-27 cycle, and their request
+# volume matches the CDE enrollment years used for seat capacity
+# (src/capacity.py) -- the 2015-18 cycles saw over twice today's requests.
+ESTIMATION_YEARS = ['21-22', '22-23', '23-24', '24-25']
+
 
 def load_promotion(path=PROMOTION_PATH):
     """Load the TK->K automatic-promotion roster: eligible/accepted counts by school."""
@@ -51,10 +58,14 @@ def load_kindergarten_requests(
         request volume as if TK opt-out did not exist, which matters because the
         opt-out mechanically suppresses 25-26 demand at exactly the schools whose
         quality we're trying to estimate.
+      - num_first_choice: requests ranking the school first (observed)
       - ay_num_requests: total citywide kindergarten lottery requests that year
         (from families' #1-ranked choice only, i.e. actual lottery participants;
         promotion-accepting families never enter this count since they never rank
         anything)
+      - ay_num_applicants_total: ay_num_requests plus (in the 25-26 treatment
+        year) every family that accepted promotion -- the but-for applicant
+        count matching num_requests_total
       - promotion_eligible / promotion_accepted: from the roster, NaN if the
         school had no TK program / automatic-promotion offer that year
       - is_treatment: True for promotion-eligible schools in the 25-26 cycle
@@ -83,19 +94,36 @@ def load_kindergarten_requests(
         .rename(columns={'num_requests': 'ay_num_requests'})
     )
 
+    first_choice_df = (
+        lottery_df[lottery_df.choice_max == 1][['ay', 'school_id', 'num_requests']]
+        .groupby(['ay', 'school_id'], as_index=False).sum()
+        .rename(columns={'num_requests': 'num_first_choice'})
+    )
+
     lottery_df = (
         lottery_df[lambda _df: _df.choice_min > 0][['ay', 'school_id', 'num_requests']]
         .groupby(['ay', 'school_id'], as_index=False).sum()
+        .merge(first_choice_df, on=['ay', 'school_id'], how='left')
+        .fillna({'num_first_choice': 0})
         .merge(school_df, on='school_id')
     )
     lottery_df = lottery_df[
         ~lottery_df.school_id.isin(lottery_df[lottery_df.num_requests == 0].school_id.unique())
     ].merge(unique_student_df, on='ay')
 
-    lottery_df = lottery_df.merge(promotion_df, on='school_id', how='left').assign(
+    # The roster has one row per TK program, and two buildings run two
+    # (DeAvila's Chinese-immersion strands, Huerta's Spanish strands); sum to
+    # the building before merging so the panel stays one row per school-year.
+    promotion_by_school = promotion_df.groupby('school_id', as_index=False)[
+        ['promotion_eligible', 'promotion_accepted']
+    ].sum(min_count=1)
+    lottery_df = lottery_df.merge(promotion_by_school, on='school_id', how='left').assign(
         is_treatment=lambda _df: (_df.ay == TREATMENT_YEAR) & (~pd.isnull(_df.promotion_accepted)),
         num_requests_total=lambda _df: _df.num_requests + np.where(
             _df.ay == TREATMENT_YEAR, _df.promotion_accepted.fillna(0), 0
+        ),
+        ay_num_applicants_total=lambda _df: _df.ay_num_requests + np.where(
+            _df.ay == TREATMENT_YEAR, promotion_df.promotion_accepted.sum(), 0
         ),
     )
 

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <!-- script src="https://cdn.jsdelivr.net/npm/arquero@latest"></script -->
+  <script>
+    var school_names;
+    var rpes_K;
+  </script>
+  <script type="module">
+
+// import * as aq from "https://cdn.jsdelivr.net/npm/arquero@latest";
+// aq = await import( 'https://cdn.jsdelivr.net/npm/arquero@latest' );
+import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+var lottery_requests, program_codes;
+var awaits = [
+  { 'src': '/assets/data/sfusd-lottery-merged.csv', 'complete': false, 'then': ( data ) => { lottery_requests = data; } },
+  { 'src': '/assets/data/sfusd-program-codes.csv', 'complete': false, 'then': ( data ) => { program_codes = data; } },
+  { 'src': '/assets/data/sfusd-school-names.csv', 'complete': false, 'then': ( data ) => { school_names = data; } }
+]
+
+var validate_completion = () => {
+  for ( const d of awaits )
+  {
+    if ( !d['complete'] )
+    {
+      return;
+    }
+  }
+
+  load_data();
+};
+
+var load_data = () => {
+  let rpes = school_names.filter( R => R.school_name == 'Parks (Rosa) ES' )[0];
+  rpes_K = lottery_requests.filter( R => R.school_id == rpes.school_id && R.grade == 'K' );
+  let grp = d3.group( rpes_K, R => R.program_code, R => R.application_year );
+  let grp_sum = Array.from( grp, ( [ pc, ay ] ) => ( {
+    'pc': pc,
+    'vals': Array.from( ay, ( [ year, reqs ] ) => (
+       { 'ay': parseInt( year ), 'reqs': d3.sum( reqs, R => R.requests ) }
+    ) )
+  } ) )
+  // rpes_K = d3.rollups( rpes_K, Rs => d3.sum( Rs, R => R.requests ), R => R.program_code, R => R.application_year );
+
+  var x = d3.scaleLinear().domain( d3.extent( rpes_K, R => parseInt( R.application_year ) ) ).range([0, 480]);
+  var y = d3.scaleLinear().domain( [ 0, 200 ] ).range([360, 0]);
+
+  console.log( x )
+  console.log( x( 2022 ) )
+  console.log( x( 2024 ) )
+
+  // define the line
+  var svg = d3
+    .select( '#plot_div' )
+    .append( 'svg' )
+    .attr( 'width', 480 )
+    .attr( 'height', 360 )
+    .style( 'background-color', 'yellow' );
+    // .append( 'g' )
+    // .attr( 'transform', 'translate( 0, 0 )' )
+    // .append( 'g' )
+    // .attr( 'transform', 'translate( 0, 360 )' )
+    // .append( 'g' )
+    // .attr( 'transform', 'translate( 480, 0 )' );
+  var valueline = d3.line()
+    .x( R => x( R.ay ) )
+    .y( R => y( R.reqs ) );
+    // .x(function(d) { return x( 1 ); } )
+    // .y( d => y( 1 ) );
+
+  // Scale the range of the data
+  // x.domain( d3.extent(rpes_K, R => R.application_year ) );//function(d) { return d.date; }));
+  // y.domain( [ 0, d3.max(rpes_K, R => R.requests ) ] );//function(d) { return d.averagescale; })]);
+
+  // // Add the valueline path.
+  svg
+    .selectAll( '.line' )
+    .data(grp_sum)
+    .enter()
+    .append( 'path' )
+    .attr("class", "line")
+    .attr('d', R => valueline( R.vals ) )
+    .attr( 'fill', 'none' )
+    .attr( 'stroke', 'blue' )
+    .attr( 'stroke-width', 2 );
+
+  // // Add the X Axis
+  // svg.append("g")
+  //     .attr("transform", "translate(0," + height + ")")
+  //     .call(d3.axisBottom(x));
+
+  // // Add the Y Axis
+  // svg.append("g")
+  //     .call(d3.axisLeft(y));
+};
+
+awaits.forEach( ( d ) => {
+  d3.csv( d['src'] ).then( function ( data ) {
+    d['then']( data );
+    d['complete'] = true;
+    validate_completion();
+  } );
+} );
+  </script>
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+       data page
+<br />
+ {{ content }}
+      </div>
+      <div id="plot_div"></div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
